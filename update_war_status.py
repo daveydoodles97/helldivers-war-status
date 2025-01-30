@@ -40,22 +40,28 @@ def fetch_latest_api_data(url):
 
 
 def update_war_status():
-    """Fetch data from multiple APIs, merge, and save to JSON file."""
-    training_manual_data = fetch_api_data(TRAINING_MANUAL_API)
-    hellhub_data = {key: fetch_api_data(url) for key, url in HELLHUB_ENDPOINTS.items()}
-    additional_data = {key: fetch_api_data(url) for key, url in ADDITIONAL_APIS.items()}
+    """Fetch only the latest data and update JSON if necessary."""
+    previous_data = load_previous_data()
 
-    combined_data = {
+    new_training_manual_data = fetch_latest_api_data(TRAINING_MANUAL_API)
+    new_hellhub_data = {key: fetch_latest_api_data(url) for key, url in HELLHUB_ENDPOINTS.items()}
+    new_additional_data = {key: fetch_latest_api_data(url) for key, url in ADDITIONAL_APIS.items()}
+
+    new_combined_data = {
         "last_updated": datetime.datetime.utcnow().isoformat() + " UTC",
-        "TrainingManual": training_manual_data,
-        "HellHub": hellhub_data,
-        "OrdersAssignmentsReports": additional_data
+        "TrainingManual": new_training_manual_data,
+        "HellHub": new_hellhub_data,
+        "OrdersAssignmentsReports": new_additional_data
     }
 
-    with open(JSON_FILE, "w") as file:
-        json.dump(combined_data, file, indent=4)
-    
-    print("✅ War status updated!")
+    # Update only if new data differs from previous data
+    if previous_data != new_combined_data:
+        with open(JSON_FILE, "w") as file:
+            json.dump(new_combined_data, file, indent=4)
+        print("✅ War status updated with the latest data!")
+    else:
+        print("🔄 No new updates, keeping previous data.")
+
 
 # Run the update process
 update_war_status()
