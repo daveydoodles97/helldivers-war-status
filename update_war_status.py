@@ -1,6 +1,7 @@
 import requests
 import json
 import datetime
+import os
 
 # API URLs
 TRAINING_MANUAL_API = "https://helldiverstrainingmanual.com/api/v1/war/status"
