@@ -24,16 +24,20 @@ HELLHUB_ENDPOINTS = {
 
 JSON_FILE = "war_status.json"
 
-def fetch_api_data(url):
-    """Fetch data from an API and return the JSON response."""
+def fetch_latest_api_data(url):
+    """Fetch only the latest data from an API without paginating."""
     try:
         response = requests.get(url)
         if response.status_code == 200:
-            return response.json()
+            data = response.json()
+            if isinstance(data, list) and len(data) > 0:
+                return data[0]  # Return only the latest entry
+            return data  # If it's not a list, return as is
         else:
             return {"error": f"Failed to fetch data, status: {response.status_code}"}
     except Exception as e:
         return {"error": f"API request failed: {str(e)}"}
+
 
 def update_war_status():
     """Fetch data from multiple APIs, merge, and save to JSON file."""
