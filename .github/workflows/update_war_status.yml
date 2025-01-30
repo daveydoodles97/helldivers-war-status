@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # Disable default token
+          persist-credentials: false
 
       - name: Set Up Python
         uses: actions/setup-python@v4
@@ -28,7 +28,7 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}  # Use the secret token
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
