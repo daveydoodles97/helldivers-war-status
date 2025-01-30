@@ -38,7 +38,16 @@ def fetch_latest_api_data(url):
     except Exception as e:
         return {"error": f"API request failed: {str(e)}"}
 
-
+def load_previous_data():
+    """Load previously stored data from JSON file."""
+    if os.path.exists(JSON_FILE):
+        with open(JSON_FILE, "r") as file:
+            try:
+                return json.load(file)
+            except json.JSONDecodeError:
+                return {}  # Return empty if file is corrupted
+    return {}
+    
 def update_war_status():
     """Fetch only the latest data and update JSON if necessary."""
     previous_data = load_previous_data()
