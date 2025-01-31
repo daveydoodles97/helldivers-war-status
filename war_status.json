@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-01-31T22:53:48.707122 UTC",
+    "last_updated": "2025-01-31T23:00:43.037180 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,7 +80,7 @@
                 "progress": [
                     0
                 ],
-                "expiresIn": 227750,
+                "expiresIn": 227240,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -122,10 +122,10 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 2246,
-                "health": 278998,
+                "players": 2162,
+                "health": 279363,
                 "maxHealth": 1000000,
-                "percentage": 72.1002,
+                "percentage": 72.0637,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -137,10 +137,10 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 49209,
-                "health": 874936,
+                "players": 48041,
+                "health": 870425,
                 "maxHealth": 1000000,
-                "percentage": 12.5064,
+                "percentage": 12.957499999999996,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -149,10 +149,40 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 232,
+                "name": "Sirius",
+                "faction": "Illuminates",
+                "players": 925,
+                "health": 99993,
+                "maxHealth": 100000,
+                "percentage": 0.007000000000005002,
+                "defense": false,
+                "biome": {
+                    "slug": "moon",
+                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+                },
+                "expireDateTime": 1738406410.126
+            },
+            {
+                "planetIndex": 90,
+                "name": "Valmox",
+                "faction": "Illuminates",
+                "players": 1630,
+                "health": 99998,
+                "maxHealth": 100000,
+                "percentage": 0.001999999999995339,
+                "defense": false,
+                "biome": {
+                    "slug": "crimsonmoor",
+                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+                },
+                "expireDateTime": 1738406430.126
+            },
+            {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 237,
+                "players": 236,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -167,7 +197,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 1057,
+                "players": 1003,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -197,7 +227,7 @@
                 "planetIndex": 168,
                 "name": "Erata Prime",
                 "faction": "Terminids",
-                "players": 6677,
+                "players": 6365,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -212,7 +242,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 668,
+                "players": 651,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -227,7 +257,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 425,
+                "players": 421,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +272,7 @@
                 "planetIndex": 187,
                 "name": "Khandark",
                 "faction": "Illuminates",
-                "players": 438,
+                "players": 620,
                 "health": 100000,
                 "maxHealth": 100000,
                 "percentage": 0,
@@ -251,13 +281,13 @@
                     "slug": "winter",
                     "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
                 },
-                "expireDateTime": 1738406393.702
+                "expireDateTime": 1738406400.126
             },
             {
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 408,
+                "players": 398,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +302,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 257,
+                "players": 250,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +317,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 167,
+                "players": 159,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +332,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1044,
+                "players": 1020,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +347,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 460,
+                "players": 427,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +362,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 2329,
+                "players": 2187,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +377,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 1033,
+                "players": 973,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -359,40 +389,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 232,
-                "name": "Sirius",
-                "faction": "Illuminates",
-                "players": 634,
-                "health": 100000,
-                "maxHealth": 100000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": 1738406403.702
-            },
-            {
-                "planetIndex": 90,
-                "name": "Valmox",
-                "faction": "Illuminates",
-                "players": 977,
-                "health": 100000,
-                "maxHealth": 100000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "crimsonmoor",
-                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-                },
-                "expireDateTime": 1738406423.702
-            },
-            {
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 293,
+                "players": 295,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -407,7 +407,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 213,
+                "players": 202,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -422,7 +422,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 71,
+                "players": 66,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2453,7 +2453,7 @@
                 "progress": [
                     0
                 ],
-                "expiresIn": 227670,
+                "expiresIn": 227250,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
