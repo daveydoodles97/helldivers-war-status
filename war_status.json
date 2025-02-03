@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-03T16:56:07.664329 UTC",
+    "last_updated": "2025-02-03T17:28:56.394898 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,46 +74,88 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 255145791,
+                "progress": [
+                    1
+                ],
+                "expiresIn": 344118,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Hold Chort Bay until the designated time to allow the SEAF forces deployed there to withdraw.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                160
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 1
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 13793,
-                "health": 2098105,
+                "players": 20578,
+                "health": 2090116,
                 "maxHealth": 2100000,
-                "percentage": 0.09023809523809234,
+                "percentage": 0.47066666666665924,
                 "defense": true,
                 "biome": {
                     "slug": "icemoss",
                     "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
                 },
-                "expireDateTime": 1738771210.708
+                "expireDateTime": 1738771213.92
             },
             {
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 4735,
-                "health": 79184,
+                "players": 4278,
+                "health": 74984,
                 "maxHealth": 100000,
-                "percentage": 20.816000000000003,
+                "percentage": 25.016000000000005,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
                     "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
                 },
-                "expireDateTime": 1738631730.708
+                "expireDateTime": 1738631733.92
             },
             {
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 12108,
-                "health": 962970,
+                "players": 8649,
+                "health": 967581,
                 "maxHealth": 1000000,
-                "percentage": 3.7029999999999887,
+                "percentage": 3.241900000000001,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -125,7 +167,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 659,
+                "players": 530,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -140,7 +182,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 666,
+                "players": 622,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -155,7 +197,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 448,
+                "players": 469,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -170,7 +212,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 57,
+                "players": 41,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +227,7 @@
                 "planetIndex": 168,
                 "name": "Erata Prime",
                 "faction": "Terminids",
-                "players": 5646,
+                "players": 5178,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +242,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 350,
+                "players": 371,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +257,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 291,
+                "players": 267,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +272,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 454,
+                "players": 361,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +287,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 261,
+                "players": 245,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +302,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 761,
+                "players": 717,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +317,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 213,
+                "players": 245,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +332,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 1654,
+                "players": 1585,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +347,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 670,
+                "players": 613,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +362,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 286,
+                "players": 224,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +377,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 153,
+                "players": 158,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +392,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 53,
+                "players": 64,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2410,6 +2452,48 @@
                 "message": "<i=3>INTEL REPORT</i>\n\nThrough careful analysis of available astronomical data, the Center of Science has successfully modeled the recent fluctuations in spacetime.\n\nExperts have long posited the existence of <i=1>Dark Energy,</i> a repulsive force permeating the universe and accelerating its expansion.</i> By simulating sudden localized Dark Energy loss, the Center has been able to model spacetime fluctuations.\n\nThe Center is currently exploring how this model maps onto recent Illuminate activity."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 255145791,
+                "progress": [
+                    1
+                ],
+                "expiresIn": 343988,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Hold Chort Bay until the designated time to allow the SEAF forces deployed there to withdraw.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                160
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 1
+                }
+            }
+        ]
     }
 }
