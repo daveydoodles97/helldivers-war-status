@@ -1,76 +1,66 @@
 {
-    "last_updated": "2025-02-04T08:54:14.592588 UTC",
+    "last_updated": "2025-02-04T09:28:46.341640 UTC",
     "SuperEarth": {
         "WarNews": [
             {
                 "id": 2797,
                 "published": 2414563,
                 "type": 0,
-                "tagIds": [],
-                "message": "Terminid spores have engulfed Heeth and Angel's Venture, spawning hordes of Terminids that overwhelmed our colonial militias. Clearly, the bug hive instinct oriented their mindless expansion towards dishonoring the memory of those who fought to free these planets.\n\nYour fellow Helldivers paid for these lands with their lives. We cannot lose them now. Hold the planets until SEAF reinforcements arrive."
+                "tagIds": []
             },
             {
                 "id": 2798,
                 "published": 2499000,
                 "type": 0,
-                "tagIds": [],
-                "message": "The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset."
+                "tagIds": []
             },
             {
                 "id": 2799,
                 "published": 2507100,
                 "type": 0,
-                "tagIds": [],
-                "message": "NEW MAJOR ORDER\nTien Kwan is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate Tien Kwan, before it's too late."
+                "tagIds": []
             },
             {
                 "id": 2800,
                 "published": 2531100,
                 "type": 0,
-                "tagIds": [],
-                "message": "AUTOMATON COUNTERATTACK\nIntercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated."
+                "tagIds": []
             },
             {
                 "id": 2801,
                 "published": 2598240,
                 "type": 0,
-                "tagIds": [],
-                "message": "Well done, Helldivers. Tien Kwan has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact.\n\nThe EXO-45 PATRIOT EXOSUIT is now available for requisition."
+                "tagIds": []
             },
             {
                 "id": 2802,
                 "published": 2705219,
                 "type": 0,
-                "tagIds": [],
-                "message": "Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. \n\nHowever, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens.\n\nThe Terminid Control System must be activated\u2014at any cost."
+                "tagIds": []
             },
             {
                 "id": 2803,
                 "published": 2705235,
                 "type": 0,
-                "tagIds": [],
-                "message": "NEW MAJOR ORDER\nActivate Terminid Control System"
+                "tagIds": []
             },
             {
                 "id": 2804,
                 "published": 2822793,
                 "type": 0,
-                "tagIds": [],
-                "message": "FENRIR III SECURED\nThe Terminid Control System is now fully activated on Fenrir III."
+                "tagIds": []
             },
             {
                 "id": 2805,
                 "published": 2899259,
                 "type": 0,
-                "tagIds": [],
-                "message": "TURING SECURED\nThe Terminid Control System is now fully activated on Turing."
+                "tagIds": []
             },
             {
                 "id": 2806,
                 "published": 2899330,
                 "type": 0,
-                "tagIds": [],
-                "message": "The TCS has been fully activated on half of the Barrier Planets."
+                "tagIds": []
             }
         ],
         "NewsMessages": null,
@@ -80,7 +70,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 288618,
+                "expiresIn": 286558,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -122,64 +112,52 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 16125,
-                "health": 1321431,
+                "players": 15352,
+                "health": 1293676,
                 "maxHealth": 2100000,
-                "percentage": 37.074714285714286,
+                "percentage": 38.39638095238095,
                 "defense": true,
                 "biome": {
                     "slug": "icemoss",
                     "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
                 },
-                "expireDateTime": 1738809275.014
+                "expireDateTime": 1738811364.692
             },
             {
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 899,
-                "health": 323945,
+                "players": 841,
+                "health": 322652,
                 "maxHealth": 350000,
-                "percentage": 7.444285714285712,
+                "percentage": 7.813714285714283,
                 "defense": true,
                 "biome": {
                     "slug": "winter",
                     "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
                 },
-                "expireDateTime": 1738701725.014
-            },
-            {
-                "planetIndex": 134,
-                "name": "Acubens Prime",
-                "faction": "Illuminates",
-                "players": 1804,
-                "health": 69743,
-                "maxHealth": 100000,
-                "percentage": 30.257000000000005,
-                "defense": false,
-                "biome": null,
-                "expireDateTime": 1738660875.014
+                "expireDateTime": 1738701724.692
             },
             {
                 "planetIndex": 190,
                 "name": "Kraz",
                 "faction": "Illuminates",
-                "players": 745,
-                "health": 88354,
+                "players": 727,
+                "health": 87262,
                 "maxHealth": 100000,
-                "percentage": 11.646,
+                "percentage": 12.738,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1738671955.014
+                "expireDateTime": 1738671954.692
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 120,
+                "players": 102,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -194,7 +172,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 328,
+                "players": 312,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -209,7 +187,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 206,
+                "players": 185,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -224,7 +202,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 12,
+                "players": 8,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -239,7 +217,7 @@
                 "planetIndex": 168,
                 "name": "Erata Prime",
                 "faction": "Terminids",
-                "players": 3314,
+                "players": 3153,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -254,7 +232,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 204,
+                "players": 157,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -269,7 +247,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 165,
+                "players": 145,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -281,10 +259,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 60,
+                "name": "Irulta",
+                "faction": "Illuminates",
+                "players": 344,
+                "health": 100000,
+                "maxHealth": 100000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "jungle",
+                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+                },
+                "expireDateTime": 1738703454.692
+            },
+            {
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 219,
+                "players": 207,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -299,7 +292,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 159,
+                "players": 143,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -314,7 +307,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 689,
+                "players": 718,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -329,7 +322,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 486,
+                "players": 411,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -344,7 +337,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 127,
+                "players": 137,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -359,7 +352,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 1077,
+                "players": 930,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -374,7 +367,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 264,
+                "players": 254,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -389,7 +382,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 47,
+                "players": 54,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -404,7 +397,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 56,
+                "players": 64,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -419,7 +412,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 9,
+                "players": 20,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2485,7 +2478,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 288578,
+                "expiresIn": 286488,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
