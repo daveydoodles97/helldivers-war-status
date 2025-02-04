@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-04T19:36:43.429419 UTC",
+    "last_updated": "2025-02-04T19:43:22.173862 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,7 +80,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 250148,
+                "expiresIn": 249728,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -122,91 +122,76 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 36657,
-                "health": 791890,
+                "players": 37103,
+                "health": 786488,
                 "maxHealth": 2100000,
-                "percentage": 62.29095238095238,
+                "percentage": 62.54819047619048,
                 "defense": true,
                 "biome": {
                     "slug": "icemoss",
                     "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
                 },
-                "expireDateTime": 1738847827.194
+                "expireDateTime": 1738848225.415
             },
             {
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 1806,
-                "health": 302732,
+                "players": 1855,
+                "health": 302510,
                 "maxHealth": 350000,
-                "percentage": 13.505142857142857,
+                "percentage": 13.568571428571417,
                 "defense": true,
                 "biome": {
                     "slug": "winter",
                     "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
                 },
-                "expireDateTime": 1738701787.194
+                "expireDateTime": 1738701795.415
             },
             {
                 "planetIndex": 60,
                 "name": "Irulta",
                 "faction": "Illuminates",
-                "players": 4573,
-                "health": 60736,
+                "players": 4769,
+                "health": 60423,
                 "maxHealth": 100000,
-                "percentage": 39.263999999999996,
+                "percentage": 39.577,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1738703517.194
+                "expireDateTime": 1738703525.415
             },
             {
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 3222,
-                "health": 82914,
+                "players": 3275,
+                "health": 82525,
                 "maxHealth": 100000,
-                "percentage": 17.086,
+                "percentage": 17.474999999999994,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
                     "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
                 },
-                "expireDateTime": 1738718307.194
+                "expireDateTime": 1738718315.415
             },
             {
                 "planetIndex": 145,
                 "name": "Botein",
                 "faction": "Illuminates",
-                "players": 622,
-                "health": 98675,
+                "players": 645,
+                "health": 98618,
                 "maxHealth": 100000,
-                "percentage": 1.3250000000000028,
+                "percentage": 1.382000000000005,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
                     "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
                 },
-                "expireDateTime": 1738731087.194
-            },
-            {
-                "planetIndex": 168,
-                "name": "Erata Prime",
-                "faction": "Terminids",
-                "players": 7672,
-                "health": 999999,
-                "maxHealth": 1000000,
-                "percentage": 9.99999999891088e-05,
-                "defense": false,
-                "biome": {
-                    "slug": "desert",
-                    "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-                },
-                "expireDateTime": null
+                "expireDateTime": 1738731095.415
             },
             {
                 "planetIndex": 113,
@@ -227,7 +212,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 713,
+                "players": 722,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +227,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 784,
+                "players": 798,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +242,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 31,
+                "players": 39,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -269,10 +254,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 168,
+                "name": "Erata Prime",
+                "faction": "Terminids",
+                "players": 7637,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "desert",
+                    "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 364,
+                "players": 407,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +287,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 331,
+                "players": 326,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +302,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 639,
+                "players": 636,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +317,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 373,
+                "players": 376,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +332,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 1253,
+                "players": 1264,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +347,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 988,
+                "players": 1025,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +362,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 313,
+                "players": 303,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -377,7 +377,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 2772,
+                "players": 2813,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -392,7 +392,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 608,
+                "players": 678,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -407,7 +407,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 132,
+                "players": 139,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -422,7 +422,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 182,
+                "players": 195,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -437,7 +437,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 137,
+                "players": 126,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2510,7 +2510,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 250098,
+                "expiresIn": 249678,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
