@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-05T17:53:15.049536 UTC",
+    "last_updated": "2025-02-05T18:00:03.621656 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,7 +80,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 170058,
+                "expiresIn": 169668,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -122,44 +122,59 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 6726,
-                "health": 58238,
+                "players": 6723,
+                "health": 57202,
                 "maxHealth": 100000,
-                "percentage": 41.762,
+                "percentage": 42.798,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
                     "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
                 },
-                "expireDateTime": 1738783503.286
+                "expireDateTime": 1738783498.673
             },
             {
                 "planetIndex": 190,
                 "name": "Kraz",
                 "faction": "Illuminates",
-                "players": 6106,
-                "health": 80900,
+                "players": 6168,
+                "health": 79953,
                 "maxHealth": 100000,
-                "percentage": 19.099999999999994,
+                "percentage": 20.046999999999997,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1738808093.286
+                "expireDateTime": 1738808088.673
             },
             {
                 "planetIndex": 168,
                 "name": "Erata Prime",
                 "faction": "Terminids",
-                "players": 12129,
-                "health": 991698,
+                "players": 12039,
+                "health": 991769,
                 "maxHealth": 1000000,
-                "percentage": 0.8301999999999907,
+                "percentage": 0.8230999999999966,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
                     "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 159,
+                "name": "Choohe",
+                "faction": "Automatons",
+                "players": 13500,
+                "health": 999951,
+                "maxHealth": 1000000,
+                "percentage": 0.004899999999992133,
+                "defense": false,
+                "biome": {
+                    "slug": "mesa",
+                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
                 },
                 "expireDateTime": null
             },
@@ -182,7 +197,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 853,
+                "players": 827,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -194,25 +209,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 159,
-                "name": "Choohe",
-                "faction": "Automatons",
-                "players": 13180,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 79,
+                "players": 76,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -227,7 +227,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 421,
+                "players": 441,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +242,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 371,
+                "players": 370,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +257,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 1302,
+                "players": 1311,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +272,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 711,
+                "players": 732,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +287,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 1745,
+                "players": 1713,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +317,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 3748,
+                "players": 3836,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +332,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 2689,
+                "players": 2707,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +347,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 657,
+                "players": 664,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +362,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 715,
+                "players": 701,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -377,7 +377,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 463,
+                "players": 464,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -392,7 +392,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 513,
+                "players": 479,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2465,7 +2465,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 169998,
+                "expiresIn": 169608,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
