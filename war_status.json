@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-08T13:54:58.652414 UTC",
+    "last_updated": "2025-02-08T14:28:37.491787 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,31 +74,75 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 2403201786,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 431410,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Quash any Illuminate invasion attempts as quickly as possible, to stop the Illuminate from gathering the Dark Energy they need for moving the Meridian Singularity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                11,
+                                4,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 55
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 55
+                    },
+                    "flags": 0
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 102,
                 "name": "Liberty Ridge",
                 "faction": "Illuminates",
-                "players": 12000,
-                "health": 104633,
+                "players": 15303,
+                "health": 97365,
                 "maxHealth": 200000,
-                "percentage": 47.6835,
+                "percentage": 51.317499999999995,
                 "defense": false,
                 "biome": {
                     "slug": "crimsonmoor",
                     "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
                 },
-                "expireDateTime": 1739035677.373
+                "expireDateTime": 1739035680.997
             },
             {
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 16757,
-                "health": 697577,
+                "players": 16591,
+                "health": 693435,
                 "maxHealth": 1000000,
-                "percentage": 30.2423,
+                "percentage": 30.656499999999994,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -110,34 +154,19 @@
                 "planetIndex": 62,
                 "name": "Ilduna Prime",
                 "faction": "Illuminates",
-                "players": 5913,
-                "health": 140307,
+                "players": 6844,
+                "health": 136854,
                 "maxHealth": 150000,
-                "percentage": 6.462000000000003,
+                "percentage": 8.76400000000001,
                 "defense": false,
                 "biome": null,
-                "expireDateTime": 1739056487.373
-            },
-            {
-                "planetIndex": 168,
-                "name": "Erata Prime",
-                "faction": "Terminids",
-                "players": 17041,
-                "health": 999992,
-                "maxHealth": 1000000,
-                "percentage": 0.0007999999999981355,
-                "defense": false,
-                "biome": {
-                    "slug": "desert",
-                    "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-                },
-                "expireDateTime": null
+                "expireDateTime": 1739056490.997
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 619,
+                "players": 657,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -152,7 +181,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 1327,
+                "players": 1320,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -167,7 +196,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 903,
+                "players": 930,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -182,7 +211,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 60,
+                "players": 59,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -194,10 +223,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 168,
+                "name": "Erata Prime",
+                "faction": "Terminids",
+                "players": 16742,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "desert",
+                    "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 655,
+                "players": 703,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -212,7 +256,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 571,
+                "players": 514,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -227,7 +271,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 1608,
+                "players": 1681,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +286,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 654,
+                "players": 702,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +301,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 2133,
+                "players": 2061,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +316,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 234,
+                "players": 243,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +331,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 4034,
+                "players": 4025,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +346,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 955,
+                "players": 979,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +361,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 592,
+                "players": 619,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +376,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 367,
+                "players": 422,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +391,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 205,
+                "players": 176,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2426,8 +2470,66 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>ARSENAL AUGMENTATION</i>\n\nThe <i=1>GAS MINES</i> stratagem has been temporarily authorized for global use, in order to experimentally determine its collateral damage impact."
+            },
+            {
+                "id": 3092,
+                "published": 31301110,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nThe Illuminate appear to be attacking our worlds in order to gather <i=1>Dark Energy,</i> which seemingly powers the movement of the <i=1>Meridian Singularity</i>.\n\nThe Singularity is currently approaching <i=1>ANGEL'S VENTURE.</i> The more <i=1>Dark Energy</i> the Illuminate are able to gather, the faster the Singularity moves. \n\nAll Helldivers are ordered to end any <i=1>Illuminate</i> invasion attempts as quickly as possible, to safeguard the citizens of <i=1>ANGEL'S VENTURE.</i>"
+            },
+            {
+                "id": 3093,
+                "published": 31301120,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>ALERT</i>\n\nThe <i=1>Meridian Singularity</i> has deviated from its stable orbit.\n\nThe Singularity is now moving along an unnatural path. \n\nMovement speed appears directly correlated with the amount of <i=1>Dark Energy</i> the Illuminate have gathered from our Galaxy. "
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 2403201786,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 431330,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Quash any Illuminate invasion attempts as quickly as possible, to stop the Illuminate from gathering the Dark Energy they need for moving the Meridian Singularity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                11,
+                                4,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 55
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 55
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
