@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-10T10:38:42.851442 UTC",
+    "last_updated": "2025-02-10T10:45:19.935874 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,7 +80,7 @@
                 "progress": [
                     5
                 ],
-                "expiresIn": 272740,
+                "expiresIn": 272370,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -124,25 +124,25 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 12107,
-                "health": 430943,
+                "players": 11494,
+                "health": 428169,
                 "maxHealth": 450000,
-                "percentage": 4.234888888888889,
+                "percentage": 4.851333333333329,
                 "defense": true,
                 "biome": {
                     "slug": "crimsonmoor",
                     "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
                 },
-                "expireDateTime": 1739263183.513
+                "expireDateTime": 1739263180.179
             },
             {
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 3431,
-                "health": 749786,
+                "players": 3219,
+                "health": 750357,
                 "maxHealth": 1000000,
-                "percentage": 25.0214,
+                "percentage": 24.964299999999994,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -154,10 +154,10 @@
                 "planetIndex": 168,
                 "name": "Erata Prime",
                 "faction": "Terminids",
-                "players": 9517,
-                "health": 980493,
+                "players": 9271,
+                "health": 980216,
                 "maxHealth": 1000000,
-                "percentage": 1.9506999999999977,
+                "percentage": 1.9783999999999935,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -169,37 +169,22 @@
                 "planetIndex": 61,
                 "name": "Emorath",
                 "faction": "Illuminates",
-                "players": 6570,
-                "health": 349829,
+                "players": 8492,
+                "health": 349582,
                 "maxHealth": 350000,
-                "percentage": 0.0488571428571305,
+                "percentage": 0.119428571428557,
                 "defense": false,
                 "biome": null,
-                "expireDateTime": 1739225823.513
-            },
-            {
-                "planetIndex": 172,
-                "name": "Gar Haren",
-                "faction": "Terminids",
-                "players": 342,
-                "health": 999994,
-                "maxHealth": 1000000,
-                "percentage": 0.0005999999999914962,
-                "defense": false,
-                "biome": {
-                    "slug": "morass",
-                    "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-                },
-                "expireDateTime": null
+                "expireDateTime": 1739225820.179
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 377,
-                "health": 999999,
+                "players": 368,
+                "health": 1000000,
                 "maxHealth": 1000000,
-                "percentage": 9.99999999891088e-05,
+                "percentage": 0,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -211,7 +196,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 779,
+                "players": 760,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -226,7 +211,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 366,
+                "players": 364,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -241,7 +226,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 43,
+                "players": 45,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -256,7 +241,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 347,
+                "players": 344,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -268,10 +253,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 172,
+                "name": "Gar Haren",
+                "faction": "Terminids",
+                "players": 349,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "morass",
+                    "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 1037,
+                "players": 980,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -286,7 +286,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 294,
+                "players": 306,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -301,7 +301,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1141,
+                "players": 1104,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -316,7 +316,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 109,
+                "players": 92,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -331,7 +331,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 1997,
+                "players": 1969,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -346,7 +346,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 677,
+                "players": 628,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -361,7 +361,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 293,
+                "players": 281,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -376,7 +376,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 161,
+                "players": 184,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -391,7 +391,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 85,
+                "players": 80,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2506,7 +2506,7 @@
                 "progress": [
                     5
                 ],
-                "expiresIn": 272710,
+                "expiresIn": 272300,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
