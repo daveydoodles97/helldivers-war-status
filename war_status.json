@@ -1,76 +1,34 @@
 {
-    "last_updated": "2025-02-16T20:50:26.570073 UTC",
+    "last_updated": "2025-02-16T20:57:07.557974 UTC",
     "SuperEarth": {
         "WarNews": [
             {
-                "id": 2797,
-                "published": 2414563,
+                "id": 3096,
+                "published": 31650310,
                 "type": 0,
                 "tagIds": [],
-                "message": "Terminid spores have engulfed Heeth and Angel's Venture, spawning hordes of Terminids that overwhelmed our colonial militias. Clearly, the bug hive instinct oriented their mindless expansion towards dishonoring the memory of those who fought to free these planets.\n\nYour fellow Helldivers paid for these lands with their lives. We cannot lose them now. Hold the planets until SEAF reinforcements arrive."
+                "message": "<i=3>PRIORITY ALERT</i>\n\nThe <i=1>Meridian Singularity</i> has reached critical momentum. It can no longer be slowed down enough to avoid collision with <i=1>ANGEL'S VENTURE.</i>\n\n<i=1>ANGEL'S VENTURE</i> can no longer be saved.\n\nEvacuation of high-priority citizens is underway."
             },
             {
-                "id": 2798,
-                "published": 2499000,
+                "id": 3097,
+                "published": 31735170,
                 "type": 0,
                 "tagIds": [],
-                "message": "The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset."
+                "message": "<i=3>MAJOR ORDER FAILED</i>\n\n<i=1>ANGEL'S VENTURE</i> has been torn apart by the Meridian Singularity.\n\nFinally the Illuminate, hiding behind their mask of intelligence and sophistication, have revealed what they truly want: carnage.\n\nThe President of Super Earth has announced a Galaxy-wide mourning period of 24 hours."
             },
             {
-                "id": 2799,
-                "published": 2507100,
+                "id": 3098,
+                "published": 31898134,
                 "type": 0,
                 "tagIds": [],
-                "message": "NEW MAJOR ORDER\nTien Kwan is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate Tien Kwan, before it's too late."
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nTerminids are surging at the <i=1>Gloom</i> border. <i=1>FENRIR III</i> is under attack.\n\nThe <i=1>Center of Science</i> on this planet is of vital importance to stopping the <i=1>Meridian Singularity.</i> The Ministry of Science\u2019s top astrophysicists are gathered there, researching both the Singularity itself and the <i=1>Dark Energy</i> that somehow powers its movement.\n\nAll Helldivers are ordered to defend <i=1>FENRIR III.</i>\n\nThe Center of Science must not be lost."
             },
             {
-                "id": 2800,
-                "published": 2531100,
+                "id": 3099,
+                "published": 31899107,
                 "type": 0,
                 "tagIds": [],
-                "message": "AUTOMATON COUNTERATTACK\nIntercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated."
-            },
-            {
-                "id": 2801,
-                "published": 2598240,
-                "type": 0,
-                "tagIds": [],
-                "message": "Well done, Helldivers. Tien Kwan has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact.\n\nThe EXO-45 PATRIOT EXOSUIT is now available for requisition."
-            },
-            {
-                "id": 2802,
-                "published": 2705219,
-                "type": 0,
-                "tagIds": [],
-                "message": "Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. \n\nHowever, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens.\n\nThe Terminid Control System must be activated\u2014at any cost."
-            },
-            {
-                "id": 2803,
-                "published": 2705235,
-                "type": 0,
-                "tagIds": [],
-                "message": "NEW MAJOR ORDER\nActivate Terminid Control System"
-            },
-            {
-                "id": 2804,
-                "published": 2822793,
-                "type": 0,
-                "tagIds": [],
-                "message": "FENRIR III SECURED\nThe Terminid Control System is now fully activated on Fenrir III."
-            },
-            {
-                "id": 2805,
-                "published": 2899259,
-                "type": 0,
-                "tagIds": [],
-                "message": "TURING SECURED\nThe Terminid Control System is now fully activated on Turing."
-            },
-            {
-                "id": 2806,
-                "published": 2899330,
-                "type": 0,
-                "tagIds": [],
-                "message": "The TCS has been fully activated on half of the Barrier Planets."
+                "message": "<i=3>ALERT</i>\n\nA new Terminid strain, likely to have developed inside the Gloom, has been encountered near the <i=1>Center of Science</i> on <i=1>FENRIR III.</i>\n\nThe Center\u2019s <i=1>Dark Energy</i> research is now at critical risk.\n\nScattered reports on the new Terminids indicate discoloration, increased intelligence, and drastic changes to hunting patterns. Information remains scarce, as no SEAF units have returned from close encounters. \n\nThis variant group has been dubbed the <i=1>Predator Strain.</i>"
             }
         ],
         "NewsMessages": null,
@@ -80,7 +38,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 141777,
+                "expiresIn": 141377,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -122,25 +80,25 @@
                 "planetIndex": 125,
                 "name": "Fenrir III",
                 "faction": "Terminids",
-                "players": 103869,
-                "health": 106760,
+                "players": 103267,
+                "health": 99645,
                 "maxHealth": 2000000,
-                "percentage": 94.662,
+                "percentage": 95.01775,
                 "defense": true,
                 "biome": {
                     "slug": "moon",
                     "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
                 },
-                "expireDateTime": 1739793245.938
+                "expireDateTime": 1739793241.447
             },
             {
                 "planetIndex": 168,
                 "name": "Erata Prime",
                 "faction": "Terminids",
-                "players": 5315,
-                "health": 717252,
+                "players": 5292,
+                "health": 718570,
                 "maxHealth": 1000000,
-                "percentage": 28.2748,
+                "percentage": 28.143,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -152,22 +110,22 @@
                 "planetIndex": 58,
                 "name": "Parsh",
                 "faction": "Illuminates",
-                "players": 10540,
-                "health": 110736,
+                "players": 10700,
+                "health": 110041,
                 "maxHealth": 150000,
-                "percentage": 26.176000000000002,
+                "percentage": 26.63933333333334,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
                     "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
                 },
-                "expireDateTime": 1739749645.938
+                "expireDateTime": 1739749641.447
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 2306,
+                "players": 2310,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -182,7 +140,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 641,
+                "players": 644,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -197,7 +155,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 1124,
+                "players": 1113,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -212,7 +170,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 224,
+                "players": 204,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -227,7 +185,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 262,
+                "players": 258,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +200,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 286,
+                "players": 279,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +215,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 3628,
+                "players": 3652,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +230,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 1687,
+                "players": 1732,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +245,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 1266,
+                "players": 1283,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +260,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 481,
+                "players": 459,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +275,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 426,
+                "players": 446,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +290,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 1140,
+                "players": 1148,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +305,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 347,
+                "players": 362,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +320,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 1392,
+                "players": 1364,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -377,7 +335,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 621,
+                "players": 637,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -392,7 +350,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 361,
+                "players": 360,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2535,7 +2493,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 141777,
+                "expiresIn": 141357,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
