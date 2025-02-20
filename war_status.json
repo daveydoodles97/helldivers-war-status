@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-20T14:58:10.317825 UTC",
+    "last_updated": "2025-02-20T15:33:40.864101 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -79,10 +79,10 @@
                 "id32": 1298089240,
                 "progress": [
                     0,
-                    51759926,
+                    52265529,
                     1000000000
                 ],
-                "expiresIn": 337310,
+                "expiresIn": 335160,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -176,37 +176,52 @@
                 "planetIndex": 183,
                 "name": "Hort",
                 "faction": "Illuminates",
-                "players": 5709,
-                "health": 48649,
+                "players": 5430,
+                "health": 44341,
                 "maxHealth": 100000,
-                "percentage": 51.351,
+                "percentage": 55.659,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1740066187.299
+                "expireDateTime": 1740066194.148
             },
             {
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 1970,
-                "health": 99227,
+                "players": 1997,
+                "health": 98126,
                 "maxHealth": 100000,
-                "percentage": 0.7729999999999961,
+                "percentage": 1.8739999999999952,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1740102017.299
+                "expireDateTime": 1740102024.148
+            },
+            {
+                "planetIndex": 170,
+                "name": "Fori Prime",
+                "faction": "Terminids",
+                "players": 50622,
+                "health": 999998,
+                "maxHealth": 1000000,
+                "percentage": 0.00019999999999242846,
+                "defense": false,
+                "biome": {
+                    "slug": "canyon",
+                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+                },
+                "expireDateTime": null
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 736,
+                "players": 773,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -221,7 +236,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 431,
+                "players": 368,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -236,7 +251,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 512,
+                "players": 498,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -251,7 +266,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 69,
+                "players": 72,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -259,21 +274,6 @@
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 170,
-                "name": "Fori Prime",
-                "faction": "Terminids",
-                "players": 51587,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
                 "expireDateTime": null
             },
@@ -296,7 +296,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 271,
+                "players": 234,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -311,7 +311,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 2087,
+                "players": 2029,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -326,7 +326,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 693,
+                "players": 705,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -341,7 +341,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 565,
+                "players": 586,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -356,7 +356,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 785,
+                "players": 724,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -371,7 +371,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 203,
+                "players": 164,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -386,7 +386,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 2634,
+                "players": 2400,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -401,7 +401,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 379,
+                "players": 346,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -416,7 +416,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 566,
+                "players": 551,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -431,7 +431,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 305,
+                "players": 298,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -446,7 +446,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 125,
+                "players": 128,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2644,10 +2644,10 @@
                 "id32": 1298089240,
                 "progress": [
                     0,
-                    51779503,
+                    52277692,
                     1000000000
                 ],
-                "expiresIn": 337230,
+                "expiresIn": 335110,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
