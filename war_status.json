@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-21T18:49:36.151614 UTC",
+    "last_updated": "2025-02-21T18:56:26.883972 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -79,10 +79,10 @@
                 "id32": 1298089240,
                 "progress": [
                     0,
-                    75965478,
+                    76073874,
                     1000000000
                 ],
-                "expiresIn": 237150,
+                "expiresIn": 236760,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -176,55 +176,40 @@
                 "planetIndex": 234,
                 "name": "Spherion",
                 "faction": "Illuminates",
-                "players": 2518,
-                "health": 89908,
+                "players": 2578,
+                "health": 89653,
                 "maxHealth": 100000,
-                "percentage": 10.091999999999999,
+                "percentage": 10.346999999999994,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1740176439.45
+                "expireDateTime": 1740176445.625
             },
             {
                 "planetIndex": 91,
                 "name": "Iro",
                 "faction": "Illuminates",
-                "players": 4092,
-                "health": 96931,
+                "players": 4169,
+                "health": 96458,
                 "maxHealth": 100000,
-                "percentage": 3.0690000000000026,
+                "percentage": 3.5420000000000016,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1740198569.45
-            },
-            {
-                "planetIndex": 170,
-                "name": "Fori Prime",
-                "faction": "Terminids",
-                "players": 55492,
-                "health": 999828,
-                "maxHealth": 1000000,
-                "percentage": 0.017199999999988336,
-                "defense": false,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-                },
-                "expireDateTime": null
+                "expireDateTime": 1740198575.625
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 1280,
-                "health": 999997,
+                "players": 1300,
+                "health": 1000000,
                 "maxHealth": 1000000,
-                "percentage": 0.0002999999999957481,
+                "percentage": 0,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -233,25 +218,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 199,
-                "name": "Martale",
-                "faction": "Automatons",
-                "players": 2779,
-                "health": 999999,
-                "maxHealth": 1000000,
-                "percentage": 9.99999999891088e-05,
-                "defense": false,
-                "biome": {
-                    "slug": "tundra",
-                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 353,
+                "players": 355,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -266,7 +236,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 896,
+                "players": 930,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -281,7 +251,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 115,
+                "players": 119,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -293,10 +263,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 170,
+                "name": "Fori Prime",
+                "faction": "Terminids",
+                "players": 55962,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "canyon",
+                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 454,
+                "players": 447,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -311,7 +296,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 257,
+                "players": 262,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -323,10 +308,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 199,
+                "name": "Martale",
+                "faction": "Automatons",
+                "players": 2814,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "tundra",
+                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 1126,
+                "players": 1110,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -341,7 +341,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 787,
+                "players": 807,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -356,7 +356,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 584,
+                "players": 574,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -386,7 +386,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 2332,
+                "players": 2292,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -401,7 +401,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 369,
+                "players": 379,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -416,7 +416,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 906,
+                "players": 926,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -431,7 +431,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 488,
+                "players": 502,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -446,7 +446,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 260,
+                "players": 261,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2644,10 +2644,10 @@
                 "id32": 1298089240,
                 "progress": [
                     0,
-                    75965478,
+                    76083368,
                     1000000000
                 ],
-                "expiresIn": 237150,
+                "expiresIn": 236720,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
