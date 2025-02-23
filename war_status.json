@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-23T12:59:35.656761 UTC",
+    "last_updated": "2025-02-23T13:28:50.873862 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -82,7 +82,7 @@
                     100000000,
                     1000000000
                 ],
-                "expiresIn": 85640,
+                "expiresIn": 83880,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -173,25 +173,13 @@
         ],
         "CampaignPlanets": [
             {
-                "planetIndex": 134,
-                "name": "Acubens Prime",
-                "faction": "Illuminates",
-                "players": 6032,
-                "health": 25388,
-                "maxHealth": 100000,
-                "percentage": 74.612,
-                "defense": false,
-                "biome": null,
-                "expireDateTime": 1740315944.761
-            },
-            {
                 "planetIndex": 170,
                 "name": "Fori Prime",
                 "faction": "Terminids",
-                "players": 54678,
-                "health": 380901,
+                "players": 60079,
+                "health": 367320,
                 "maxHealth": 1000000,
-                "percentage": 61.9099,
+                "percentage": 63.268,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -203,22 +191,37 @@
                 "planetIndex": 56,
                 "name": "Myrium",
                 "faction": "Illuminates",
-                "players": 1176,
-                "health": 99894,
+                "players": 3806,
+                "health": 99552,
                 "maxHealth": 100000,
-                "percentage": 0.10599999999999454,
+                "percentage": 0.4479999999999933,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1740356814.761
+                "expireDateTime": 1740356815.111
+            },
+            {
+                "planetIndex": 172,
+                "name": "Gar Haren",
+                "faction": "Terminids",
+                "players": 335,
+                "health": 999997,
+                "maxHealth": 1000000,
+                "percentage": 0.0002999999999957481,
+                "defense": false,
+                "biome": {
+                    "slug": "morass",
+                    "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
+                },
+                "expireDateTime": null
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 969,
+                "players": 1096,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -233,7 +236,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 393,
+                "players": 427,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -248,7 +251,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 900,
+                "players": 969,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -263,7 +266,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 131,
+                "players": 115,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -278,7 +281,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 545,
+                "players": 616,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,25 +293,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 172,
-                "name": "Gar Haren",
-                "faction": "Terminids",
-                "players": 313,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "morass",
-                    "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 2928,
+                "players": 3254,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -323,7 +311,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 898,
+                "players": 1037,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -338,7 +326,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 676,
+                "players": 775,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -353,7 +341,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 854,
+                "players": 916,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -368,7 +356,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 241,
+                "players": 285,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -383,7 +371,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 3086,
+                "players": 3257,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -398,7 +386,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 412,
+                "players": 395,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -413,7 +401,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 736,
+                "players": 803,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -428,7 +416,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 399,
+                "players": 488,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -443,7 +431,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 156,
+                "players": 201,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2651,12 +2639,9 @@
                     100000000,
                     1000000000
                 ],
-                "expiresIn": 85560,
+                "expiresIn": 83820,
                 "setting": {
                     "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Venture into the Gloom where it is less dense, and survey it for E-710.",
-                    "taskDescription": "",
                     "tasks": [
                         {
                             "type": 11,
