@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-23T23:56:15.239891 UTC",
+    "last_updated": "2025-02-24T02:58:45.194670 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,169 +74,28 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 1298089240,
-                "progress": [
-                    0,
-                    100000000,
-                    1000000000
-                ],
-                "expiresIn": 46230,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Venture into the Gloom where it is less dense, and survey it for E-710.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 11,
-                            "values": [
-                                1,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                0,
-                                1,
-                                100000000,
-                                1,
-                                3992382197,
-                                0,
-                                0,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                1,
-                                1000000000,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 55
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 55
-                    },
-                    "flags": 0
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
-            {
-                "planetIndex": 170,
-                "name": "Fori Prime",
-                "faction": "Terminids",
-                "players": 63342,
-                "health": 79986,
-                "maxHealth": 1000000,
-                "percentage": 92.0014,
-                "defense": false,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 56,
-                "name": "Myrium",
-                "faction": "Illuminates",
-                "players": 7881,
-                "health": 38255,
-                "maxHealth": 100000,
-                "percentage": 61.745,
-                "defense": false,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-                },
-                "expireDateTime": 1740356863.812
-            },
             {
                 "planetIndex": 87,
                 "name": "Bashyr",
                 "faction": "Illuminates",
-                "players": 1662,
-                "health": 99952,
+                "players": 10539,
+                "health": 89536,
                 "maxHealth": 100000,
-                "percentage": 0.04800000000000182,
+                "percentage": 10.463999999999999,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
                     "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
                 },
-                "expireDateTime": 1740396223.812
-            },
-            {
-                "planetIndex": 199,
-                "name": "Martale",
-                "faction": "Automatons",
-                "players": 3019,
-                "health": 999993,
-                "maxHealth": 1000000,
-                "percentage": 0.0006999999999948159,
-                "defense": false,
-                "biome": {
-                    "slug": "tundra",
-                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-                },
-                "expireDateTime": null
+                "expireDateTime": 1740396253.972
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 1454,
+                "players": 1813,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -251,7 +110,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 352,
+                "players": 653,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -266,7 +125,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 1087,
+                "players": 1048,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -281,7 +140,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 220,
+                "players": 258,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -296,7 +155,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 450,
+                "players": 765,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -311,7 +170,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 266,
+                "players": 328,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -323,10 +182,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 199,
+                "name": "Martale",
+                "faction": "Automatons",
+                "players": 3743,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "tundra",
+                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 1257,
+                "players": 1520,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -341,7 +215,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 815,
+                "players": 971,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -353,10 +227,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 212,
+                "name": "Oshaune",
+                "faction": "Terminids",
+                "players": 3,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "highlands",
+                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 617,
+                "players": 818,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -371,7 +260,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 374,
+                "players": 406,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -386,7 +275,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 2054,
+                "players": 2778,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -401,7 +290,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 392,
+                "players": 442,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -416,7 +305,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 1183,
+                "players": 1494,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -431,7 +320,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 539,
+                "players": 543,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -446,7 +335,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 277,
+                "players": 376,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2646,99 +2535,6 @@
                 "message": "<i=3>ALERT</i>\n\nThe Gloom cover on <i=1>Fori Prime</i> is predicted to thicken over the coming hours. The equipment enabling the Helldivers\u2019 Gloom expedition is designed to withstand low spore levels only.\n\nGiven the heightened risk, there will be no further operations on <i=1>Fori Prime</i> after the current <i=1>Major Order</i> is completed."
             }
         ],
-        "WarAssignments": [
-            {
-                "id32": 1298089240,
-                "progress": [
-                    0,
-                    100000000,
-                    1000000000
-                ],
-                "expiresIn": 46230,
-                "setting": {
-                    "type": 4,
-                    "tasks": [
-                        {
-                            "type": 11,
-                            "values": [
-                                1,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                0,
-                                1,
-                                100000000,
-                                1,
-                                3992382197,
-                                0,
-                                0,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                1,
-                                1000000000,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 55
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 55
-                    },
-                    "flags": 0
-                }
-            }
-        ]
+        "WarAssignments": []
     }
 }
