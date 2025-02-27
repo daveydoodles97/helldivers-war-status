@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-02-27T15:42:22.824361 UTC",
+    "last_updated": "2025-02-27T15:49:07.906545 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -81,7 +81,7 @@
                     1,
                     1
                 ],
-                "expiresIn": 176210,
+                "expiresIn": 175830,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -136,37 +136,37 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 5596,
-                "health": 953318,
+                "players": 8251,
+                "health": 946463,
                 "maxHealth": 1000000,
-                "percentage": 4.668199999999999,
+                "percentage": 5.353699999999989,
                 "defense": true,
                 "biome": {
                     "slug": "toxic",
                     "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
                 },
-                "expireDateTime": 1740727519.335
+                "expireDateTime": 1740727525.064
             },
             {
                 "planetIndex": 148,
                 "name": "Bunda Secundus",
                 "faction": "Illuminates",
-                "players": 4002,
-                "health": 34219,
+                "players": 4265,
+                "health": 25052,
                 "maxHealth": 150000,
-                "percentage": 77.18733333333333,
+                "percentage": 83.29866666666666,
                 "defense": false,
                 "biome": null,
-                "expireDateTime": 1740680409.335
+                "expireDateTime": 1740680415.064
             },
             {
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 5495,
-                "health": 497888,
+                "players": 6825,
+                "health": 487624,
                 "maxHealth": 1000000,
-                "percentage": 50.2112,
+                "percentage": 51.2376,
                 "defense": false,
                 "biome": {
                     "slug": "crimsonmoor",
@@ -178,10 +178,10 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1121,
-                "health": 884506,
+                "players": 1162,
+                "health": 883868,
                 "maxHealth": 1000000,
-                "percentage": 11.549399999999991,
+                "percentage": 11.613199999999992,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -193,10 +193,10 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 3385,
-                "health": 984845,
+                "players": 3693,
+                "health": 983655,
                 "maxHealth": 1000000,
-                "percentage": 1.5154999999999887,
+                "percentage": 1.6344999999999885,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -208,10 +208,10 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 1182,
-                "health": 996152,
+                "players": 1276,
+                "health": 995034,
                 "maxHealth": 1000000,
-                "percentage": 0.3847999999999985,
+                "percentage": 0.4966000000000008,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -223,10 +223,10 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 207,
-                "health": 999465,
+                "players": 241,
+                "health": 999355,
                 "maxHealth": 1000000,
-                "percentage": 0.05349999999999966,
+                "percentage": 0.06449999999999534,
                 "defense": false,
                 "biome": {
                     "slug": "morass",
@@ -235,13 +235,28 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 117,
+                "name": "Vog-sojoth",
+                "faction": "Automatons",
+                "players": 164,
+                "health": 999817,
+                "maxHealth": 1000000,
+                "percentage": 0.01829999999999643,
+                "defense": false,
+                "biome": {
+                    "slug": "winter",
+                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 314,
-                "health": 999994,
+                "players": 322,
+                "health": 999840,
                 "maxHealth": 1000000,
-                "percentage": 0.0005999999999914962,
+                "percentage": 0.015999999999991132,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -250,13 +265,28 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 250,
+                "name": "Yed Prior",
+                "faction": "Automatons",
+                "players": 79,
+                "health": 999932,
+                "maxHealth": 1000000,
+                "percentage": 0.006799999999998363,
+                "defense": false,
+                "biome": {
+                    "slug": "crimsonmoor",
+                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 162,
-                "health": 1000000,
+                "players": 200,
+                "health": 999981,
                 "maxHealth": 1000000,
-                "percentage": 0,
+                "percentage": 0.0018999999999920192,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -268,7 +298,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 326,
+                "players": 340,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -283,7 +313,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 29,
+                "players": 31,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -298,7 +328,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 379,
+                "players": 390,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -313,7 +343,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 425,
+                "players": 464,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -328,7 +358,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 209,
+                "players": 203,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -343,7 +373,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 687,
+                "players": 775,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -358,7 +388,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 64,
+                "players": 67,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -370,40 +400,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 117,
-                "name": "Vog-sojoth",
-                "faction": "Automatons",
-                "players": 156,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 250,
-                "name": "Yed Prior",
-                "faction": "Automatons",
-                "players": 77,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "crimsonmoor",
-                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 30,
+                "players": 40,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2638,7 +2638,7 @@
                     1,
                     1
                 ],
-                "expiresIn": 176210,
+                "expiresIn": 175810,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
