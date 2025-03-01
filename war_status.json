@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-01T21:51:01.298151 UTC",
+    "last_updated": "2025-03-01T21:57:47.306685 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -81,7 +81,7 @@
                     1,
                     1
                 ],
-                "expiresIn": 54280,
+                "expiresIn": 53890,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -136,52 +136,37 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 16300,
-                "health": 765410,
+                "players": 17169,
+                "health": 764387,
                 "maxHealth": 800000,
-                "percentage": 4.323750000000004,
+                "percentage": 4.451624999999993,
                 "defense": true,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1740931430.808
-            },
-            {
-                "planetIndex": 199,
-                "name": "Martale",
-                "faction": "Automatons",
-                "players": 32597,
-                "health": 1059,
-                "maxHealth": 1000000,
-                "percentage": 99.8941,
-                "defense": false,
-                "biome": {
-                    "slug": "tundra",
-                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-                },
-                "expireDateTime": null
+                "expireDateTime": 1740931426.355
             },
             {
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 10136,
-                "health": 63253,
+                "players": 10191,
+                "health": 62481,
                 "maxHealth": 100000,
-                "percentage": 36.747,
+                "percentage": 37.519,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
                     "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
                 },
-                "expireDateTime": 1740880690.808
+                "expireDateTime": 1740880686.355
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 758,
+                "players": 765,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -196,7 +181,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 1820,
+                "players": 1814,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -211,7 +196,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 617,
+                "players": 642,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -226,7 +211,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 75,
+                "players": 79,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -256,7 +241,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 812,
+                "players": 823,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -271,7 +256,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 2035,
+                "players": 2012,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -283,10 +268,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 198,
+                "name": "Marfark",
+                "faction": "Automatons",
+                "players": 147,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "winter",
+                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 2630,
+                "players": 2895,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -301,7 +301,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 433,
+                "players": 422,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -316,7 +316,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 2386,
+                "players": 2365,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -331,7 +331,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 198,
+                "players": 196,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -346,7 +346,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 9291,
+                "players": 9283,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -361,7 +361,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 952,
+                "players": 958,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -376,7 +376,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 638,
+                "players": 658,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -391,7 +391,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 273,
+                "players": 276,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -406,7 +406,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 99,
+                "players": 94,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2655,7 +2655,7 @@
                     1,
                     1
                 ],
-                "expiresIn": 54210,
+                "expiresIn": 53820,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
