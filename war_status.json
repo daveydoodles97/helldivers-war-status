@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-02T12:55:18.775127 UTC",
+    "last_updated": "2025-03-02T13:13:49.245545 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,147 +74,91 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 2348898896,
-                "progress": [
-                    1,
-                    1
-                ],
-                "expiresIn": 160,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Save either the MD-8 Gas Mines on DUMA TYR or the moderately feeble young adults on JULHEIM from the opportunistic assault of the Automatons.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                111
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                72
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 45
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 45
-                    },
-                    "flags": 3
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
             {
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 18933,
-                "health": 341488,
+                "players": 19301,
+                "health": 332578,
                 "maxHealth": 800000,
-                "percentage": 57.314,
+                "percentage": 58.427749999999996,
                 "defense": true,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1740931506.018
+                "expireDateTime": 1740931507.597
             },
             {
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 4057,
-                "health": 855991,
+                "players": 4277,
+                "health": 854352,
                 "maxHealth": 900000,
-                "percentage": 4.8898888888888905,
+                "percentage": 5.0719999999999885,
                 "defense": true,
                 "biome": {
                     "slug": "toxic",
                     "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
                 },
-                "expireDateTime": 1740974906.018
+                "expireDateTime": 1740974907.597
             },
             {
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 684,
-                "health": 524879,
+                "players": 697,
+                "health": 524589,
                 "maxHealth": 550000,
-                "percentage": 4.567454545454552,
+                "percentage": 4.62018181818182,
                 "defense": true,
                 "biome": {
                     "slug": "desolate",
                     "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
                 },
-                "expireDateTime": 1740953556.018
+                "expireDateTime": 1740953557.597
             },
             {
                 "planetIndex": 225,
                 "name": "Rogue 5",
                 "faction": "Illuminates",
-                "players": 5491,
-                "health": 18652,
+                "players": 5582,
+                "health": 15986,
                 "maxHealth": 100000,
-                "percentage": 81.348,
+                "percentage": 84.014,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1740923026.018
+                "expireDateTime": 1740923027.597
             },
             {
                 "planetIndex": 229,
                 "name": "Setia",
                 "faction": "Illuminates",
-                "players": 973,
-                "health": 99937,
+                "players": 1412,
+                "health": 99840,
                 "maxHealth": 100000,
-                "percentage": 0.06300000000000239,
+                "percentage": 0.1599999999999966,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
                     "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
                 },
-                "expireDateTime": 1740961536.018
+                "expireDateTime": 1740961537.597
             },
             {
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 9939,
-                "health": 999972,
+                "players": 10787,
+                "health": 999947,
                 "maxHealth": 1000000,
-                "percentage": 0.0027999999999934744,
+                "percentage": 0.005299999999991201,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -241,7 +185,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 1289,
+                "players": 1345,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -256,7 +200,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 500,
+                "players": 505,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -271,7 +215,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 35,
+                "players": 49,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -286,7 +230,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 786,
+                "players": 823,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -301,7 +245,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 503,
+                "players": 572,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -316,7 +260,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1585,
+                "players": 1582,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -331,7 +275,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 946,
+                "players": 961,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -346,7 +290,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 911,
+                "players": 963,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -361,7 +305,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 259,
+                "players": 278,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -376,7 +320,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1973,
+                "players": 2087,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -391,7 +335,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 108,
+                "players": 113,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -406,7 +350,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 711,
+                "players": 736,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -421,7 +365,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 272,
+                "players": 296,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -451,7 +395,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 86,
+                "players": 81,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2691,64 +2635,15 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>INFORMATIONAL ADVISORY</i>\n\nHigh Command would like to inform all personnel that nothing out of the ordinary has happened in the past 24 hours. The fight for Managed Democracy has continued in an inspiring\u2014but entirely expected\u2014manner. \n\nPersonnel who believe they have experienced or witnessed any sort of anomalous occurrences may be suffering from Illuminate mind-influence, and should report themselves for psychological screening immediately."
+            },
+            {
+                "id": 3116,
+                "published": 33120470,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>MAJOR ORDER WON</i>\n\nAgainst all odds, the Helldivers managed to repel the Automaton assault on both fronts. <i=1>JULHEIM</i> and <i=1>DUMA TYR</i> have been saved. \n\nConsult the Galactic Map on your ship for more information."
             }
         ],
-        "WarAssignments": [
-            {
-                "id32": 2348898896,
-                "progress": [
-                    1,
-                    1
-                ],
-                "expiresIn": 50,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Save either the MD-8 Gas Mines on DUMA TYR or the moderately feeble young adults on JULHEIM from the opportunistic assault of the Automatons.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                111
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                72
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 45
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 45
-                    },
-                    "flags": 3
-                }
-            }
-        ]
+        "WarAssignments": []
     }
 }
