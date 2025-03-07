@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-07T15:32:27.403147 UTC",
+    "last_updated": "2025-03-07T15:41:33.558982 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,31 +74,171 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 2803883920,
+                "progress": [
+                    2989,
+                    49,
+                    4236,
+                    27
+                ],
+                "expiresIn": 431510,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Kill the specified number of Terminids and Automatons in order to support the construction of a blockade around the Meridian Singularity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                3,
+                                1,
+                                1000000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                3,
+                                1,
+                                6000000,
+                                2664856027,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                1,
+                                1500000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                1,
+                                8000000,
+                                2514244534,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 55
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 55
+                    },
+                    "flags": 0
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 86,
                 "name": "Rasp",
                 "faction": "Illuminates",
-                "players": 10790,
-                "health": 81097,
+                "players": 10433,
+                "health": 78565,
                 "maxHealth": 200000,
-                "percentage": 59.451499999999996,
+                "percentage": 60.7175,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
                     "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
                 },
-                "expireDateTime": 1741366761.118
+                "expireDateTime": 1741366770.852
             },
             {
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 11686,
-                "health": 606971,
+                "players": 12053,
+                "health": 605997,
                 "maxHealth": 1000000,
-                "percentage": 39.302899999999994,
+                "percentage": 39.400299999999994,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -110,10 +250,10 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 10111,
-                "health": 999848,
+                "players": 10172,
+                "health": 999931,
                 "maxHealth": 1000000,
-                "percentage": 0.015199999999992997,
+                "percentage": 0.0069000000000016826,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -125,7 +265,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 290,
+                "players": 285,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -140,7 +280,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 170,
+                "players": 183,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -155,7 +295,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 886,
+                "players": 899,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -170,7 +310,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 841,
+                "players": 821,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +325,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 390,
+                "players": 397,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +340,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 636,
+                "players": 635,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +355,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 423,
+                "players": 439,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +370,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1203,
+                "players": 1198,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +385,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 272,
+                "players": 254,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +400,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 572,
+                "players": 593,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +415,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 201,
+                "players": 216,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +430,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 248,
+                "players": 245,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +445,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1680,
+                "players": 1700,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +460,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 76,
+                "players": 75,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +490,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 345,
+                "players": 329,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2611,8 +2751,155 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>MAJOR ORDER WON</i>\n\nThe Automatons have been repelled from <i=1>Claorell.</i> The <i=1>Deep Mantle Forge Complex</i> remains within our domain, secure from being bent to despotic means. \n\nThe scientists at the <i=1>Moradesh</i> Research Facility did not have enough time to complete their experiments. They have been evacuated, as the planet's inevitable destruction nears."
+            },
+            {
+                "id": 3119,
+                "published": 33561000,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nAnalysis of gravitational waves has revealed that the Illuminate are sending accumulated Dark Energy directly into the Singularity itself. If that flow can be restricted, the Singularity can be slowed significantly. High Command has therefore ordered the establishment of a blockade surrounding the Meridian Singularity.\n\nThe Helldivers are ordered to aid in resource gathering for the fielding of this massive blockade fleet. Consult your Galactic Map for more details."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 2803883920,
+                "progress": [
+                    2167,
+                    32,
+                    3718,
+                    23
+                ],
+                "expiresIn": 431530,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Kill the specified number of Terminids and Automatons in order to support the construction of a blockade around the Meridian Singularity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                3,
+                                1,
+                                1000000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                3,
+                                1,
+                                6000000,
+                                2664856027,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                1,
+                                1500000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                1,
+                                8000000,
+                                2514244534,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 55
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 55
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
