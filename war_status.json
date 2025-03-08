@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-08T16:10:25.598010 UTC",
+    "last_updated": "2025-03-08T16:26:18.194403 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -78,12 +78,12 @@
             {
                 "id32": 2803883920,
                 "progress": [
-                    109223162,
-                    1468166,
-                    269197863,
-                    2064467
+                    110457549,
+                    1485581,
+                    272592073,
+                    2090887
                 ],
-                "expiresIn": 343600,
+                "expiresIn": 342580,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -217,58 +217,58 @@
         ],
         "CampaignPlanets": [
             {
-                "planetIndex": 128,
-                "name": "Darius II",
-                "faction": "Terminids",
-                "players": 17127,
-                "health": 461113,
-                "maxHealth": 900000,
-                "percentage": 48.76522222222222,
-                "defense": true,
-                "biome": {
-                    "slug": "toxic",
-                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-                },
-                "expireDateTime": 1741450940.887
-            },
-            {
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 11765,
-                "health": 511112,
-                "maxHealth": 750000,
-                "percentage": 31.85173333333333,
-                "defense": true,
+                "players": 11535,
+                "health": 500000,
+                "maxHealth": 1000000,
+                "percentage": 50,
+                "defense": false,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1741451000.887
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 128,
+                "name": "Darius II",
+                "faction": "Terminids",
+                "players": 16604,
+                "health": 500567,
+                "maxHealth": 1000000,
+                "percentage": 49.9433,
+                "defense": false,
+                "biome": {
+                    "slug": "toxic",
+                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+                },
+                "expireDateTime": null
             },
             {
                 "planetIndex": 190,
                 "name": "Kraz",
                 "faction": "Illuminates",
-                "players": 8531,
-                "health": 88551,
+                "players": 8318,
+                "health": 86610,
                 "maxHealth": 150000,
-                "percentage": 40.966,
+                "percentage": 42.260000000000005,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1741454730.887
+                "expireDateTime": 1741454729.736
             },
             {
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 3292,
-                "health": 704216,
+                "players": 3525,
+                "health": 706968,
                 "maxHealth": 1000000,
-                "percentage": 29.578400000000002,
+                "percentage": 29.30319999999999,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -280,10 +280,10 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 9881,
-                "health": 801846,
+                "players": 10217,
+                "health": 798027,
                 "maxHealth": 1000000,
-                "percentage": 19.815399999999997,
+                "percentage": 20.1973,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -292,10 +292,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 234,
+                "name": "Spherion",
+                "faction": "Illuminates",
+                "players": 933,
+                "health": 149980,
+                "maxHealth": 150000,
+                "percentage": 0.013333333333335418,
+                "defense": false,
+                "biome": {
+                    "slug": "jungle",
+                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+                },
+                "expireDateTime": 1741493019.736
+            },
+            {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 323,
+                "players": 352,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -310,7 +325,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 495,
+                "players": 507,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -325,7 +340,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 586,
+                "players": 625,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -340,7 +355,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 185,
+                "players": 214,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -355,7 +370,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 225,
+                "players": 239,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -370,7 +385,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 225,
+                "players": 227,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -385,7 +400,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 409,
+                "players": 440,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -400,7 +415,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 270,
+                "players": 314,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -415,7 +430,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 464,
+                "players": 462,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -430,7 +445,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 287,
+                "players": 291,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -445,7 +460,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 206,
+                "players": 207,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -460,7 +475,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 504,
+                "players": 518,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -475,7 +490,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 87,
+                "players": 80,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -487,25 +502,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 217,
-                "name": "Phact Bay",
-                "faction": "Terminids",
-                "players": 2515,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 166,
+                "players": 174,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -513,36 +513,6 @@
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 234,
-                "name": "Spherion",
-                "faction": "Illuminates",
-                "players": 252,
-                "health": 150000,
-                "maxHealth": 150000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "jungle",
-                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-                },
-                "expireDateTime": 1741493020.887
-            },
-            {
-                "planetIndex": 251,
-                "name": "Zefia",
-                "faction": "Automatons",
-                "players": 259,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "ethereal",
-                    "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
                 },
                 "expireDateTime": null
             }
@@ -2816,12 +2786,12 @@
             {
                 "id32": 2803883920,
                 "progress": [
-                    109302576,
-                    1469308,
-                    269410023,
-                    2066013
+                    110481858,
+                    1485905,
+                    272660388,
+                    2091474
                 ],
-                "expiresIn": 343530,
+                "expiresIn": 342560,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
