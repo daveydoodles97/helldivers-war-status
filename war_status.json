@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-11T06:15:14.225874 UTC",
+    "last_updated": "2025-03-11T06:39:57.604981 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -78,12 +78,12 @@
             {
                 "id32": 2803883920,
                 "progress": [
-                    456551414,
+                    458347992,
                     6000000,
-                    1031360497,
-                    7918265
+                    1033052036,
+                    7930881
                 ],
-                "expiresIn": 220500,
+                "expiresIn": 218980,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -220,25 +220,25 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 11225,
-                "health": 106074,
+                "players": 10032,
+                "health": 93807,
                 "maxHealth": 600000,
-                "percentage": 82.321,
+                "percentage": 84.3655,
                 "defense": true,
                 "biome": {
                     "slug": "mesa",
                     "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
                 },
-                "expireDateTime": 1741687061.59
+                "expireDateTime": 1741688533.543
             },
             {
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 6135,
-                "health": 164512,
+                "players": 5612,
+                "health": 162956,
                 "maxHealth": 1000000,
-                "percentage": 83.5488,
+                "percentage": 83.70439999999999,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -250,10 +250,10 @@
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 544,
-                "health": 392698,
+                "players": 507,
+                "health": 392138,
                 "maxHealth": 1000000,
-                "percentage": 60.730199999999996,
+                "percentage": 60.7862,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -262,13 +262,28 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 176,
+                "name": "Hadar",
+                "faction": "Illuminates",
+                "players": 3048,
+                "health": 104414,
+                "maxHealth": 150000,
+                "percentage": 30.390666666666675,
+                "defense": false,
+                "biome": {
+                    "slug": "winter",
+                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+                },
+                "expireDateTime": 1741687303.543
+            },
+            {
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 2091,
-                "health": 698086,
+                "players": 1817,
+                "health": 700103,
                 "maxHealth": 1000000,
-                "percentage": 30.1914,
+                "percentage": 29.9897,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -277,25 +292,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 176,
-                "name": "Hadar",
-                "faction": "Illuminates",
-                "players": 3455,
-                "health": 107449,
-                "maxHealth": 150000,
-                "percentage": 28.367333333333335,
-                "defense": false,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": 1741687301.59
-            },
-            {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 272,
+                "players": 225,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -310,7 +310,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 138,
+                "players": 110,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -325,7 +325,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 246,
+                "players": 243,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -340,7 +340,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 53,
+                "players": 66,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -355,7 +355,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 313,
+                "players": 243,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -370,7 +370,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 271,
+                "players": 230,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -385,7 +385,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1016,
+                "players": 1082,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -400,7 +400,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 117,
+                "players": 105,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -415,7 +415,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 219,
+                "players": 187,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -430,7 +430,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 113,
+                "players": 92,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -445,7 +445,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 176,
+                "players": 152,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -460,7 +460,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 807,
+                "players": 698,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -475,7 +475,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 49,
+                "players": 47,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -490,7 +490,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 232,
+                "players": 214,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -505,7 +505,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 384,
+                "players": 322,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2786,12 +2786,12 @@
             {
                 "id32": 2803883920,
                 "progress": [
-                    456628213,
+                    458347992,
                     6000000,
-                    1031422846,
-                    7918709
+                    1033052036,
+                    7930881
                 ],
-                "expiresIn": 220450,
+                "expiresIn": 218980,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
