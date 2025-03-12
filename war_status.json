@@ -1,76 +1,34 @@
 {
-    "last_updated": "2025-03-12T19:12:18.063699 UTC",
+    "last_updated": "2025-03-12T19:23:10.360160 UTC",
     "SuperEarth": {
         "WarNews": [
             {
-                "id": 2797,
-                "published": 2414563,
+                "id": 3119,
+                "published": 33561000,
                 "type": 0,
                 "tagIds": [],
-                "message": "Terminid spores have engulfed Heeth and Angel's Venture, spawning hordes of Terminids that overwhelmed our colonial militias. Clearly, the bug hive instinct oriented their mindless expansion towards dishonoring the memory of those who fought to free these planets.\n\nYour fellow Helldivers paid for these lands with their lives. We cannot lose them now. Hold the planets until SEAF reinforcements arrive."
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nAnalysis of gravitational waves has revealed that the Illuminate are sending accumulated Dark Energy directly into the Singularity itself. If that flow can be restricted, the Singularity can be slowed significantly. High Command has therefore ordered the establishment of a blockade surrounding the Meridian Singularity.\n\nThe Helldivers are ordered to aid in resource gathering for the fielding of this massive blockade fleet. Consult your Galactic Map for more details."
             },
             {
-                "id": 2798,
-                "published": 2499000,
+                "id": 3120,
+                "published": 33563760,
                 "type": 0,
                 "tagIds": [],
-                "message": "The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset."
+                "message": "<i=3>STRATEGIC ALERT</i>\n\nSupply chain difficulties of an obtuse and tedious nature have caused significant fixed-wing armament shortages, increasing Eagle Re-Arm times by 30% fleetwide. The issue will shortly resolve itself and return to normal.\n\nHowever, rapid liberation of the Terminid-infested planet <i=1>BORE ROCK</i> would provide us a supply node that would reverse the effect, causing Eagle Re-Arm times to be 50% faster for the remainder of the order. "
             },
             {
-                "id": 2799,
-                "published": 2507100,
+                "id": 3121,
+                "published": 33793235,
                 "type": 0,
                 "tagIds": [],
-                "message": "NEW MAJOR ORDER\nTien Kwan is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate Tien Kwan, before it's too late."
+                "message": "<i=3>INFORMATIONAL ADVISORY</i>\n\nIn the previous 24 hours, some personnel inaccurately reported minor errors in the functioning of their Galactic Map, specifically regarding Major Order progress and celestial body coordinates. \n\nThose personnel are now receiving full ocular function examinations. An investigation has been launched as to the cause of this widespread spike in ophthalmological issues.\n\nAll other personnel should proceed operating as normal, in accordance with normal operating procedure."
             },
             {
-                "id": 2800,
-                "published": 2531100,
+                "id": 3122,
+                "published": 33833831,
                 "type": 0,
                 "tagIds": [],
-                "message": "AUTOMATON COUNTERATTACK\nIntercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated."
-            },
-            {
-                "id": 2801,
-                "published": 2598240,
-                "type": 0,
-                "tagIds": [],
-                "message": "Well done, Helldivers. Tien Kwan has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact.\n\nThe EXO-45 PATRIOT EXOSUIT is now available for requisition."
-            },
-            {
-                "id": 2802,
-                "published": 2705219,
-                "type": 0,
-                "tagIds": [],
-                "message": "Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. \n\nHowever, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens.\n\nThe Terminid Control System must be activated\u2014at any cost."
-            },
-            {
-                "id": 2803,
-                "published": 2705235,
-                "type": 0,
-                "tagIds": [],
-                "message": "NEW MAJOR ORDER\nActivate Terminid Control System"
-            },
-            {
-                "id": 2804,
-                "published": 2822793,
-                "type": 0,
-                "tagIds": [],
-                "message": "FENRIR III SECURED\nThe Terminid Control System is now fully activated on Fenrir III."
-            },
-            {
-                "id": 2805,
-                "published": 2899259,
-                "type": 0,
-                "tagIds": [],
-                "message": "TURING SECURED\nThe Terminid Control System is now fully activated on Turing."
-            },
-            {
-                "id": 2806,
-                "published": 2899330,
-                "type": 0,
-                "tagIds": [],
-                "message": "The TCS has been fully activated on half of the Barrier Planets."
+                "message": "<i=3>STRATEGIC ALERT</i>\n\nThe liberation of <i=1>BORE ROCK</i> from the Terminids has caused supply chain expediencies of a perplexing but advantageous nature, resulting in <i=1>50%</i> faster Eagle Re-Arm times for the remainder of the order."
             }
         ],
         "NewsMessages": null,
@@ -78,12 +36,12 @@
             {
                 "id32": 2803883920,
                 "progress": [
-                    625821376,
+                    626999155,
                     6000000,
-                    1199706828,
+                    1200626477,
                     8000000
                 ],
-                "expiresIn": 87720,
+                "expiresIn": 87060,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -217,28 +175,13 @@
         ],
         "CampaignPlanets": [
             {
-                "planetIndex": 222,
-                "name": "Propus",
-                "faction": "Illuminates",
-                "players": 3612,
-                "health": 37758,
-                "maxHealth": 100000,
-                "percentage": 62.242,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": 1741806866.871
-            },
-            {
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 21962,
-                "health": 708957,
+                "players": 22689,
+                "health": 704249,
                 "maxHealth": 1000000,
-                "percentage": 29.104299999999995,
+                "percentage": 29.575099999999992,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -250,10 +193,10 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 5881,
-                "health": 802036,
+                "players": 6175,
+                "health": 802188,
                 "maxHealth": 1000000,
-                "percentage": 19.79639999999999,
+                "percentage": 19.7812,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -265,22 +208,22 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 1879,
-                "health": 99888,
+                "players": 2417,
+                "health": 99795,
                 "maxHealth": 100000,
-                "percentage": 0.11199999999999477,
+                "percentage": 0.2049999999999983,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
                     "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
                 },
-                "expireDateTime": 1741847016.871
+                "expireDateTime": 1741847026.174
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 548,
+                "players": 610,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -295,7 +238,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 588,
+                "players": 583,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -310,7 +253,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 494,
+                "players": 520,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -325,7 +268,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 481,
+                "players": 471,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -340,7 +283,7 @@
                 "planetIndex": 75,
                 "name": "Esker",
                 "faction": "Terminids",
-                "players": 2425,
+                "players": 2586,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -355,7 +298,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 642,
+                "players": 661,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -370,7 +313,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 479,
+                "players": 470,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -385,7 +328,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1922,
+                "players": 1976,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -400,7 +343,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 372,
+                "players": 388,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -415,7 +358,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 756,
+                "players": 787,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -430,7 +373,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 282,
+                "players": 272,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -445,7 +388,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 443,
+                "players": 449,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -460,7 +403,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1642,
+                "players": 1758,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -475,7 +418,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 208,
+                "players": 199,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -490,7 +433,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 575,
+                "players": 583,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -505,7 +448,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 454,
+                "players": 499,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2800,12 +2743,12 @@
             {
                 "id32": 2803883920,
                 "progress": [
-                    625940128,
+                    627102588,
                     6000000,
-                    1199799209,
+                    1200712228,
                     8000000
                 ],
-                "expiresIn": 87650,
+                "expiresIn": 87000,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
