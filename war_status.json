@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-14T11:57:51.106692 UTC",
+    "last_updated": "2025-03-14T12:30:23.407772 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,10 +80,10 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 12789,
-                "health": 503776,
+                "players": 14599,
+                "health": 493372,
                 "maxHealth": 1000000,
-                "percentage": 49.6224,
+                "percentage": 50.6628,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -95,10 +95,10 @@
                 "planetIndex": 245,
                 "name": "Wasat",
                 "faction": "Automatons",
-                "players": 1470,
-                "health": 526759,
+                "players": 1484,
+                "health": 532522,
                 "maxHealth": 1000000,
-                "percentage": 47.324099999999994,
+                "percentage": 46.7478,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -110,25 +110,25 @@
                 "planetIndex": 145,
                 "name": "Botein",
                 "faction": "Illuminates",
-                "players": 4733,
-                "health": 70940,
+                "players": 5177,
+                "health": 64426,
                 "maxHealth": 100000,
-                "percentage": 29.060000000000002,
+                "percentage": 35.574,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
                     "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
                 },
-                "expireDateTime": 1741980875.663
+                "expireDateTime": 1741980879.033
             },
             {
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 831,
-                "health": 984070,
+                "players": 862,
+                "health": 988049,
                 "maxHealth": 1000000,
-                "percentage": 1.5929999999999893,
+                "percentage": 1.1950999999999965,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -137,17 +137,32 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 162,
-                "name": "Clasa",
+                "planetIndex": 70,
+                "name": "Blistica",
                 "faction": "Automatons",
-                "players": 663,
+                "players": 301,
+                "health": 999987,
+                "maxHealth": 1000000,
+                "percentage": 0.001300000000000523,
+                "defense": false,
+                "biome": {
+                    "slug": "desolate",
+                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 75,
+                "name": "Esker",
+                "faction": "Terminids",
+                "players": 442,
                 "health": 999996,
                 "maxHealth": 1000000,
                 "percentage": 0.00039999999999906777,
                 "defense": false,
                 "biome": {
-                    "slug": "jungle",
-                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+                    "slug": "toxic",
+                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
                 },
                 "expireDateTime": null
             },
@@ -155,7 +170,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 459,
+                "players": 561,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -167,25 +182,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 70,
-                "name": "Blistica",
-                "faction": "Automatons",
-                "players": 250,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 165,
+                "players": 185,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -197,17 +197,17 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 75,
-                "name": "Esker",
-                "faction": "Terminids",
-                "players": 345,
+                "planetIndex": 162,
+                "name": "Clasa",
+                "faction": "Automatons",
+                "players": 654,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
                 "defense": false,
                 "biome": {
-                    "slug": "toxic",
-                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+                    "slug": "jungle",
+                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
                 "expireDateTime": null
             },
@@ -215,7 +215,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 152,
+                "players": 185,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +230,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 130,
+                "players": 159,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +245,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 399,
+                "players": 471,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +260,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 629,
+                "players": 821,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +275,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 799,
+                "players": 999,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +290,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 283,
+                "players": 321,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +305,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 277,
+                "players": 324,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +320,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 367,
+                "players": 419,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +335,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 104,
+                "players": 111,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +350,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 163,
+                "players": 155,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +365,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 508,
+                "players": 521,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
