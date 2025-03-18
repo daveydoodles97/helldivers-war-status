@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-18T14:44:30.809874 UTC",
+    "last_updated": "2025-03-18T14:51:10.323118 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -77,13 +77,55 @@
         "MajorOrders": [],
         "CampaignPlanets": [
             {
+                "planetIndex": 110,
+                "name": "Bekvam III",
+                "faction": "Automatons",
+                "players": 334,
+                "health": 1100000,
+                "maxHealth": 1100000,
+                "percentage": 0,
+                "defense": true,
+                "biome": null,
+                "expireDateTime": 1742395651.214
+            },
+            {
+                "planetIndex": 199,
+                "name": "Martale",
+                "faction": "Automatons",
+                "players": 72,
+                "health": 1050000,
+                "maxHealth": 1050000,
+                "percentage": 0,
+                "defense": true,
+                "biome": {
+                    "slug": "tundra",
+                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+                },
+                "expireDateTime": 1742395721.214
+            },
+            {
+                "planetIndex": 246,
+                "name": "Vega Bay",
+                "faction": "Automatons",
+                "players": 0,
+                "health": 650000,
+                "maxHealth": 650000,
+                "percentage": 0,
+                "defense": true,
+                "biome": {
+                    "slug": "winter",
+                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+                },
+                "expireDateTime": 1742395811.214
+            },
+            {
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 20040,
-                "health": 150803,
+                "players": 19848,
+                "health": 148505,
                 "maxHealth": 1000000,
-                "percentage": 84.9197,
+                "percentage": 85.1495,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -95,22 +137,22 @@
                 "planetIndex": 229,
                 "name": "Setia",
                 "faction": "Illuminates",
-                "players": 4662,
-                "health": 75001,
+                "players": 4686,
+                "health": 74343,
                 "maxHealth": 100000,
-                "percentage": 24.998999999999995,
+                "percentage": 25.656999999999996,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
                     "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
                 },
-                "expireDateTime": 1742337206.295
+                "expireDateTime": 1742337211.214
             },
             {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 4906,
+                "players": 4931,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -125,7 +167,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 1203,
+                "players": 1176,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -140,7 +182,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 462,
+                "players": 454,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -155,7 +197,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 276,
+                "players": 279,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -170,7 +212,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 346,
+                "players": 349,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +227,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 928,
+                "players": 890,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +242,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 283,
+                "players": 285,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +257,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 153,
+                "players": 160,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +272,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1118,
+                "players": 1142,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +287,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 2815,
+                "players": 2769,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +302,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 7268,
+                "players": 7108,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +317,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 263,
+                "players": 270,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +332,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 959,
+                "players": 1004,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +347,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 657,
+                "players": 684,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +362,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 213,
+                "players": 220,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +377,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 260,
+                "players": 259,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +392,7 @@
                 "planetIndex": 245,
                 "name": "Wasat",
                 "faction": "Automatons",
-                "players": 133,
+                "players": 127,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +407,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 646,
+                "players": 637,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2696,8 +2738,87 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>MAJOR ORDER WON</i>\n\nThe Helldivers, through valiant defense against the spread of insectile Fascism, have enabled the construction of the <i=1>Penrose Energy Siphon.</i> Consult your Galactic Map for more information."
+            },
+            {
+                "id": 3129,
+                "published": 34407010,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nAutomaton forces have landed on multiple planets in what appears to be a coordinated, large-scale, craven assault. However, the <i=1>Penrose Energy Siphon,</i> which would significantly slow the Singularity's advance, is nearly ready for activation.\n\nHigh Command delegates to the Helldivers this choice: hold off the Automaton assault, or effect the immediate activation of the Penrose Energy Siphon.  Consult your Galactic Map for more information."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 1612782487,
+                "progress": [
+                    0,
+                    0
+                ],
+                "expiresIn": 453560,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Defend against the Automaton offensive, led by the newly-built Incineration Corps, or collect enough E-710 to activate the Penrose Energy Siphon and reduce Dark Energy Accumulation.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                8,
+                                3,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                1,
+                                1250000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 55
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 55
+                    },
+                    "flags": 2
+                }
+            }
+        ]
     }
 }
