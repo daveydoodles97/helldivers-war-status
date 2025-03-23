@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-23T21:45:20.801968 UTC",
+    "last_updated": "2025-03-23T21:52:14.102878 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,118 +74,31 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 1612782487,
-                "progress": [
-                    2,
-                    1070113902
-                ],
-                "expiresIn": 50,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Defend against the Automaton offensive, led by the newly-built Incineration Corps, or collect enough E-710 to activate the Penrose Energy Siphon and reduce Dark Energy Accumulation.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 12,
-                            "values": [
-                                8,
-                                3,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                3,
-                                1,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                1,
-                                1250000000,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 55
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 55
-                    },
-                    "flags": 2
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
             {
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 12252,
-                "health": 438155,
+                "players": 12313,
+                "health": 437426,
                 "maxHealth": 550000,
-                "percentage": 20.335454545454553,
+                "percentage": 20.468000000000004,
                 "defense": true,
                 "biome": {
                     "slug": "icemoss",
                     "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
                 },
-                "expireDateTime": 1742775309.246
-            },
-            {
-                "planetIndex": 72,
-                "name": "Julheim",
-                "faction": "Automatons",
-                "players": 21031,
-                "health": 504,
-                "maxHealth": 1000000,
-                "percentage": 99.9496,
-                "defense": false,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": null
+                "expireDateTime": 1742775305.352
             },
             {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 38097,
-                "health": 688541,
+                "players": 36662,
+                "health": 686931,
                 "maxHealth": 1000000,
-                "percentage": 31.145899999999997,
+                "percentage": 31.3069,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -197,10 +110,10 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 2155,
-                "health": 787136,
+                "players": 2023,
+                "health": 788068,
                 "maxHealth": 1000000,
-                "percentage": 21.2864,
+                "percentage": 21.19319999999999,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -212,25 +125,25 @@
                 "planetIndex": 237,
                 "name": "Termadon",
                 "faction": "Illuminates",
-                "players": 7715,
-                "health": 79559,
+                "players": 7984,
+                "health": 79040,
                 "maxHealth": 100000,
-                "percentage": 20.441000000000003,
+                "percentage": 20.959999999999994,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1742786379.246
+                "expireDateTime": 1742786375.352
             },
             {
                 "planetIndex": 109,
                 "name": "Dolph",
                 "faction": "Automatons",
-                "players": 3858,
-                "health": 800223,
+                "players": 3890,
+                "health": 801695,
                 "maxHealth": 1000000,
-                "percentage": 19.9777,
+                "percentage": 19.8305,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
@@ -242,10 +155,10 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 167,
-                "health": 863383,
+                "players": 172,
+                "health": 865060,
                 "maxHealth": 1000000,
-                "percentage": 13.661699999999996,
+                "percentage": 13.494,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -257,10 +170,10 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 1523,
-                "health": 943766,
+                "players": 1572,
+                "health": 944774,
                 "maxHealth": 1000000,
-                "percentage": 5.6233999999999895,
+                "percentage": 5.522599999999997,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -272,7 +185,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 248,
+                "players": 252,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +200,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 222,
+                "players": 225,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +215,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 743,
+                "players": 763,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +230,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 95,
+                "players": 98,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +245,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 96,
+                "players": 94,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +260,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 1988,
+                "players": 1907,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +275,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 756,
+                "players": 717,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -377,7 +290,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 485,
+                "players": 484,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -392,7 +305,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1870,
+                "players": 1820,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -407,7 +320,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 362,
+                "players": 357,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -422,7 +335,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 669,
+                "players": 659,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -437,7 +350,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 350,
+                "players": 337,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -452,7 +365,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1626,
+                "players": 1602,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -467,7 +380,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 92,
+                "players": 95,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -482,7 +395,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 687,
+                "players": 684,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -497,7 +410,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 185,
+                "players": 186,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2856,80 +2769,15 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>STRATEGIC ADVISORY</i>\n\nAll Helldivers should factor the following advisory into their strategic decision-making:\n\nEnemy forces stage their attacks on our planets from an originating planet. Liberating the originating planet ends the enemy attack immediately.\nIn the current operational context, liberating <i=1>JULHEIM</i> would end the current Automaton attacks upon both <i=1>CHARBAL VII</i> and <i=1>DOLPH</i>."
+            },
+            {
+                "id": 3133,
+                "published": 34860670,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>MAJOR ORDER FAILED</i>\n\nThe Automaton Incineration Corps has stolen vast swaths of ground from our citizens, burning thousands of toxin-free homes to the ground.\n\nFurther, insufficient E-710 was gathered to deploy the <i=1>Penrose Energy Siphon.</i> \n\nConsult your Galactic Map for more information."
             }
         ],
-        "WarAssignments": [
-            {
-                "id32": 1612782487,
-                "progress": [
-                    2,
-                    1070273204
-                ],
-                "expiresIn": 20,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Defend against the Automaton offensive, led by the newly-built Incineration Corps, or collect enough E-710 to activate the Penrose Energy Siphon and reduce Dark Energy Accumulation.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 12,
-                            "values": [
-                                8,
-                                3,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                3,
-                                1,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                1,
-                                1250000000,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 55
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 55
-                    },
-                    "flags": 2
-                }
-            }
-        ]
+        "WarAssignments": []
     }
 }
