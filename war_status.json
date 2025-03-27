@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-27T02:21:58.600897 UTC",
+    "last_updated": "2025-03-27T03:08:52.143882 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,25 +80,40 @@
                 "planetIndex": 243,
                 "name": "Vandalon IV",
                 "faction": "Automatons",
-                "players": 10003,
-                "health": 279611,
+                "players": 18767,
+                "health": 272651,
                 "maxHealth": 350000,
-                "percentage": 20.111142857142852,
+                "percentage": 22.099714285714285,
                 "defense": true,
                 "biome": {
                     "slug": "winter",
                     "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
                 },
-                "expireDateTime": 1743082531.996
+                "expireDateTime": 1743082531.415
+            },
+            {
+                "planetIndex": 154,
+                "name": "Mort",
+                "faction": "Automatons",
+                "players": 1942,
+                "health": 449990,
+                "maxHealth": 450000,
+                "percentage": 0.002222222222215464,
+                "defense": true,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": 1743130421.415
             },
             {
                 "planetIndex": 242,
                 "name": "Ustotu",
                 "faction": "Automatons",
-                "players": 2239,
-                "health": 609976,
+                "players": 3299,
+                "health": 616017,
                 "maxHealth": 1000000,
-                "percentage": 39.002399999999994,
+                "percentage": 38.3983,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -110,10 +125,10 @@
                 "planetIndex": 109,
                 "name": "Dolph",
                 "faction": "Automatons",
-                "players": 2234,
-                "health": 623112,
+                "players": 2528,
+                "health": 620967,
                 "maxHealth": 1000000,
-                "percentage": 37.6888,
+                "percentage": 37.903299999999994,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
@@ -125,22 +140,22 @@
                 "planetIndex": 138,
                 "name": "Alairt III",
                 "faction": "Illuminates",
-                "players": 4413,
-                "health": 95126,
+                "players": 8206,
+                "health": 92049,
                 "maxHealth": 100000,
-                "percentage": 4.873999999999995,
+                "percentage": 7.950999999999993,
                 "defense": false,
                 "biome": {
                     "slug": "rainforest",
                     "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
                 },
-                "expireDateTime": 1743073931.996
+                "expireDateTime": 1743073931.415
             },
             {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 1781,
+                "players": 3681,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -155,7 +170,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 227,
+                "players": 247,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -170,7 +185,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 99,
+                "players": 133,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +200,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 57,
+                "players": 125,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +215,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 386,
+                "players": 439,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +230,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 76,
+                "players": 83,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +245,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 89,
+                "players": 105,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +260,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 254,
+                "players": 483,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,25 +272,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 122,
-                "name": "Erson Sands",
-                "faction": "Terminids",
-                "players": 1,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desert",
-                    "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 200,
+                "players": 443,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +290,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 156,
+                "players": 251,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +305,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 411,
+                "players": 735,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +320,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 310,
+                "players": 292,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +335,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 590,
+                "players": 551,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +350,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 199,
+                "players": 184,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,25 +362,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 211,
-                "name": "Nivel 43",
-                "faction": "Terminids",
-                "players": 0,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 509,
+                "players": 793,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -395,7 +380,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 64,
+                "players": 92,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -410,7 +395,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 174,
+                "players": 290,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -422,25 +407,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 123,
-                "name": "Socorro III",
-                "faction": "Terminids",
-                "players": 808,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "morass",
-                    "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 142,
+                "players": 150,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2813,6 +2783,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>NEW MAJOR ORDER</i>\n\nThe Automaton offensive has been stalled, but at the cost of precious time to slow the Meridian Singularity. Citizens of <i=1>Ivis</i> have begun preparing for the possibility of a full-planet evacuation. \n\nThere can be no further delays to the deployment of the <i=1>Penrose Energy Siphon.</i> The Helldivers are ordered to immediately commence rapid and aggressive E-710 gathering operations. Consult your Galactic Map for more information."
+            },
+            {
+                "id": 3135,
+                "published": 35137100,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>MAJOR ORDER WON</i>\n\nThe <i=1>Penrose Energy Siphon</i> has been launched, following the Helldivers' successful efforts to acquire enough E-710 to power the device. \n\nThe excursion appears to have been successful; our scientists have reported a decrease in the Wormhole's velocity, correlating to a reduction in Dark Energy accumulation."
             }
         ],
         "WarAssignments": []
