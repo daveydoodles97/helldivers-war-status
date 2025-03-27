@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-27T14:11:58.797872 UTC",
+    "last_updated": "2025-03-27T14:33:17.282805 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,46 +74,90 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 3715570853,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 258786,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Suppress Illuminate Invasions in order to guarantee Super Earth's safety from the Meridian Singularity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                6,
+                                4,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 0
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 154,
                 "name": "Mort",
                 "faction": "Automatons",
-                "players": 13774,
-                "health": 376896,
+                "players": 13413,
+                "health": 368888,
                 "maxHealth": 450000,
-                "percentage": 16.245333333333335,
+                "percentage": 18.02488888888888,
                 "defense": true,
                 "biome": {
                     "slug": "swamp",
                     "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
                 },
-                "expireDateTime": 1743130490.853
+                "expireDateTime": 1743130492.946
             },
             {
                 "planetIndex": 86,
                 "name": "Rasp",
                 "faction": "Illuminates",
-                "players": 7159,
-                "health": 57340,
+                "players": 8432,
+                "health": 52596,
                 "maxHealth": 100000,
-                "percentage": 42.66,
+                "percentage": 47.403999999999996,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
                     "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
                 },
-                "expireDateTime": 1743106780.853
+                "expireDateTime": 1743106782.946
             },
             {
                 "planetIndex": 109,
                 "name": "Dolph",
                 "faction": "Automatons",
-                "players": 1893,
-                "health": 589005,
+                "players": 1805,
+                "health": 587602,
                 "maxHealth": 1000000,
-                "percentage": 41.0995,
+                "percentage": 41.239799999999995,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
@@ -125,10 +169,10 @@
                 "planetIndex": 242,
                 "name": "Ustotu",
                 "faction": "Automatons",
-                "players": 1229,
-                "health": 694592,
+                "players": 1141,
+                "health": 697253,
                 "maxHealth": 1000000,
-                "percentage": 30.54079999999999,
+                "percentage": 30.274699999999996,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -140,10 +184,10 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 12374,
-                "health": 980055,
+                "players": 11961,
+                "health": 976928,
                 "maxHealth": 1000000,
-                "percentage": 1.9945000000000022,
+                "percentage": 2.3071999999999946,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -155,7 +199,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 67,
+                "players": 57,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -170,7 +214,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 91,
+                "players": 73,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +229,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 228,
+                "players": 209,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +244,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 429,
+                "players": 415,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +259,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 36,
+                "players": 24,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +274,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 59,
+                "players": 49,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +289,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 1024,
+                "players": 1050,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +304,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 541,
+                "players": 540,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +319,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 285,
+                "players": 288,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +334,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1043,
+                "players": 1007,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +349,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 353,
+                "players": 398,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +364,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 342,
+                "players": 328,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +379,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 93,
+                "players": 108,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,10 +391,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 89,
+                "name": "Mog",
+                "faction": "Illuminates",
+                "players": 202,
+                "health": 200000,
+                "maxHealth": 200000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "winter",
+                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+                },
+                "expireDateTime": 1743128942.946
+            },
+            {
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1222,
+                "players": 1175,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +424,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 38,
+                "players": 34,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -380,7 +439,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 415,
+                "players": 431,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -395,7 +454,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 80,
+                "players": 85,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2775,8 +2834,59 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>MAJOR ORDER WON</i>\n\nThe <i=1>Penrose Energy Siphon</i> has been launched, following the Helldivers' successful efforts to acquire enough E-710 to power the device. \n\nThe excursion appears to have been successful; our scientists have reported a decrease in the Wormhole's velocity, correlating to a reduction in Dark Energy accumulation."
+            },
+            {
+                "id": 3136,
+                "published": 35179373,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nThe efforts of the Helldivers to impede the Meridian Singularity have made it possible to save the planets that remain in its destructive path.\n\n<i=1>The Helldivers are ordered to suppress Illuminate invasion events.</i> If successful, this will free Super Earth from the Singularity's path of destruction.\n\nHigh Command has authorized the temporary deployment of a new Stratagem for use against the Illuminate. Consult your Galactic Map for more information."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 3715570853,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 258756,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Suppress Illuminate Invasions in order to guarantee Super Earth's safety from the Meridian Singularity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                6,
+                                4,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
