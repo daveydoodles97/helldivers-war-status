@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-30T11:37:29.774273 UTC",
+    "last_updated": "2025-03-30T11:44:09.383757 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,76 +74,118 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 1847595933,
+                "progress": [
+                    1
+                ],
+                "expiresIn": 518062,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Defend Malevelon Creek, by any means necessary.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                196
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 60
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 60
+                    },
+                    "flags": 1
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 240,
                 "name": "Troost",
                 "faction": "Automatons",
-                "players": 1015,
-                "health": 349889,
+                "players": 979,
+                "health": 349853,
                 "maxHealth": 350000,
-                "percentage": 0.031714285714272705,
+                "percentage": 0.04199999999998738,
                 "defense": true,
                 "biome": {
                     "slug": "swamp",
                     "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
                 },
-                "expireDateTime": 1743418824.584
+                "expireDateTime": 1743418818.827
             },
             {
                 "planetIndex": 107,
                 "name": "P\u00f6pli IX",
                 "faction": "Automatons",
-                "players": 2445,
-                "health": 499868,
+                "players": 2926,
+                "health": 499819,
                 "maxHealth": 500000,
-                "percentage": 0.026399999999995316,
+                "percentage": 0.03619999999999379,
                 "defense": true,
                 "biome": {
                     "slug": "desolate",
                     "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
                 },
-                "expireDateTime": 1743419414.584
+                "expireDateTime": 1743419408.827
             },
             {
                 "planetIndex": 243,
                 "name": "Vandalon IV",
                 "faction": "Automatons",
-                "players": 852,
-                "health": 649992,
+                "players": 1384,
+                "health": 649972,
                 "maxHealth": 650000,
-                "percentage": 0.0012307692307587104,
+                "percentage": 0.004307692307691013,
                 "defense": true,
                 "biome": {
                     "slug": "winter",
                     "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
                 },
-                "expireDateTime": 1743420074.584
+                "expireDateTime": 1743420068.827
             },
             {
                 "planetIndex": 87,
                 "name": "Bashyr",
                 "faction": "Illuminates",
-                "players": 4237,
-                "health": 38575,
+                "players": 4156,
+                "health": 37369,
                 "maxHealth": 150000,
-                "percentage": 74.28333333333333,
+                "percentage": 75.08733333333333,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
                     "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
                 },
-                "expireDateTime": 1743337904.584
+                "expireDateTime": 1743337898.827
             },
             {
                 "planetIndex": 109,
                 "name": "Dolph",
                 "faction": "Automatons",
-                "players": 1946,
-                "health": 292318,
+                "players": 1868,
+                "health": 291599,
                 "maxHealth": 1000000,
-                "percentage": 70.76820000000001,
+                "percentage": 70.8401,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
@@ -155,10 +197,10 @@
                 "planetIndex": 155,
                 "name": "Ingmar",
                 "faction": "Automatons",
-                "players": 10524,
-                "health": 386611,
+                "players": 10704,
+                "health": 385672,
                 "maxHealth": 1000000,
-                "percentage": 61.338899999999995,
+                "percentage": 61.4328,
                 "defense": false,
                 "biome": {
                     "slug": "crimsonmoor",
@@ -170,10 +212,10 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 11388,
-                "health": 914145,
+                "players": 11278,
+                "health": 913326,
                 "maxHealth": 1000000,
-                "percentage": 8.585499999999996,
+                "percentage": 8.6674,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -185,22 +227,22 @@
                 "planetIndex": 56,
                 "name": "Myrium",
                 "faction": "Illuminates",
-                "players": 2691,
-                "health": 142294,
+                "players": 2627,
+                "health": 141914,
                 "maxHealth": 150000,
-                "percentage": 5.137333333333331,
+                "percentage": 5.390666666666675,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1743367914.584
+                "expireDateTime": 1743367908.827
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 83,
+                "players": 85,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +257,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 95,
+                "players": 82,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +272,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 23,
+                "players": 24,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +287,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 188,
+                "players": 186,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +302,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 46,
+                "players": 48,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +317,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 52,
+                "players": 58,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +332,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 1000,
+                "players": 1031,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +347,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 497,
+                "players": 512,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +362,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 233,
+                "players": 238,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +377,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1024,
+                "players": 1049,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +392,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 239,
+                "players": 232,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +407,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 248,
+                "players": 250,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -380,7 +422,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 130,
+                "players": 134,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -395,7 +437,7 @@
                 "planetIndex": 154,
                 "name": "Mort",
                 "faction": "Automatons",
-                "players": 363,
+                "players": 368,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -410,7 +452,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 962,
+                "players": 987,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -425,7 +467,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 33,
+                "players": 36,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -440,7 +482,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 423,
+                "players": 428,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -455,7 +497,7 @@
                 "planetIndex": 242,
                 "name": "Ustotu",
                 "faction": "Automatons",
-                "players": 279,
+                "players": 275,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -470,7 +512,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 83,
+                "players": 79,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2864,8 +2906,57 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>MAJOR ORDER WON</i>\n\nThe underhanded Illuminate scheme to destroy Super Earth has been foiled, thanks to the irrepressible might of the Helldivers. The Illuminate-created spacetime aberration known as the Meridian Singularity has been de-energized to the point where Super Earth is now safely out of its accurately-predicted path.\n\nOur citizens can celebrate a hard-earned victory: Super Earth is safe."
+            },
+            {
+                "id": 3138,
+                "published": 35427943,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nThe Automatons, led by the <i=1>Incineration Corps,</i> have launched a grotesque surprise attack evidently targeting <i=1>Malevelon Creek.</i>\n\n<i=1>All Helldivers are urgently called to defend and hold Malevelon Creek,</i> and unleash Super Earth\u2019s righteous Justice with the fullest permitted fury.\n\nConsult your Galactic Map for more details."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 1847595933,
+                "progress": [
+                    1
+                ],
+                "expiresIn": 518052,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Defend Malevelon Creek, by any means necessary.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                196
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 60
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 60
+                    },
+                    "flags": 1
+                }
+            }
+        ]
     }
 }
