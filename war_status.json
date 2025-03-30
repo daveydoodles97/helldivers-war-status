@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-03-30T11:50:58.718890 UTC",
+    "last_updated": "2025-03-30T11:57:29.881492 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,7 +80,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 517662,
+                "expiresIn": 517232,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -119,73 +119,73 @@
         ],
         "CampaignPlanets": [
             {
-                "planetIndex": 240,
-                "name": "Troost",
-                "faction": "Automatons",
-                "players": 964,
-                "health": 349791,
-                "maxHealth": 350000,
-                "percentage": 0.0597142857142785,
-                "defense": true,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": 1743418825.839
-            },
-            {
                 "planetIndex": 107,
                 "name": "P\u00f6pli IX",
                 "faction": "Automatons",
-                "players": 3538,
-                "health": 499708,
+                "players": 3988,
+                "health": 499612,
                 "maxHealth": 500000,
-                "percentage": 0.05839999999999179,
+                "percentage": 0.07759999999998968,
                 "defense": true,
                 "biome": {
                     "slug": "desolate",
                     "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
                 },
-                "expireDateTime": 1743419415.839
+                "expireDateTime": 1743419410.067
+            },
+            {
+                "planetIndex": 240,
+                "name": "Troost",
+                "faction": "Automatons",
+                "players": 963,
+                "health": 349750,
+                "maxHealth": 350000,
+                "percentage": 0.0714285714285694,
+                "defense": true,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": 1743418820.067
             },
             {
                 "planetIndex": 243,
                 "name": "Vandalon IV",
                 "faction": "Automatons",
-                "players": 2383,
-                "health": 649948,
+                "players": 3454,
+                "health": 649909,
                 "maxHealth": 650000,
-                "percentage": 0.007999999999995566,
+                "percentage": 0.013999999999995794,
                 "defense": true,
                 "biome": {
                     "slug": "winter",
                     "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
                 },
-                "expireDateTime": 1743420075.839
+                "expireDateTime": 1743420070.067
             },
             {
                 "planetIndex": 87,
                 "name": "Bashyr",
                 "faction": "Illuminates",
-                "players": 3922,
-                "health": 36380,
+                "players": 3707,
+                "health": 35462,
                 "maxHealth": 150000,
-                "percentage": 75.74666666666667,
+                "percentage": 76.35866666666666,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
                     "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
                 },
-                "expireDateTime": 1743337905.839
+                "expireDateTime": 1743337900.067
             },
             {
                 "planetIndex": 109,
                 "name": "Dolph",
                 "faction": "Automatons",
-                "players": 1727,
-                "health": 291074,
+                "players": 1650,
+                "health": 290570,
                 "maxHealth": 1000000,
-                "percentage": 70.8926,
+                "percentage": 70.943,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
@@ -197,10 +197,10 @@
                 "planetIndex": 155,
                 "name": "Ingmar",
                 "faction": "Automatons",
-                "players": 11618,
-                "health": 384687,
+                "players": 12601,
+                "health": 383742,
                 "maxHealth": 1000000,
-                "percentage": 61.5313,
+                "percentage": 61.6258,
                 "defense": false,
                 "biome": {
                     "slug": "crimsonmoor",
@@ -212,10 +212,10 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 11121,
-                "health": 912025,
+                "players": 10954,
+                "health": 911300,
                 "maxHealth": 1000000,
-                "percentage": 8.7975,
+                "percentage": 8.86999999999999,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -227,22 +227,22 @@
                 "planetIndex": 56,
                 "name": "Myrium",
                 "faction": "Illuminates",
-                "players": 2573,
-                "health": 141223,
+                "players": 2474,
+                "health": 140639,
                 "maxHealth": 150000,
-                "percentage": 5.8513333333333435,
+                "percentage": 6.2406666666666695,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1743367915.839
+                "expireDateTime": 1743367910.067
             },
             {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 86,
+                "players": 92,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +257,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 83,
+                "players": 87,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +272,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 24,
+                "players": 18,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +287,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 182,
+                "players": 166,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +317,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 50,
+                "players": 46,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +332,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 1003,
+                "players": 953,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +347,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 509,
+                "players": 530,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +362,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 261,
+                "players": 267,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -377,7 +377,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1051,
+                "players": 1018,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -392,7 +392,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 216,
+                "players": 218,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -407,7 +407,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 243,
+                "players": 240,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -422,7 +422,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 133,
+                "players": 126,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -437,7 +437,7 @@
                 "planetIndex": 154,
                 "name": "Mort",
                 "faction": "Automatons",
-                "players": 374,
+                "players": 365,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -452,7 +452,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 959,
+                "players": 949,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -467,7 +467,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 28,
+                "players": 24,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -482,7 +482,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 434,
+                "players": 430,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -497,7 +497,7 @@
                 "planetIndex": 242,
                 "name": "Ustotu",
                 "faction": "Automatons",
-                "players": 281,
+                "players": 294,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -512,7 +512,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 80,
+                "players": 78,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2921,7 +2921,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 517642,
+                "expiresIn": 517242,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
