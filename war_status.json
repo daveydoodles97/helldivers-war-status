@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-04T14:15:33.223111 UTC",
+    "last_updated": "2025-04-04T14:33:41.133136 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,7 +80,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 77992,
+                "expiresIn": 76932,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -122,10 +122,10 @@
                 "planetIndex": 154,
                 "name": "Mort",
                 "faction": "Automatons",
-                "players": 22524,
-                "health": 903178,
+                "players": 23321,
+                "health": 891507,
                 "maxHealth": 1000000,
-                "percentage": 9.682199999999995,
+                "percentage": 10.8493,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -137,22 +137,37 @@
                 "planetIndex": 110,
                 "name": "Bekvam III",
                 "faction": "Automatons",
-                "players": 2110,
-                "health": 966147,
+                "players": 1991,
+                "health": 964984,
                 "maxHealth": 1000000,
-                "percentage": 3.385300000000001,
+                "percentage": 3.5015999999999963,
                 "defense": false,
                 "biome": null,
                 "expireDateTime": null
             },
             {
+                "planetIndex": 140,
+                "name": "Alaraph",
+                "faction": "Illuminates",
+                "players": 3183,
+                "health": 98080,
+                "maxHealth": 100000,
+                "percentage": 1.9200000000000017,
+                "defense": false,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": 1743812435.846
+            },
+            {
                 "planetIndex": 242,
                 "name": "Ustotu",
                 "faction": "Automatons",
-                "players": 690,
-                "health": 983956,
+                "players": 707,
+                "health": 983615,
                 "maxHealth": 1000000,
-                "percentage": 1.6043999999999983,
+                "percentage": 1.6384999999999934,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -161,47 +176,17 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 140,
-                "name": "Alaraph",
-                "faction": "Illuminates",
-                "players": 2478,
-                "health": 98616,
-                "maxHealth": 100000,
-                "percentage": 1.3840000000000003,
-                "defense": false,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": 1743812435.46
-            },
-            {
                 "planetIndex": 240,
                 "name": "Troost",
                 "faction": "Automatons",
-                "players": 284,
-                "health": 989007,
+                "players": 306,
+                "health": 988887,
                 "maxHealth": 1000000,
-                "percentage": 1.0992999999999995,
+                "percentage": 1.1113,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
                     "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 131,
-                "name": "Achird III",
-                "faction": "Terminids",
-                "players": 8043,
-                "health": 999240,
-                "maxHealth": 1000000,
-                "percentage": 0.0759999999999934,
-                "defense": false,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
                 "expireDateTime": null
             },
@@ -209,10 +194,10 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 231,
-                "health": 999646,
+                "players": 235,
+                "health": 999503,
                 "maxHealth": 1000000,
-                "percentage": 0.03539999999999566,
+                "percentage": 0.04970000000000141,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -221,10 +206,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 131,
+                "name": "Achird III",
+                "faction": "Terminids",
+                "players": 8238,
+                "health": 999597,
+                "maxHealth": 1000000,
+                "percentage": 0.040300000000002,
+                "defense": false,
+                "biome": {
+                    "slug": "canyon",
+                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 185,
+                "players": 197,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -239,7 +239,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 168,
+                "players": 182,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -254,7 +254,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 165,
+                "players": 164,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -269,7 +269,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 63,
+                "players": 78,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -284,7 +284,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 735,
+                "players": 748,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -299,7 +299,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 401,
+                "players": 411,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -314,7 +314,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 287,
+                "players": 310,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -329,7 +329,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 871,
+                "players": 839,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -344,7 +344,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 236,
+                "players": 240,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -359,7 +359,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 838,
+                "players": 836,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -374,7 +374,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 83,
+                "players": 96,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -389,7 +389,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 395,
+                "players": 359,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -404,7 +404,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 139,
+                "players": 134,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2876,7 +2876,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 77962,
+                "expiresIn": 76852,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
