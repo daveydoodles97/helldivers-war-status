@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-07T14:59:13.289632 UTC",
+    "last_updated": "2025-04-07T15:20:28.171652 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,31 +74,87 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 2525440966,
+                "progress": [
+                    0,
+                    0
+                ],
+                "expiresIn": 417363,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Secure resources to upgrade the DSS, either liberating the designated Automaton planet for Exosuit support, or liberating the designated Terminid planet for Eagle re-arm support.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                247
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                100
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 2
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 230,
                 "name": "Shete",
                 "faction": "Illuminates",
-                "players": 2411,
-                "health": 97250,
+                "players": 2292,
+                "health": 95884,
                 "maxHealth": 150000,
-                "percentage": 35.16666666666667,
+                "percentage": 36.077333333333335,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
                     "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
                 },
-                "expireDateTime": 1744044881.663
+                "expireDateTime": 1744044887.513
             },
             {
                 "planetIndex": 242,
                 "name": "Ustotu",
                 "faction": "Automatons",
-                "players": 6829,
-                "health": 695243,
+                "players": 7065,
+                "health": 692991,
                 "maxHealth": 1000000,
-                "percentage": 30.475700000000003,
+                "percentage": 30.70089999999999,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -110,10 +166,10 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 17720,
-                "health": 855380,
+                "players": 17172,
+                "health": 847273,
                 "maxHealth": 1000000,
-                "percentage": 14.461999999999989,
+                "percentage": 15.2727,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -125,10 +181,10 @@
                 "planetIndex": 240,
                 "name": "Troost",
                 "faction": "Automatons",
-                "players": 253,
-                "health": 937426,
+                "players": 288,
+                "health": 940642,
                 "maxHealth": 1000000,
-                "percentage": 6.25739999999999,
+                "percentage": 5.9358,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -137,13 +193,28 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 225,
+                "name": "Rogue 5",
+                "faction": "Illuminates",
+                "players": 2204,
+                "health": 96020,
+                "maxHealth": 100000,
+                "percentage": 3.980000000000004,
+                "defense": false,
+                "biome": {
+                    "slug": "jungle",
+                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+                },
+                "expireDateTime": 1744074367.513
+            },
+            {
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 97,
-                "health": 972907,
+                "players": 94,
+                "health": 976207,
                 "maxHealth": 1000000,
-                "percentage": 2.709299999999999,
+                "percentage": 2.3793000000000006,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -152,25 +223,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 225,
-                "name": "Rogue 5",
-                "faction": "Illuminates",
-                "players": 2236,
-                "health": 97377,
-                "maxHealth": 100000,
-                "percentage": 2.6230000000000047,
-                "defense": false,
-                "biome": {
-                    "slug": "jungle",
-                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-                },
-                "expireDateTime": 1744074361.663
-            },
-            {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 375,
+                "players": 396,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +241,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 122,
+                "players": 105,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +256,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 568,
+                "players": 564,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +271,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 66,
+                "players": 93,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +286,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 94,
+                "players": 79,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +301,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 1505,
+                "players": 1339,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +316,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 702,
+                "players": 657,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +331,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 457,
+                "players": 528,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +346,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 947,
+                "players": 952,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +361,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 646,
+                "players": 596,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +376,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 204,
+                "players": 195,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +391,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1240,
+                "players": 1156,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +406,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 65,
+                "players": 61,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +421,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 579,
+                "players": 538,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -380,7 +436,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 111,
+                "players": 113,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2858,8 +2914,71 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>IVIS DESTROYED</i>\n\n<i=1>Ivis</i> has been destroyed by the <i=1>Meridian Singularity.</i> The destroyed planet joins <i=1>Moradesh</i> and <i=1>Angel's Venture</i> amongst the Illuminate's celestial murders. \n\nEfforts to slow the Singularity have worked, but too late to save <i=1>Ivis.</i> The Illuminate will face Justice for their crimes."
+            },
+            {
+                "id": 3150,
+                "published": 36130645,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nDiligent engineers at the <i=1>Deep Mantle Forge Complex</i> on <i=1>Claorell</i> have developed potential improvements to the <i=1>Democracy Space Station.</i> The DSS was critical to the recent defense against the Automatons, and enhancing its capabilities has become a top priority.\n\nConsult your <i=1>Galactic Map</i> for more information."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 2525440966,
+                "progress": [
+                    0,
+                    0
+                ],
+                "expiresIn": 417263,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Secure resources to upgrade the DSS, either liberating the designated Automaton planet for Exosuit support, or liberating the designated Terminid planet for Eagle re-arm support.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                247
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                100
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 2
+                }
+            }
+        ]
     }
 }
