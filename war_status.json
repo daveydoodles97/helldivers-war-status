@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-07T15:44:59.626700 UTC",
+    "last_updated": "2025-04-07T15:51:55.279090 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -81,7 +81,7 @@
                     0,
                     0
                 ],
-                "expiresIn": 415833,
+                "expiresIn": 415443,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -136,25 +136,25 @@
                 "planetIndex": 230,
                 "name": "Shete",
                 "faction": "Illuminates",
-                "players": 1883,
-                "health": 94156,
+                "players": 1765,
+                "health": 93758,
                 "maxHealth": 150000,
-                "percentage": 37.22933333333334,
+                "percentage": 37.49466666666667,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
                     "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
                 },
-                "expireDateTime": 1744044888.516
+                "expireDateTime": 1744044885.389
             },
             {
                 "planetIndex": 242,
                 "name": "Ustotu",
                 "faction": "Automatons",
-                "players": 10584,
-                "health": 690663,
+                "players": 11390,
+                "health": 689930,
                 "maxHealth": 1000000,
-                "percentage": 30.9337,
+                "percentage": 31.00699999999999,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -166,10 +166,10 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 13998,
-                "health": 839306,
+                "players": 13062,
+                "health": 837184,
                 "maxHealth": 1000000,
-                "percentage": 16.0694,
+                "percentage": 16.281599999999997,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -178,13 +178,28 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 225,
+                "name": "Rogue 5",
+                "faction": "Illuminates",
+                "players": 1595,
+                "health": 93970,
+                "maxHealth": 100000,
+                "percentage": 6.030000000000001,
+                "defense": false,
+                "biome": {
+                    "slug": "jungle",
+                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+                },
+                "expireDateTime": 1744074365.389
+            },
+            {
                 "planetIndex": 240,
                 "name": "Troost",
                 "faction": "Automatons",
-                "players": 276,
-                "health": 944436,
+                "players": 306,
+                "health": 945411,
                 "maxHealth": 1000000,
-                "percentage": 5.5563999999999965,
+                "percentage": 5.4589,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -193,28 +208,13 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 225,
-                "name": "Rogue 5",
-                "faction": "Illuminates",
-                "players": 1719,
-                "health": 94445,
-                "maxHealth": 100000,
-                "percentage": 5.554999999999993,
-                "defense": false,
-                "biome": {
-                    "slug": "jungle",
-                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-                },
-                "expireDateTime": 1744074368.516
-            },
-            {
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 81,
-                "health": 980119,
+                "players": 77,
+                "health": 981192,
                 "maxHealth": 1000000,
-                "percentage": 1.9880999999999887,
+                "percentage": 1.8807999999999936,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -223,10 +223,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 70,
+                "name": "Blistica",
+                "faction": "Automatons",
+                "players": 100,
+                "health": 999990,
+                "maxHealth": 1000000,
+                "percentage": 0.000999999999990564,
+                "defense": false,
+                "biome": {
+                    "slug": "desolate",
+                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 345,
+                "players": 337,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -238,25 +253,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 70,
-                "name": "Blistica",
-                "faction": "Automatons",
-                "players": 106,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 489,
+                "players": 450,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -271,7 +271,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 83,
+                "players": 98,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -301,7 +301,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 1066,
+                "players": 1070,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -316,7 +316,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 528,
+                "players": 521,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -331,7 +331,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 2851,
+                "players": 3589,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -346,7 +346,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 838,
+                "players": 791,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -361,7 +361,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 562,
+                "players": 541,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -376,7 +376,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 180,
+                "players": 172,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -391,7 +391,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1035,
+                "players": 1013,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -406,7 +406,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 55,
+                "players": 59,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -421,7 +421,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 609,
+                "players": 645,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -436,7 +436,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 79,
+                "players": 74,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2930,12 +2930,9 @@
                     0,
                     0
                 ],
-                "expiresIn": 415823,
+                "expiresIn": 415413,
                 "setting": {
                     "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Secure resources to upgrade the DSS, either liberating the designated Automaton planet for Exosuit support, or liberating the designated Terminid planet for Eagle re-arm support.",
-                    "taskDescription": "",
                     "tasks": [
                         {
                             "type": 11,
