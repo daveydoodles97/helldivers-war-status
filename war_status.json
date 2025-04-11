@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-11T11:41:58.828832 UTC",
+    "last_updated": "2025-04-11T11:49:10.086449 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,28 +74,70 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 1107608205,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 431771,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Provide security for a scientific expedition into the Gloom, in order to enable technological advancements that could stop the Meridian Singularity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                211
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 0
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 148,
                 "name": "Bunda Secundus",
                 "faction": "Illuminates",
-                "players": 3560,
-                "health": 48871,
+                "players": 3499,
+                "health": 48020,
                 "maxHealth": 100000,
-                "percentage": 51.129,
+                "percentage": 51.98,
                 "defense": false,
                 "biome": null,
-                "expireDateTime": 1744376647.682
+                "expireDateTime": 1744376650.388
             },
             {
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 12379,
-                "health": 777022,
+                "players": 12540,
+                "health": 772216,
                 "maxHealth": 1000000,
-                "percentage": 22.297799999999995,
+                "percentage": 22.77839999999999,
                 "defense": false,
                 "biome": {
                     "slug": "morass",
@@ -107,10 +149,10 @@
                 "planetIndex": 240,
                 "name": "Troost",
                 "faction": "Automatons",
-                "players": 415,
-                "health": 980907,
+                "players": 438,
+                "health": 980800,
                 "maxHealth": 1000000,
-                "percentage": 1.9093000000000018,
+                "percentage": 1.9200000000000017,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -122,22 +164,22 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 774,
-                "health": 99958,
+                "players": 859,
+                "health": 99925,
                 "maxHealth": 100000,
-                "percentage": 0.04200000000000159,
+                "percentage": 0.07500000000000284,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
                     "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
                 },
-                "expireDateTime": 1744412697.682
+                "expireDateTime": 1744412700.388
             },
             {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 2745,
+                "players": 2843,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -152,7 +194,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 239,
+                "players": 229,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -167,7 +209,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 84,
+                "players": 88,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -182,7 +224,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 61,
+                "players": 55,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -197,7 +239,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 432,
+                "players": 457,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -212,7 +254,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 798,
+                "players": 792,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -227,7 +269,7 @@
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 86,
+                "players": 83,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +284,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 51,
+                "players": 52,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +299,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 330,
+                "players": 328,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +314,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 176,
+                "players": 189,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +329,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 477,
+                "players": 489,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +344,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 343,
+                "players": 347,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +359,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 210,
+                "players": 213,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -329,10 +371,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 211,
+                "name": "Nivel 43",
+                "faction": "Terminids",
+                "players": 219,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 384,
+                "players": 398,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +404,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 38,
+                "players": 39,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +419,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 194,
+                "players": 206,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -377,7 +434,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 919,
+                "players": 890,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -392,7 +449,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 75,
+                "players": 67,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2884,8 +2941,57 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>MAJOR ORDER WON</i>\n\nBy returning <i=1>WEZEN</i> to the rightful control of Super Earth citizens, the Helldivers have secured the resources necessary to augment the <i=1>Democracy Space Station</i> with an <i=1>Exosuit Support Bay.</i> \n\nMoving forward, the DSS will provide rapid Exosuit replenishment to all Super Destroyers it shares an orbit with, <i=1>reducing Exosuit Stratagem cooldown by 35%</i> on the orbited planet."
+            },
+            {
+                "id": 3152,
+                "published": 36462851,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nHigh Command has authorized a second limited expedition into the <i=1>Gloom,</i> in order to progress our technology enough to finally stop the Meridian Wormhole. Consult your Galactic Map for more information."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 1107608205,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 431851,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Provide security for a scientific expedition into the Gloom, in order to enable technological advancements that could stop the Meridian Singularity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                211
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
