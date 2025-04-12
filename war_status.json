@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-12T08:52:01.688586 UTC",
+    "last_updated": "2025-04-12T08:58:32.249527 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,12 +80,9 @@
                 "progress": [
                     0
                 ],
-                "expiresIn": 356301,
+                "expiresIn": 355901,
                 "setting": {
                     "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Provide security for a scientific expedition into the Gloom, in order to enable technological advancements that could stop the Meridian Singularity.",
-                    "taskDescription": "",
                     "tasks": [
                         {
                             "type": 11,
@@ -122,25 +119,25 @@
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 1611,
-                "health": 62156,
+                "players": 1542,
+                "health": 61730,
                 "maxHealth": 100000,
-                "percentage": 37.844,
+                "percentage": 38.269999999999996,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
                     "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
                 },
-                "expireDateTime": 1744448960.678
+                "expireDateTime": 1744448960.546
             },
             {
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 2212,
-                "health": 866291,
+                "players": 2168,
+                "health": 867236,
                 "maxHealth": 1000000,
-                "percentage": 13.370899999999992,
+                "percentage": 13.276399999999995,
                 "defense": false,
                 "biome": {
                     "slug": "morass",
@@ -152,10 +149,10 @@
                 "planetIndex": 240,
                 "name": "Troost",
                 "faction": "Automatons",
-                "players": 230,
-                "health": 964102,
+                "players": 232,
+                "health": 963973,
                 "maxHealth": 1000000,
-                "percentage": 3.5897999999999968,
+                "percentage": 3.6026999999999987,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -167,29 +164,29 @@
                 "planetIndex": 145,
                 "name": "Botein",
                 "faction": "Illuminates",
-                "players": 624,
-                "health": 98514,
+                "players": 609,
+                "health": 98391,
                 "maxHealth": 100000,
-                "percentage": 1.4860000000000042,
+                "percentage": 1.6089999999999947,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
                     "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
                 },
-                "expireDateTime": 1744481720.678
+                "expireDateTime": 1744481720.546
             },
             {
-                "planetIndex": 158,
-                "name": "Choepessa IV",
-                "faction": "Automatons",
-                "players": 1258,
-                "health": 999973,
+                "planetIndex": 211,
+                "name": "Nivel 43",
+                "faction": "Terminids",
+                "players": 21722,
+                "health": 999988,
                 "maxHealth": 1000000,
-                "percentage": 0.0026999999999901547,
+                "percentage": 0.0011999999999972033,
                 "defense": false,
                 "biome": {
-                    "slug": "icemoss",
-                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
                 },
                 "expireDateTime": null
             },
@@ -197,7 +194,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 1462,
+                "players": 1440,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -212,7 +209,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 399,
+                "players": 392,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -227,7 +224,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 133,
+                "players": 132,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +239,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 62,
+                "players": 54,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +254,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 480,
+                "players": 484,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -269,10 +266,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 158,
+                "name": "Choepessa IV",
+                "faction": "Automatons",
+                "players": 1257,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "icemoss",
+                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 160,
                 "name": "Chort Bay",
                 "faction": "Automatons",
-                "players": 50,
+                "players": 52,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +299,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 75,
+                "players": 72,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +314,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 224,
+                "players": 249,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +329,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 154,
+                "players": 155,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +344,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 317,
+                "players": 337,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +359,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 485,
+                "players": 474,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +374,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 247,
+                "players": 250,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -374,25 +386,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 211,
-                "name": "Nivel 43",
-                "faction": "Terminids",
-                "players": 21781,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 306,
+                "players": 331,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -407,7 +404,7 @@
                 "planetIndex": 115,
                 "name": "Penta",
                 "faction": "Automatons",
-                "players": 65,
+                "players": 62,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -422,7 +419,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 113,
+                "players": 121,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -437,7 +434,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 258,
+                "players": 267,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -452,7 +449,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 84,
+                "players": 82,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2980,7 +2977,7 @@
                 "progress": [
                     0
                 ],
-                "expiresIn": 356171,
+                "expiresIn": 355781,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
