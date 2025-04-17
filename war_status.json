@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-17T11:09:24.485065 UTC",
+    "last_updated": "2025-04-17T11:23:58.662574 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,9 +80,12 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 348883,
+                "expiresIn": 348023,
                 "setting": {
                     "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Defend against the sudden and unprovoked onslaught of mutated Terminids from the Gloom.",
+                    "taskDescription": "",
                     "tasks": [
                         {
                             "type": 12,
@@ -121,55 +124,55 @@
                 "planetIndex": 78,
                 "name": "Crimsica",
                 "faction": "Terminids",
-                "players": 15780,
-                "health": 392339,
+                "players": 16646,
+                "health": 378803,
                 "maxHealth": 750000,
-                "percentage": 47.68813333333333,
+                "percentage": 49.49293333333333,
                 "defense": true,
                 "biome": {
                     "slug": "crimsonmoor",
                     "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
                 },
-                "expireDateTime": 1744909293.631
+                "expireDateTime": 1744910167.873
             },
             {
                 "planetIndex": 75,
                 "name": "Esker",
                 "faction": "Terminids",
-                "players": 1416,
-                "health": 570980,
+                "players": 1459,
+                "health": 569983,
                 "maxHealth": 650000,
-                "percentage": 12.156923076923078,
+                "percentage": 12.310307692307688,
                 "defense": true,
                 "biome": {
                     "slug": "toxic",
                     "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
                 },
-                "expireDateTime": 1744889583.631
+                "expireDateTime": 1744889587.873
             },
             {
                 "planetIndex": 186,
                 "name": "Keid",
                 "faction": "Illuminates",
-                "players": 921,
-                "health": 80347,
+                "players": 987,
+                "health": 79724,
                 "maxHealth": 100000,
-                "percentage": 19.65299999999999,
+                "percentage": 20.275999999999996,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
                     "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
                 },
-                "expireDateTime": 1744896923.631
+                "expireDateTime": 1744896927.873
             },
             {
                 "planetIndex": 240,
                 "name": "Troost",
                 "faction": "Automatons",
-                "players": 149,
-                "health": 851592,
+                "players": 150,
+                "health": 851416,
                 "maxHealth": 1000000,
-                "percentage": 14.840800000000002,
+                "percentage": 14.858399999999989,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -181,10 +184,25 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 975,
-                "health": 931914,
+                "players": 1074,
+                "health": 934648,
                 "maxHealth": 1000000,
-                "percentage": 6.808599999999998,
+                "percentage": 6.535199999999989,
+                "defense": false,
+                "biome": {
+                    "slug": "icemoss",
+                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 158,
+                "name": "Choepessa IV",
+                "faction": "Automatons",
+                "players": 217,
+                "health": 999985,
+                "maxHealth": 1000000,
+                "percentage": 0.0014999999999929514,
                 "defense": false,
                 "biome": {
                     "slug": "icemoss",
@@ -196,7 +214,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 550,
+                "players": 593,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -211,7 +229,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 312,
+                "players": 353,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -241,7 +259,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 35,
+                "players": 27,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -256,7 +274,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 257,
+                "players": 292,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -268,25 +286,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 158,
-                "name": "Choepessa IV",
-                "faction": "Automatons",
-                "players": 216,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "icemoss",
-                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 48,
+                "players": 47,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -301,7 +304,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 98,
+                "players": 92,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -316,7 +319,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 167,
+                "players": 155,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -331,7 +334,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 66,
+                "players": 60,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -346,7 +349,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 127,
+                "players": 147,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -361,7 +364,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 292,
+                "players": 307,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -376,7 +379,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 183,
+                "players": 190,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -391,7 +394,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 237,
+                "players": 284,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -406,7 +409,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 49,
+                "players": 51,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -421,7 +424,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 78,
+                "players": 80,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -436,7 +439,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 62,
+                "players": 73,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -2999,7 +3002,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 348833,
+                "expiresIn": 347973,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
