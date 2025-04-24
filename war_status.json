@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-24T08:26:57.952898 UTC",
+    "last_updated": "2025-04-24T08:45:32.285969 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -79,9 +79,9 @@
                 "id32": 1688967915,
                 "progress": [
                     5,
-                    473869050
+                    475141553
                 ],
-                "expiresIn": 123645,
+                "expiresIn": 122535,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -149,28 +149,13 @@
         ],
         "CampaignPlanets": [
             {
-                "planetIndex": 126,
-                "name": "Turing",
-                "faction": "Illuminates",
-                "players": 7685,
-                "health": 61868,
-                "maxHealth": 500000,
-                "percentage": 87.6264,
-                "defense": false,
-                "biome": {
-                    "slug": "ethereal",
-                    "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
-                },
-                "expireDateTime": 1745483227.537
-            },
-            {
                 "planetIndex": 240,
                 "name": "Troost",
                 "faction": "Automatons",
-                "players": 418,
-                "health": 333817,
+                "players": 441,
+                "health": 332949,
                 "maxHealth": 1000000,
-                "percentage": 66.6183,
+                "percentage": 66.7051,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -179,47 +164,17 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 125,
-                "name": "Fenrir III",
-                "faction": "Illuminates",
-                "players": 2462,
-                "health": 320944,
-                "maxHealth": 450000,
-                "percentage": 28.679111111111112,
-                "defense": false,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": 1745484117.537
-            },
-            {
-                "planetIndex": 75,
-                "name": "Esker",
+                "planetIndex": 126,
+                "name": "Turing",
                 "faction": "Terminids",
-                "players": 1467,
-                "health": 999880,
+                "players": 6331,
+                "health": 507200,
                 "maxHealth": 1000000,
-                "percentage": 0.012000000000000455,
+                "percentage": 49.279999999999994,
                 "defense": false,
                 "biome": {
-                    "slug": "toxic",
-                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 198,
-                "name": "Marfark",
-                "faction": "Automatons",
-                "players": 212,
-                "health": 999983,
-                "maxHealth": 1000000,
-                "percentage": 0.0016999999999995907,
-                "defense": false,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+                    "slug": "ethereal",
+                    "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
                 },
                 "expireDateTime": null
             },
@@ -227,7 +182,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 726,
+                "players": 654,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +197,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 206,
+                "players": 176,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +212,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 50,
+                "players": 38,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +227,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 28,
+                "players": 25,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +242,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 193,
+                "players": 197,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +257,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 145,
+                "players": 143,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +272,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 38,
+                "players": 34,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +287,22 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 103,
+                "players": 116,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "toxic",
+                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 75,
+                "name": "Esker",
+                "faction": "Terminids",
+                "players": 1292,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +317,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 501,
+                "players": 495,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +332,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 65,
+                "players": 53,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -377,7 +347,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 30,
+                "players": 38,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -407,7 +377,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 150,
+                "players": 123,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -419,10 +389,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 198,
+                "name": "Marfark",
+                "faction": "Automatons",
+                "players": 180,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "winter",
+                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 133,
+                "players": 130,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -437,7 +422,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 121,
+                "players": 124,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -452,7 +437,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 42,
+                "players": 66,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -467,7 +452,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 62,
+                "players": 60,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -482,7 +467,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 40,
+                "players": 43,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -492,6 +477,21 @@
                     "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
                 },
                 "expireDateTime": null
+            },
+            {
+                "planetIndex": 5,
+                "name": "Pilen V",
+                "faction": "Illuminates",
+                "players": 362,
+                "health": 350000,
+                "maxHealth": 350000,
+                "percentage": -1.4210854715202004e-14,
+                "defense": false,
+                "biome": {
+                    "slug": "desert",
+                    "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
+                },
+                "expireDateTime": 1745527260.907
             }
         ]
     },
@@ -3079,6 +3079,20 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>CENTER OF SCIENCE UPDATE</i>\n\n<i=1>Scientists</i> on <i=1>Fenrir III</i> are suffering from the effects of prolonged stress due to successive Illuminate attacks. In order to sustain their critical research, they will be supplied with top-of-the-line treatments to maintain mental acument. \n\nThis reallocation will have a short-term impact on Helldiver operations. <i=1>Helldiver stim capacity temporarily reduced by 2.</i> "
+            },
+            {
+                "id": 3168,
+                "published": 37571760,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>XENOENTOMOLOGY CENTER DAMAGED</i>\n\nThe <i=1>Xenoentomology Center</i> on <i=1>Turing</i> has been significantly damaged by the Illuminate, resulting in an outbreak of mutated specimens that had been kept securely under study. \n\nAs a result, <i=1>TURING</i> has come under attack by the <i=1>Predator Strain.</i>"
+            },
+            {
+                "id": 3169,
+                "published": 37572720,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>PILEN V UNDER ATTACK</i>\n\nThe Illuminate attack on <i=1>Pilen V</i> threatens the <i=1>Repulsive Gravity Field Generator,</i> critical to halting the <i=1>Meridian Wormhole.</i>\n\n The Generator is nearing completion; the Illuminate cannot be allowed to destroy our progress. "
             }
         ],
         "WarAssignments": [
@@ -3086,9 +3100,9 @@
                 "id32": 1688967915,
                 "progress": [
                     5,
-                    473869050
+                    475103681
                 ],
-                "expiresIn": 123645,
+                "expiresIn": 122565,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
