@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-25T14:45:59.781934 UTC",
+    "last_updated": "2025-04-25T14:52:46.923870 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,46 +74,108 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 4108768873,
+                "progress": [
+                    0,
+                    0
+                ],
+                "expiresIn": 345580,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Repel Illuminate forces and gather E-710 as directed, to support completion and activation of the Repulsive Gravity Field Generator on Pilen V.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 9,
+                            "values": [
+                                4,
+                                625000,
+                                0,
+                                3,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                126
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 0
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 80,
                 "name": "Veld",
                 "faction": "Terminids",
-                "players": 17051,
-                "health": 208082,
+                "players": 16635,
+                "health": 203969,
                 "maxHealth": 650000,
-                "percentage": 67.98738461538461,
+                "percentage": 68.62015384615384,
                 "defense": true,
                 "biome": {
                     "slug": "rainforest",
                     "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
                 },
-                "expireDateTime": 1745613508.991
+                "expireDateTime": 1745613510.358
             },
             {
                 "planetIndex": 116,
                 "name": "Gaellivare",
                 "faction": "Automatons",
-                "players": 6411,
-                "health": 374369,
+                "players": 6330,
+                "health": 372836,
                 "maxHealth": 400000,
-                "percentage": 6.407749999999993,
+                "percentage": 6.790999999999997,
                 "defense": true,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1745668058.991
+                "expireDateTime": 1745668060.358
             },
             {
                 "planetIndex": 240,
                 "name": "Troost",
                 "faction": "Automatons",
-                "players": 601,
-                "health": 196232,
+                "players": 562,
+                "health": 195909,
                 "maxHealth": 1000000,
-                "percentage": 80.3768,
+                "percentage": 80.4091,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -125,22 +187,22 @@
                 "planetIndex": 26,
                 "name": "Nublaria I",
                 "faction": "Illuminates",
-                "players": 4207,
-                "health": 499660,
+                "players": 4940,
+                "health": 499488,
                 "maxHealth": 500000,
-                "percentage": 0.06799999999999784,
+                "percentage": 0.10239999999998872,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1745633818.991
+                "expireDateTime": 1745633820.358
             },
             {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 1123,
+                "players": 1128,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -155,7 +217,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 209,
+                "players": 219,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -170,7 +232,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 71,
+                "players": 70,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +247,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 57,
+                "players": 50,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +262,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 336,
+                "players": 335,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +277,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 209,
+                "players": 200,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +292,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 33,
+                "players": 27,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +307,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 159,
+                "players": 153,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +322,7 @@
                 "planetIndex": 75,
                 "name": "Esker",
                 "faction": "Terminids",
-                "players": 404,
+                "players": 393,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +337,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 602,
+                "players": 569,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +352,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 75,
+                "players": 79,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +367,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 57,
+                "players": 63,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +382,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 188,
+                "players": 201,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +397,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 688,
+                "players": 675,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +412,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 306,
+                "players": 334,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +427,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 235,
+                "players": 234,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -380,7 +442,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 174,
+                "players": 158,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -395,7 +457,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 92,
+                "players": 82,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -410,7 +472,7 @@
                 "planetIndex": 126,
                 "name": "Turing",
                 "faction": "Terminids",
-                "players": 1797,
+                "players": 1695,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -425,7 +487,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 63,
+                "players": 65,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -440,7 +502,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 71,
+                "players": 70,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -3060,6 +3122,68 @@
                 "message": "<i=3>MAJOR ORDER WON</i>\n\nThe Illuminate attacks on our critical infrastructure have been decisively rebuffed. It is clear the enemy overextended themselves, revealing their desperation as their plan to destroy Super Earth falls to pieces.\n\nConsult your Galactic Map for more information."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 4108768873,
+                "progress": [
+                    0,
+                    0
+                ],
+                "expiresIn": 345590,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Repel Illuminate forces and gather E-710 as directed, to support completion and activation of the Repulsive Gravity Field Generator on Pilen V.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 9,
+                            "values": [
+                                4,
+                                625000,
+                                0,
+                                3,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                126
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
