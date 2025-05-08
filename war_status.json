@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-08T10:18:46.673986 UTC",
+    "last_updated": "2025-05-08T10:40:47.819966 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -78,9 +78,9 @@
             {
                 "id32": 1168723785,
                 "progress": [
-                    0
+                    1
                 ],
-                "expiresIn": 376867,
+                "expiresIn": 375537,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -115,28 +115,13 @@
         ],
         "CampaignPlanets": [
             {
-                "planetIndex": 67,
-                "name": "Tarsh",
-                "faction": "Automatons",
-                "players": 7110,
-                "health": 11767,
-                "maxHealth": 1000000,
-                "percentage": 98.8233,
-                "defense": false,
-                "biome": {
-                    "slug": "morass",
-                    "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 80,
                 "name": "Veld",
                 "faction": "Terminids",
-                "players": 631,
-                "health": 877124,
+                "players": 744,
+                "health": 878241,
                 "maxHealth": 1000000,
-                "percentage": 12.287599999999998,
+                "percentage": 12.175899999999999,
                 "defense": false,
                 "biome": {
                     "slug": "rainforest",
@@ -145,10 +130,40 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 161,
+                "name": "Claorell",
+                "faction": "Automatons",
+                "players": 2176,
+                "health": 999973,
+                "maxHealth": 1000000,
+                "percentage": 0.0026999999999901547,
+                "defense": false,
+                "biome": {
+                    "slug": "moon",
+                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 52,
+                "name": "Slif",
+                "faction": "Terminids",
+                "players": 2423,
+                "health": 999978,
+                "maxHealth": 1000000,
+                "percentage": 0.002200000000001978,
+                "defense": false,
+                "biome": {
+                    "slug": "toxic",
+                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 284,
+                "players": 269,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -163,7 +178,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 282,
+                "players": 412,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -178,7 +193,7 @@
                 "planetIndex": 49,
                 "name": "Azterra",
                 "faction": "Terminids",
-                "players": 682,
+                "players": 697,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -193,7 +208,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 81,
+                "players": 85,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -208,7 +223,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 58,
+                "players": 59,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -223,7 +238,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 11,
+                "players": 22,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -238,7 +253,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 153,
+                "players": 179,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -253,7 +268,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 118,
+                "players": 160,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -265,25 +280,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 161,
-                "name": "Claorell",
-                "faction": "Automatons",
-                "players": 1118,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 83,
+                "players": 92,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -298,7 +298,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 37,
+                "players": 32,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -313,7 +313,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 142,
+                "players": 165,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -328,7 +328,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 17,
+                "players": 25,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -343,7 +343,7 @@
                 "planetIndex": 116,
                 "name": "Gaellivare",
                 "faction": "Automatons",
-                "players": 161,
+                "players": 305,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -358,7 +358,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 27,
+                "players": 29,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -373,7 +373,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 74,
+                "players": 94,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -388,7 +388,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 123,
+                "players": 128,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -403,7 +403,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 40,
+                "players": 41,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -418,7 +418,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 36,
+                "players": 33,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -430,25 +430,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 52,
-                "name": "Slif",
-                "faction": "Terminids",
-                "players": 2123,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "toxic",
-                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 76,
                 "name": "Terrek",
                 "faction": "Terminids",
-                "players": 956,
+                "players": 1008,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -475,10 +460,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 112,
+                "name": "Vernen Wells",
+                "faction": "Automatons",
+                "players": 136,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "canyon",
+                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 92,
+                "players": 116,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -3221,9 +3221,9 @@
             {
                 "id32": 1168723785,
                 "progress": [
-                    0
+                    1
                 ],
-                "expiresIn": 376887,
+                "expiresIn": 375557,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
