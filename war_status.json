@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-20T08:56:48.935232 UTC",
+    "last_updated": "2025-05-20T09:16:15.679956 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,16 +74,72 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 1201371156,
+                "progress": [
+                    155
+                ],
+                "expiresIn": 258890,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Thin Illuminate ground forces as you fight to hold Super Earth's Mega Cities.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                2500000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 0
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 76,
                 "name": "Terrek",
                 "faction": "Terminids",
-                "players": 8434,
-                "health": 996992,
+                "players": 5805,
+                "health": 996661,
                 "maxHealth": 1000000,
-                "percentage": 0.3007999999999953,
+                "percentage": 0.33389999999999986,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
@@ -95,7 +151,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 486,
+                "players": 328,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -110,7 +166,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 186,
+                "players": 119,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -125,7 +181,7 @@
                 "planetIndex": 49,
                 "name": "Azterra",
                 "faction": "Terminids",
-                "players": 2506,
+                "players": 1744,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -140,7 +196,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 269,
+                "players": 176,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -155,7 +211,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 233,
+                "players": 185,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -170,7 +226,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 44,
+                "players": 26,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +241,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 656,
+                "players": 429,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +256,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 429,
+                "players": 260,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +271,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 277,
+                "players": 184,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +286,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 78,
+                "players": 54,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +301,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 375,
+                "players": 278,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +316,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 72,
+                "players": 60,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +331,7 @@
                 "planetIndex": 116,
                 "name": "Gaellivare",
                 "faction": "Automatons",
-                "players": 4752,
+                "players": 3098,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +346,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 63,
+                "players": 37,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +361,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 242,
+                "players": 153,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +376,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 228,
+                "players": 165,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +391,7 @@
                 "planetIndex": 26,
                 "name": "Nublaria I",
                 "faction": "Terminids",
-                "players": 13040,
+                "players": 9400,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +406,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 118,
+                "players": 104,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +421,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 107,
+                "players": 60,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -380,7 +436,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 147,
+                "players": 91,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -395,7 +451,7 @@
                 "planetIndex": 80,
                 "name": "Veld",
                 "faction": "Terminids",
-                "players": 753,
+                "players": 560,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -410,7 +466,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 601,
+                "players": 418,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -425,7 +481,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 4928,
+                "players": 3205,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -440,7 +496,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 330,
+                "players": 186,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -455,7 +511,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 941,
+                "players": 570,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -464,6 +520,18 @@
                     "slug": "mesa",
                     "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
                 },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 0,
+                "name": "Super Earth",
+                "faction": "Super Earth",
+                "players": 13723,
+                "health": 6200000,
+                "maxHealth": 1000000,
+                "percentage": -520,
+                "defense": false,
+                "biome": null,
                 "expireDateTime": null
             }
         ]
@@ -3241,8 +3309,78 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>MARS RAZED</i>\n\n<i=1>Mars</i> has been razed by the Illuminate. All Helldiver Training Sites across the planet, where rigorous, thorough, and safe training of the Galaxy's Elite has long occurred, have been destroyed. The expert and seasoned facility PA operators who facilitated the training died defending the planet.\n\nFortunately, Helldiver training has already been relocated to another undisclosed planet. Nevertheless, reinforcement budgets will suffer a short-term reduction by <i=1>1.</i>"
+            },
+            {
+                "id": 3195,
+                "published": 39816600,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nThe Battle for Super Earth has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, Super Earth is lost.\n\nThe strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible."
+            },
+            {
+                "id": 3196,
+                "published": 39816840,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>LOW ORBIT INTERDICTION</i>\n\nIlluminate spacecraft are firing upon Eagle fighters in Super Earth's orbit.\n\n<i=1>Eagle Rearm Cooldown will be increased by 30 seconds</i> until countermeasures can be developed."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 1201371156,
+                "progress": [
+                    187
+                ],
+                "expiresIn": 258880,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Thin Illuminate ground forces as you fight to hold Super Earth's Mega Cities.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                2500000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
