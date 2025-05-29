@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-29T08:55:01.757651 UTC",
+    "last_updated": "2025-05-29T09:11:48.012227 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,7 +80,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 180706,
+                "expiresIn": 179636,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -115,14 +115,61 @@
                     },
                     "flags": 1
                 }
+            },
+            {
+                "id32": 4270018355,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 85860,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "",
+                    "overrideBrief": "",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                1,
+                                2,
+                                1,
+                                16
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
+                }
             }
         ],
         "CampaignPlanets": [
             {
+                "planetIndex": 16,
+                "name": "Fort Union",
+                "faction": "Terminids",
+                "players": 4530,
+                "health": 299934,
+                "maxHealth": 300000,
+                "percentage": 0.02200000000000557,
+                "defense": true,
+                "biome": {
+                    "slug": "highlands",
+                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+                },
+                "expireDateTime": 1748595560.228
+            },
+            {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 383,
+                "players": 357,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -137,7 +184,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 133,
+                "players": 122,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -152,7 +199,7 @@
                 "planetIndex": 49,
                 "name": "Azterra",
                 "faction": "Terminids",
-                "players": 2080,
+                "players": 1983,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -167,7 +214,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 144,
+                "players": 153,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -182,7 +229,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 245,
+                "players": 259,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -197,7 +244,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 37,
+                "players": 44,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -212,7 +259,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 379,
+                "players": 352,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -227,7 +274,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 209,
+                "players": 192,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +289,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 171,
+                "players": 184,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +304,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 92,
+                "players": 84,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +319,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 399,
+                "players": 365,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +334,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 64,
+                "players": 72,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +349,7 @@
                 "planetIndex": 116,
                 "name": "Gaellivare",
                 "faction": "Automatons",
-                "players": 1277,
+                "players": 1294,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +364,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 103,
+                "players": 102,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +379,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 239,
+                "players": 245,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +394,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 242,
+                "players": 218,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +409,7 @@
                 "planetIndex": 26,
                 "name": "Nublaria I",
                 "faction": "Terminids",
-                "players": 2729,
+                "players": 2717,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -377,7 +424,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 182,
+                "players": 185,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -392,7 +439,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 122,
+                "players": 118,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -407,7 +454,7 @@
                 "planetIndex": 76,
                 "name": "Terrek",
                 "faction": "Terminids",
-                "players": 6073,
+                "players": 5915,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -422,7 +469,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 126,
+                "players": 111,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -437,7 +484,7 @@
                 "planetIndex": 80,
                 "name": "Veld",
                 "faction": "Terminids",
-                "players": 645,
+                "players": 557,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -452,7 +499,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 419,
+                "players": 486,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -467,7 +514,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 1326,
+                "players": 1281,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -482,7 +529,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 154,
+                "players": 153,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -497,7 +544,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 483,
+                "players": 462,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -512,7 +559,7 @@
                 "planetIndex": 0,
                 "name": "Super Earth",
                 "faction": "Super Earth",
-                "players": 73064,
+                "players": 67742,
                 "health": 6200000,
                 "maxHealth": 1000000,
                 "percentage": -520,
@@ -3652,6 +3699,48 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=1>MEGACITY STATUS REPORT</i>\n\nThe coordinated defensive efforts at <i=1>Equality-on-Sea</i> have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength."
+            },
+            {
+                "id": 3246,
+                "published": 40593272,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>STRATEGIC OPPORTUNITY</i>\n\nA former satellite technician on <i=1>#PLANET</i> has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet.\n\nHowever, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed."
+            },
+            {
+                "id": 3247,
+                "published": 40593600,
+                "type": 0,
+                "tagIds": [],
+                "message": "void msg"
+            },
+            {
+                "id": 3248,
+                "published": 40593610,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=1>MEGACITY UNDER ATTACK</i>\n\nThe Illuminate have launched an attack on Super Earth's Capital: <i=1>Prosperity City.</i>"
+            },
+            {
+                "id": 3249,
+                "published": 40593620,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>DEFENSES HOLDING</i>\n\nThe Illuminate have launched a desperate last push upon <i=1>Equality-On-Sea</i> and <i=1>Prosperity City</i>, this comes at great cost to their sustained fleet strength. The Helldivers are holding the line. Continue the fight."
+            },
+            {
+                "id": 3250,
+                "published": 40593630,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=1>MEGACITY STATUS REPORT</i>\n\nThe coordinated defensive efforts at <i=1>Equality-on-Sea</i> have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength."
+            },
+            {
+                "id": 3251,
+                "published": 40593640,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>STRATEGIC OPPORTUNITY</i>\n\nA former satellite technician on <i=1>#PLANET</i> has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet.\n\nHowever, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed."
             }
         ],
         "WarAssignments": [
@@ -3660,12 +3749,9 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 180586,
+                "expiresIn": 179596,
                 "setting": {
                     "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Hold Super Earth.",
-                    "taskDescription": "",
                     "tasks": [
                         {
                             "type": 13,
@@ -3694,6 +3780,35 @@
                         "amount": 75
                     },
                     "flags": 1
+                }
+            },
+            {
+                "id32": 4270018355,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 85820,
+                "setting": {
+                    "type": 4,
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                1,
+                                2,
+                                1,
+                                16
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
                 }
             }
         ]
