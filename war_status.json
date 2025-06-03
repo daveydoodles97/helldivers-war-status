@@ -1,119 +1,150 @@
 {
-    "last_updated": "2025-06-03T11:59:26.665301 UTC",
+    "last_updated": "2025-06-03T12:43:09.597795 UTC",
     "SuperEarth": {
         "WarNews": [
             {
-                "id": 2797,
-                "published": 2414563,
+                "id": 3255,
+                "published": 40637874,
                 "type": 0,
                 "tagIds": [],
-                "message": "Terminid spores have engulfed Heeth and Angel's Venture, spawning hordes of Terminids that overwhelmed our colonial militias. Clearly, the bug hive instinct oriented their mindless expansion towards dishonoring the memory of those who fought to free these planets.\n\nYour fellow Helldivers paid for these lands with their lives. We cannot lose them now. Hold the planets until SEAF reinforcements arrive."
+                "message": "<i=3>PRESIDENT KIA</i>\n\nThe President of Super Earth has been killed in action by the Illuminate during the siege of Prosperity City. The President died heroically, defending the Presidential Security bunker with only a pistol against waves of Illuminate foes.\n\nPresidential authority has been placed in the Minister of Defense."
             },
             {
-                "id": 2798,
-                "published": 2499000,
+                "id": 3256,
+                "published": 40641290,
                 "type": 0,
                 "tagIds": [],
-                "message": "The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset."
+                "message": "<i=3>MALWARE TRANSMITTED</i>\n\nSatellites on <i=1>FORT UNION</i> have successfully transmitted civilian-created malware to the Illuminate Fleet, resulting in the destruction of multiple large spacecraft. The Illuminate Fleet has suffered 5% damage as a result.\n\nThe unnamed technician who developed the code has been given a field promotion to Command of the 405th Cyberwarfare Detachment."
             },
             {
-                "id": 2799,
-                "published": 2507100,
+                "id": 3257,
+                "published": 40642407,
                 "type": 0,
                 "tagIds": [],
-                "message": "NEW MAJOR ORDER\nTien Kwan is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate Tien Kwan, before it's too late."
+                "message": "<i=3>ILLUMINATE NEARING DEFEAT</i>\n\nThe Illuminate are taking heavy losses. Intel reports their Fleet Strength is rapidly dwindling. They will soon be forced to abandon the assault.\n\nThese are the battle's final hours. The enemy will push with the entirety of their strength. \n\nHold the line. "
             },
             {
-                "id": 2800,
-                "published": 2531100,
+                "id": 3258,
+                "published": 40687920,
                 "type": 0,
                 "tagIds": [],
-                "message": "AUTOMATON COUNTERATTACK\nIntercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated."
+                "message": "<i=3>MAJOR ORDER WON</i>\n\nThe Illuminate have retreated. The Battle for Super Earth has been won. Consult your Galactic Map for more information."
             },
             {
-                "id": 2801,
-                "published": 2598240,
+                "id": 3259,
+                "published": 40691689,
                 "type": 0,
                 "tagIds": [],
-                "message": "Well done, Helldivers. Tien Kwan has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact.\n\nThe EXO-45 PATRIOT EXOSUIT is now available for requisition."
+                "message": "<i=3>NEW PRESIDENT ELECTED</i>\n\nA new President of Super Earth has been sworn in following a landslide victory in a Managed Election."
             },
             {
-                "id": 2802,
-                "published": 2705219,
+                "id": 3260,
+                "published": 41036897,
                 "type": 0,
                 "tagIds": [],
-                "message": "Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. \n\nHowever, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens.\n\nThe Terminid Control System must be activated\u2014at any cost."
-            },
-            {
-                "id": 2803,
-                "published": 2705235,
-                "type": 0,
-                "tagIds": [],
-                "message": "NEW MAJOR ORDER\nActivate Terminid Control System"
-            },
-            {
-                "id": 2804,
-                "published": 2822793,
-                "type": 0,
-                "tagIds": [],
-                "message": "FENRIR III SECURED\nThe Terminid Control System is now fully activated on Fenrir III."
-            },
-            {
-                "id": 2805,
-                "published": 2899259,
-                "type": 0,
-                "tagIds": [],
-                "message": "TURING SECURED\nThe Terminid Control System is now fully activated on Turing."
-            },
-            {
-                "id": 2806,
-                "published": 2899330,
-                "type": 0,
-                "tagIds": [],
-                "message": "The TCS has been fully activated on half of the Barrier Planets."
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nDistress calls have been raised from multiple planets. Automaton invasion ships have landed, disrupting ongoing merriment and sanctioned frivolity in the wake of our great victory. The Helldivers must respond immediately to this barbaric assault."
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
-        "CampaignPlanets": [
+        "MajorOrders": [
             {
-                "planetIndex": 252,
-                "name": "Zosma",
-                "faction": "Automatons",
-                "players": 6657,
-                "health": 997451,
-                "maxHealth": 1000000,
-                "percentage": 0.25489999999999213,
-                "defense": true,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": 1749035686.031
-            },
+                "id32": 1041439405,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 257746,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Defend against the opportunistic and barbaric Automaton assault.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                5,
+                                3,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 40
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 40
+                    },
+                    "flags": 0
+                }
+            }
+        ],
+        "CampaignPlanets": [
             {
                 "planetIndex": 66,
                 "name": "Curia",
                 "faction": "Automatons",
-                "players": 4914,
-                "health": 299632,
+                "players": 27882,
+                "health": 290618,
                 "maxHealth": 300000,
-                "percentage": 0.12266666666667447,
+                "percentage": 3.1273333333333397,
                 "defense": true,
                 "biome": {
                     "slug": "moon",
                     "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
                 },
-                "expireDateTime": 1749037456.031
+                "expireDateTime": 1749037460.743
+            },
+            {
+                "planetIndex": 252,
+                "name": "Zosma",
+                "faction": "Automatons",
+                "players": 6126,
+                "health": 993432,
+                "maxHealth": 1000000,
+                "percentage": 0.6567999999999898,
+                "defense": true,
+                "biome": {
+                    "slug": "moon",
+                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+                },
+                "expireDateTime": 1749035690.743
+            },
+            {
+                "planetIndex": 244,
+                "name": "Varylia 5",
+                "faction": "Automatons",
+                "players": 1740,
+                "health": 249746,
+                "maxHealth": 250000,
+                "percentage": 0.10159999999999059,
+                "defense": true,
+                "biome": {
+                    "slug": "highlands",
+                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+                },
+                "expireDateTime": 1749039130.743
             },
             {
                 "planetIndex": 49,
                 "name": "Azterra",
                 "faction": "Terminids",
-                "players": 28103,
-                "health": 354479,
+                "players": 26665,
+                "health": 334525,
                 "maxHealth": 1000000,
-                "percentage": 64.5521,
+                "percentage": 66.5475,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -125,7 +156,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 1415,
+                "players": 1656,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -140,7 +171,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 1450,
+                "players": 811,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -155,7 +186,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 307,
+                "players": 202,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -170,7 +201,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 518,
+                "players": 612,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +216,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 157,
+                "players": 105,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +231,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 594,
+                "players": 388,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +246,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 448,
+                "players": 404,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +261,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 428,
+                "players": 211,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -245,7 +276,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 174,
+                "players": 214,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +291,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 1917,
+                "players": 2062,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +306,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 101,
+                "players": 117,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +321,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 84,
+                "players": 99,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +336,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 426,
+                "players": 441,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +351,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 1270,
+                "players": 634,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +366,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 488,
+                "players": 332,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +381,7 @@
                 "planetIndex": 26,
                 "name": "Nublaria I",
                 "faction": "Terminids",
-                "players": 3530,
+                "players": 3342,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +396,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 295,
+                "players": 308,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -380,7 +411,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 166,
+                "players": 185,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -395,7 +426,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 196,
+                "players": 124,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -410,7 +441,7 @@
                 "planetIndex": 80,
                 "name": "Veld",
                 "faction": "Terminids",
-                "players": 973,
+                "players": 1065,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -425,7 +456,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 3816,
+                "players": 1978,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -440,7 +471,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 5846,
+                "players": 2819,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -455,7 +486,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 384,
+                "players": 237,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -470,7 +501,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 1065,
+                "players": 656,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -3592,8 +3623,59 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>NEW PRESIDENT ELECTED</i>\n\nA new President of Super Earth has been sworn in following a landslide victory in a Managed Election."
+            },
+            {
+                "id": 3260,
+                "published": 41036897,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nDistress calls have been raised from multiple planets. Automaton invasion ships have landed, disrupting ongoing merriment and sanctioned frivolity in the wake of our great victory. The Helldivers must respond immediately to this barbaric assault."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 1041439405,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 257746,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Defend against the opportunistic and barbaric Automaton assault.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                5,
+                                3,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 40
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 40
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
