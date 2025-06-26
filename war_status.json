@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-26T10:53:07.146396 UTC",
+    "last_updated": "2025-06-26T10:59:33.120634 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,43 +74,88 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 3241597616,
+                "startTime": 43017980,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 604380,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Defend against the unprovoked Automaton assault, led by an improved Jet Brigade.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                4,
+                                3,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 0
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 110,
                 "name": "Bekvam III",
                 "faction": "Automatons",
-                "players": 5519,
-                "health": 1994461,
+                "players": 5732,
+                "health": 1993228,
                 "maxHealth": 2000000,
-                "percentage": 0.27694999999999936,
+                "percentage": 0.33859999999999957,
                 "defense": true,
                 "biome": null,
-                "expireDateTime": 1751018596.754
+                "expireDateTime": 1751018600.219
             },
             {
                 "planetIndex": 66,
                 "name": "Curia",
                 "faction": "Automatons",
-                "players": 2653,
-                "health": 2099379,
+                "players": 3680,
+                "health": 2098535,
                 "maxHealth": 2100000,
-                "percentage": 0.029571428571429692,
+                "percentage": 0.06976190476190425,
                 "defense": true,
                 "biome": {
                     "slug": "moon",
                     "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
                 },
-                "expireDateTime": 1751020416.754
+                "expireDateTime": 1751020420.219
             },
             {
                 "planetIndex": 138,
                 "name": "Alairt III",
                 "faction": "Illuminates",
-                "players": 901,
-                "health": 724444,
+                "players": 910,
+                "health": 724876,
                 "maxHealth": 2200000,
-                "percentage": 67.07072727272728,
+                "percentage": 67.0510909090909,
                 "defense": false,
                 "biome": {
                     "slug": "rainforest",
@@ -122,10 +167,10 @@
                 "planetIndex": 52,
                 "name": "Slif",
                 "faction": "Terminids",
-                "players": 7838,
-                "health": 784802,
+                "players": 7752,
+                "health": 784165,
                 "maxHealth": 1000000,
-                "percentage": 21.51979999999999,
+                "percentage": 21.5835,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -137,7 +182,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 551,
+                "players": 557,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -152,7 +197,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 762,
+                "players": 694,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -167,7 +212,7 @@
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 898,
+                "players": 884,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -182,7 +227,7 @@
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 47,
+                "players": 50,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -197,7 +242,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 78,
+                "players": 66,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -212,7 +257,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 72,
+                "players": 79,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -227,7 +272,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 69,
+                "players": 68,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +287,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 339,
+                "players": 322,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +302,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 213,
+                "players": 193,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +317,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 33,
+                "players": 32,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +332,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 604,
+                "players": 602,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +347,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 45,
+                "players": 47,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +362,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 34,
+                "players": 36,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +377,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 156,
+                "players": 144,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -347,7 +392,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 14,
+                "players": 16,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -362,7 +407,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 20,
+                "players": 17,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -377,7 +422,7 @@
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 64,
+                "players": 60,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -392,7 +437,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 305,
+                "players": 279,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -407,7 +452,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 580,
+                "players": 557,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -422,7 +467,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 85,
+                "players": 82,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -437,7 +482,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 29,
+                "players": 28,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -452,7 +497,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 66,
+                "players": 72,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -467,7 +512,7 @@
                 "planetIndex": 80,
                 "name": "Veld",
                 "faction": "Terminids",
-                "players": 1024,
+                "players": 1064,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -482,7 +527,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 4961,
+                "players": 4483,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -497,7 +542,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 160,
+                "players": 158,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -512,7 +557,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 59,
+                "players": 55,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -527,7 +572,7 @@
                 "planetIndex": 251,
                 "name": "Zefia",
                 "faction": "Automatons",
-                "players": 57,
+                "players": 49,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -542,7 +587,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 181,
+                "players": 167,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -557,7 +602,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 64,
+                "players": 58,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -3791,8 +3836,60 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>MAJOR ORDER WON</i>\n\nThe Helldivers have successfully collected the mandated war restitution. Consult your Galactic Map for more information."
+            },
+            {
+                "id": 3276,
+                "published": 43017979,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nALERT: <i=1>A large-scale, coordinated Automaton offensive has launched without warning.</i> The Helldivers are to deploy to all systems under attack, and defend all affected planets. Consult your Galactic Map for more information."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 3241597616,
+                "startTime": 43017980,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 604380,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Defend against the unprovoked Automaton assault, led by an improved Jet Brigade.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 12,
+                            "values": [
+                                4,
+                                3,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                3,
+                                1,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
