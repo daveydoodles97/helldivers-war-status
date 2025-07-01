@@ -1,119 +1,35 @@
 {
-    "last_updated": "2025-07-01T13:18:57.683720 UTC",
+    "last_updated": "2025-07-01T13:46:13.588446 UTC",
     "SuperEarth": {
-        "WarNews": [
-            {
-                "id": 2797,
-                "published": 2414563,
-                "type": 0,
-                "tagIds": [],
-                "message": "Terminid spores have engulfed Heeth and Angel's Venture, spawning hordes of Terminids that overwhelmed our colonial militias. Clearly, the bug hive instinct oriented their mindless expansion towards dishonoring the memory of those who fought to free these planets.\n\nYour fellow Helldivers paid for these lands with their lives. We cannot lose them now. Hold the planets until SEAF reinforcements arrive."
-            },
-            {
-                "id": 2798,
-                "published": 2499000,
-                "type": 0,
-                "tagIds": [],
-                "message": "The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset."
-            },
-            {
-                "id": 2799,
-                "published": 2507100,
-                "type": 0,
-                "tagIds": [],
-                "message": "NEW MAJOR ORDER\nTien Kwan is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate Tien Kwan, before it's too late."
-            },
-            {
-                "id": 2800,
-                "published": 2531100,
-                "type": 0,
-                "tagIds": [],
-                "message": "AUTOMATON COUNTERATTACK\nIntercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated."
-            },
-            {
-                "id": 2801,
-                "published": 2598240,
-                "type": 0,
-                "tagIds": [],
-                "message": "Well done, Helldivers. Tien Kwan has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact.\n\nThe EXO-45 PATRIOT EXOSUIT is now available for requisition."
-            },
-            {
-                "id": 2802,
-                "published": 2705219,
-                "type": 0,
-                "tagIds": [],
-                "message": "Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. \n\nHowever, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens.\n\nThe Terminid Control System must be activated\u2014at any cost."
-            },
-            {
-                "id": 2803,
-                "published": 2705235,
-                "type": 0,
-                "tagIds": [],
-                "message": "NEW MAJOR ORDER\nActivate Terminid Control System"
-            },
-            {
-                "id": 2804,
-                "published": 2822793,
-                "type": 0,
-                "tagIds": [],
-                "message": "FENRIR III SECURED\nThe Terminid Control System is now fully activated on Fenrir III."
-            },
-            {
-                "id": 2805,
-                "published": 2899259,
-                "type": 0,
-                "tagIds": [],
-                "message": "TURING SECURED\nThe Terminid Control System is now fully activated on Turing."
-            },
-            {
-                "id": 2806,
-                "published": 2899330,
-                "type": 0,
-                "tagIds": [],
-                "message": "The TCS has been fully activated on half of the Barrier Planets."
-            }
-        ],
+        "WarNews": {
+            "error": "API request failed: Expecting value: line 1 column 1 (char 0)"
+        },
         "NewsMessages": null,
         "MajorOrders": [],
         "CampaignPlanets": [
             {
-                "planetIndex": 207,
-                "name": "Mintoria",
-                "faction": "Automatons",
-                "players": 17250,
-                "health": 376571,
-                "maxHealth": 1000000,
-                "percentage": 62.3429,
-                "defense": true,
-                "biome": {
-                    "slug": "highlands",
-                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-                },
-                "expireDateTime": 1751376777.261
-            },
-            {
                 "planetIndex": 228,
                 "name": "Senge 23",
                 "faction": "Illuminates",
-                "players": 3494,
-                "health": 545649,
+                "players": 5472,
+                "health": 542816,
                 "maxHealth": 550000,
-                "percentage": 0.7910909090909115,
+                "percentage": 1.3061818181818268,
                 "defense": true,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1751453987.261
+                "expireDateTime": 1751453992.967
             },
             {
                 "planetIndex": 138,
                 "name": "Alairt III",
                 "faction": "Illuminates",
-                "players": 608,
-                "health": 1256158,
+                "players": 606,
+                "health": 1258198,
                 "maxHealth": 2200000,
-                "percentage": 42.90190909090909,
+                "percentage": 42.80918181818182,
                 "defense": false,
                 "biome": {
                     "slug": "rainforest",
@@ -122,10 +38,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 52,
+                "name": "Slif",
+                "faction": "Terminids",
+                "players": 11281,
+                "health": 999998,
+                "maxHealth": 1000000,
+                "percentage": 0.00019999999999242846,
+                "defense": false,
+                "biome": {
+                    "slug": "toxic",
+                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 1823,
+                "players": 2037,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -140,7 +71,7 @@
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 74,
+                "players": 80,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -155,7 +86,7 @@
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 173,
+                "players": 168,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -170,7 +101,7 @@
                 "planetIndex": 110,
                 "name": "Bekvam III",
                 "faction": "Automatons",
-                "players": 115,
+                "players": 137,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -179,25 +110,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 70,
-                "name": "Blistica",
-                "faction": "Automatons",
-                "players": 148,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 330,
+                "players": 324,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -212,7 +128,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 42,
+                "players": 62,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -227,7 +143,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 387,
+                "players": 468,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +158,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 53,
+                "players": 94,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +173,7 @@
                 "planetIndex": 66,
                 "name": "Curia",
                 "faction": "Automatons",
-                "players": 2693,
+                "players": 3698,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -272,7 +188,7 @@
                 "planetIndex": 111,
                 "name": "Duma Tyr",
                 "faction": "Automatons",
-                "players": 457,
+                "players": 561,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -284,7 +200,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 2203,
+                "players": 2498,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -299,7 +215,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 120,
+                "players": 144,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -314,7 +230,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 67,
+                "players": 88,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -329,7 +245,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 424,
+                "players": 446,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -344,7 +260,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 24,
+                "players": 32,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -359,7 +275,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 23,
+                "players": 29,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -374,7 +290,7 @@
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 157,
+                "players": 176,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -389,7 +305,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 162,
+                "players": 176,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -404,7 +320,7 @@
                 "planetIndex": 106,
                 "name": "Oslo Station",
                 "faction": "Automatons",
-                "players": 1483,
+                "players": 1716,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -419,7 +335,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 289,
+                "players": 328,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -434,7 +350,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 149,
+                "players": 171,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -446,25 +362,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 52,
-                "name": "Slif",
-                "faction": "Terminids",
-                "players": 9378,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "toxic",
-                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 80,
                 "name": "Veld",
                 "faction": "Terminids",
-                "players": 4229,
+                "players": 4810,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -479,7 +380,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 276,
+                "players": 324,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -494,7 +395,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 151,
+                "players": 239,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -509,7 +410,7 @@
                 "planetIndex": 247,
                 "name": "Wezen",
                 "faction": "Automatons",
-                "players": 90,
+                "players": 106,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -524,7 +425,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 27,
+                "players": 41,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -536,25 +437,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 251,
-                "name": "Zefia",
-                "faction": "Automatons",
-                "players": 83,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "ethereal",
-                    "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 290,
+                "players": 700,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -569,7 +455,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 194,
+                "players": 206,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
