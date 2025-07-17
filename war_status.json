@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-17T07:57:19.689596 UTC",
+    "last_updated": "2025-07-17T08:23:42.993781 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -83,7 +83,7 @@
                     1,
                     1
                 ],
-                "expiresIn": 437360,
+                "expiresIn": 435790,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -144,37 +144,6 @@
                     },
                     "flags": 1
                 }
-            },
-            {
-                "id32": 2668946268,
-                "startTime": 44734500,
-                "progress": [
-                    0
-                ],
-                "expiresIn": 140,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "STRATEGIC OPPORTUNITY",
-                    "overrideBrief": "Defend against the Illuminate attack to enable hacking of the Automaton network.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                94
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [],
-                    "flags": 1
-                }
             }
         ],
         "CampaignPlanets": [
@@ -182,25 +151,40 @@
                 "planetIndex": 67,
                 "name": "Tarsh",
                 "faction": "Automatons",
-                "players": 13871,
-                "health": 1161864,
+                "players": 14698,
+                "health": 1148307,
                 "maxHealth": 2000000,
-                "percentage": 41.9068,
+                "percentage": 42.584649999999996,
                 "defense": true,
                 "biome": {
                     "slug": "morass",
                     "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
                 },
-                "expireDateTime": 1752831138.835
+                "expireDateTime": 1752831143.468
+            },
+            {
+                "planetIndex": 116,
+                "name": "Gaellivare",
+                "faction": "Automatons",
+                "players": 718,
+                "health": 1999984,
+                "maxHealth": 2000000,
+                "percentage": 0.0007999999999981355,
+                "defense": true,
+                "biome": {
+                    "slug": "jungle",
+                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+                },
+                "expireDateTime": 1752912563.468
             },
             {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 3820,
-                "health": 1838747,
+                "players": 3845,
+                "health": 1837638,
                 "maxHealth": 2000000,
-                "percentage": 8.06264999999999,
+                "percentage": 8.118099999999998,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -212,10 +196,10 @@
                 "planetIndex": 72,
                 "name": "Julheim",
                 "faction": "Automatons",
-                "players": 958,
-                "health": 1579323,
+                "players": 855,
+                "health": 1578949,
                 "maxHealth": 1600000,
-                "percentage": 1.2923124999999942,
+                "percentage": 1.3156874999999957,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -227,7 +211,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 146,
+                "players": 126,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -242,7 +226,7 @@
                 "planetIndex": 136,
                 "name": "Afoyay Bay",
                 "faction": "Illuminates",
-                "players": 66,
+                "players": 63,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -257,7 +241,7 @@
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 9,
+                "players": 21,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -287,7 +271,7 @@
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 23,
+                "players": 18,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -302,7 +286,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 181,
+                "players": 177,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -317,7 +301,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 33,
+                "players": 22,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -332,7 +316,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 80,
+                "players": 109,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -347,7 +331,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 54,
+                "players": 38,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -362,7 +346,7 @@
                 "planetIndex": 111,
                 "name": "Duma Tyr",
                 "faction": "Automatons",
-                "players": 532,
+                "players": 546,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -374,7 +358,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 876,
+                "players": 855,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -389,7 +373,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 107,
+                "players": 125,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -404,7 +388,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 127,
+                "players": 113,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -419,7 +403,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 348,
+                "players": 382,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -434,7 +418,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 8,
+                "players": 6,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -449,7 +433,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 18,
+                "players": 12,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -464,7 +448,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 255,
+                "players": 260,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -479,7 +463,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 219,
+                "players": 243,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -494,7 +478,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 1120,
+                "players": 1119,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -509,7 +493,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 76,
+                "players": 67,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -524,7 +508,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 327,
+                "players": 331,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -539,7 +523,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 778,
+                "players": 702,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -554,7 +538,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 176,
+                "players": 150,
                 "health": 1200000,
                 "maxHealth": 1200000,
                 "percentage": 0,
@@ -569,7 +553,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 398,
+                "players": 402,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -584,7 +568,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 4992,
+                "players": 3304,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -599,7 +583,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 340,
+                "players": 313,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -3924,110 +3908,17 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>STRATEGIC OPPORTUNITY</i>\n\nMINDEF Cyberwarfare has identified a critical vulnerability in the Automaton network. Specialists on <i=1>OASIS</i> are actively deconstructing firewall bypass nodes at over 120 WPM\u2014but they need more time. And the Illuminate have just launched an invasion of the planet.\n\nIf the Helldivers can repel the Illuminate assault, the cyber specialists may be able to secure intel of high value against the current Automaton invasion."
-            }
-        ],
-        "WarAssignments": [
-            {
-                "id32": 1413047122,
-                "startTime": 44653320,
-                "progress": [
-                    1,
-                    1,
-                    1
-                ],
-                "expiresIn": 437320,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Hold planets with critical DSS facilities against the Automaton invasion into our cities.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                161
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                116
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                67
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 50
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 50
-                    },
-                    "flags": 1
-                }
             },
             {
-                "id32": 2668946268,
-                "startTime": 44734500,
-                "progress": [
-                    0
-                ],
-                "expiresIn": 100,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "STRATEGIC OPPORTUNITY",
-                    "overrideBrief": "Defend against the Illuminate attack to enable hacking of the Automaton network.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                94
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [],
-                    "flags": 1
-                }
+                "id": 3289,
+                "published": 44821103,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>OASIS FALLEN</i>\n\nOASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid."
             }
-        ]
+        ],
+        "WarAssignments": {
+            "error": "Failed to fetch data, status: 503"
+        }
     }
 }
