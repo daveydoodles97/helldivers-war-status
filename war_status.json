@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-26T23:30:52.571372 UTC",
+    "last_updated": "2025-07-26T23:43:47.049952 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,644 +80,13 @@
                 "startTime": 45270660,
                 "progress": [
                     20000000,
-                    8625257,
-                    2340488,
+                    8663860,
+                    2346297,
                     7500000,
-                    426567,
+                    427351,
                     0
                 ],
-                "expiresIn": 221650,
-                "setting": {
-                    "type": 4,
-                    "tasks": [
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                20000000,
-                                793026793,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                12500000,
-                                1046000873,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                3,
-                                0,
-                                6250000,
-                                1153658728,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                4,
-                                0,
-                                7500000,
-                                2880434041,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                4,
-                                0,
-                                3750000,
-                                3097344451,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 50
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 50
-                    },
-                    "flags": 0
-                }
-            },
-            {
-                "id32": 1083868132,
-                "startTime": 45540280,
-                "progress": [
-                    4374064
-                ],
-                "expiresIn": 145664,
-                "setting": {
-                    "type": 4,
-                    "tasks": [
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                5000000,
-                                2115960485,
-                                1,
-                                1978117092,
-                                0,
-                                0,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [],
-                    "flags": 0
-                }
-            }
-        ],
-        "CampaignPlanets": [
-            {
-                "planetIndex": 131,
-                "name": "Achird III",
-                "faction": "Terminids",
-                "players": 2770,
-                "health": 1190977,
-                "maxHealth": 2000000,
-                "percentage": 40.45115,
-                "defense": false,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 161,
-                "name": "Claorell",
-                "faction": "Automatons",
-                "players": 14297,
-                "health": 1325340,
-                "maxHealth": 2200000,
-                "percentage": 39.75727272727273,
-                "defense": false,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 113,
-                "name": "Aesir Pass",
-                "faction": "Automatons",
-                "players": 254,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 136,
-                "name": "Afoyay Bay",
-                "faction": "Illuminates",
-                "players": 459,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "highlands",
-                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 137,
-                "name": "Ain-5",
-                "faction": "Illuminates",
-                "players": 109,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 138,
-                "name": "Alairt III",
-                "faction": "Illuminates",
-                "players": 212,
-                "health": 2200000,
-                "maxHealth": 2200000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "rainforest",
-                    "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 139,
-                "name": "Alamak VII",
-                "faction": "Illuminates",
-                "players": 712,
-                "health": 2300000,
-                "maxHealth": 2300000,
-                "percentage": 0,
-                "defense": false,
-                "biome": null,
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 124,
-                "name": "Bore Rock",
-                "faction": "Terminids",
-                "players": 275,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 156,
-                "name": "Charbal-VII",
-                "faction": "Automatons",
-                "players": 63,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "toxic",
-                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 158,
-                "name": "Choepessa IV",
-                "faction": "Automatons",
-                "players": 195,
-                "health": 2200000,
-                "maxHealth": 2200000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "icemoss",
-                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 111,
-                "name": "Duma Tyr",
-                "faction": "Automatons",
-                "players": 688,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": null,
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 169,
-                "name": "Estanu",
-                "faction": "Terminids",
-                "players": 2863,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "icemoss",
-                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 170,
-                "name": "Fori Prime",
-                "faction": "Terminids",
-                "players": 20577,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 171,
-                "name": "Gacrux",
-                "faction": "Terminids",
-                "players": 223,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "undergrowth",
-                    "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 95,
-                "name": "Genesis Prime",
-                "faction": "Illuminates",
-                "players": 553,
-                "health": 1600000,
-                "maxHealth": 1600000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "jungle",
-                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 175,
-                "name": "Grand Errant",
-                "faction": "Terminids",
-                "players": 291,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 178,
-                "name": "Haldus",
-                "faction": "Illuminates",
-                "players": 76,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 180,
-                "name": "Herthon Secundus",
-                "faction": "Illuminates",
-                "players": 65,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 72,
-                "name": "Julheim",
-                "faction": "Automatons",
-                "players": 572,
-                "health": 1600000,
-                "maxHealth": 1600000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 194,
-                "name": "Lesath",
-                "faction": "Automatons",
-                "players": 1227,
-                "health": 2400000,
-                "maxHealth": 2400000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "icemoss",
-                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 214,
-                "name": "Pandion-XXIV",
-                "faction": "Terminids",
-                "players": 353,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 217,
-                "name": "Phact Bay",
-                "faction": "Terminids",
-                "players": 1028,
-                "health": 2200000,
-                "maxHealth": 2200000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 218,
-                "name": "Pherkad Secundus",
-                "faction": "Terminids",
-                "players": 117,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "highlands",
-                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 100,
-                "name": "Trandor",
-                "faction": "Terminids",
-                "players": 328,
-                "health": 1900000,
-                "maxHealth": 1900000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "tundra",
-                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 112,
-                "name": "Vernen Wells",
-                "faction": "Automatons",
-                "players": 768,
-                "health": 1500000,
-                "maxHealth": 1500000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 128,
-                "name": "Darius II",
-                "faction": "Terminids",
-                "players": 257,
-                "health": 1400000,
-                "maxHealth": 1400000,
-                "percentage": -1.4210854715202004e-14,
-                "defense": false,
-                "biome": {
-                    "slug": "toxic",
-                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 94,
-                "name": "Oasis",
-                "faction": "Illuminates",
-                "players": 1637,
-                "health": 1400000,
-                "maxHealth": 1400000,
-                "percentage": -1.4210854715202004e-14,
-                "defense": false,
-                "biome": {
-                    "slug": "jungle",
-                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 244,
-                "name": "Varylia 5",
-                "faction": "Automatons",
-                "players": 278,
-                "health": 1400000,
-                "maxHealth": 1400000,
-                "percentage": -1.4210854715202004e-14,
-                "defense": false,
-                "biome": {
-                    "slug": "highlands",
-                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-                },
-                "expireDateTime": null
-            }
-        ]
-    },
-    "Helldivers2": {
-        "NewsFeed": {
-            "error": "API request failed: Expecting value: line 1 column 1 (char 0)"
-        },
-        "WarAssignments": [
-            {
-                "id32": 4100894966,
-                "startTime": 45270660,
-                "progress": [
-                    20000000,
-                    8627545,
-                    2340832,
-                    7500000,
-                    426570,
-                    0
-                ],
-                "expiresIn": 221610,
+                "expiresIn": 220920,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -879,9 +248,646 @@
                 "id32": 1083868132,
                 "startTime": 45540280,
                 "progress": [
-                    4374771
+                    4390759
                 ],
-                "expiresIn": 145624,
+                "expiresIn": 144934,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MINOR ORDER",
+                    "overrideBrief": "Exterminate Spore Burst Warriors using the designated weaponry to further boost citizen patriotic fervor.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                5000000,
+                                2115960485,
+                                1,
+                                1978117092,
+                                0,
+                                0,
+                                1,
+                                170
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
+                }
+            }
+        ],
+        "CampaignPlanets": [
+            {
+                "planetIndex": 131,
+                "name": "Achird III",
+                "faction": "Terminids",
+                "players": 2746,
+                "health": 1193588,
+                "maxHealth": 2000000,
+                "percentage": 40.3206,
+                "defense": false,
+                "biome": {
+                    "slug": "canyon",
+                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 161,
+                "name": "Claorell",
+                "faction": "Automatons",
+                "players": 14423,
+                "health": 1328604,
+                "maxHealth": 2200000,
+                "percentage": 39.608909090909094,
+                "defense": false,
+                "biome": {
+                    "slug": "moon",
+                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 113,
+                "name": "Aesir Pass",
+                "faction": "Automatons",
+                "players": 251,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 136,
+                "name": "Afoyay Bay",
+                "faction": "Illuminates",
+                "players": 465,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "highlands",
+                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 137,
+                "name": "Ain-5",
+                "faction": "Illuminates",
+                "players": 115,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 138,
+                "name": "Alairt III",
+                "faction": "Illuminates",
+                "players": 219,
+                "health": 2200000,
+                "maxHealth": 2200000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "rainforest",
+                    "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 139,
+                "name": "Alamak VII",
+                "faction": "Illuminates",
+                "players": 700,
+                "health": 2300000,
+                "maxHealth": 2300000,
+                "percentage": 0,
+                "defense": false,
+                "biome": null,
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 124,
+                "name": "Bore Rock",
+                "faction": "Terminids",
+                "players": 271,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "desolate",
+                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 156,
+                "name": "Charbal-VII",
+                "faction": "Automatons",
+                "players": 82,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "toxic",
+                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 158,
+                "name": "Choepessa IV",
+                "faction": "Automatons",
+                "players": 182,
+                "health": 2200000,
+                "maxHealth": 2200000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "icemoss",
+                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 111,
+                "name": "Duma Tyr",
+                "faction": "Automatons",
+                "players": 671,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": null,
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 169,
+                "name": "Estanu",
+                "faction": "Terminids",
+                "players": 2863,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "icemoss",
+                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 170,
+                "name": "Fori Prime",
+                "faction": "Terminids",
+                "players": 20417,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "canyon",
+                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 171,
+                "name": "Gacrux",
+                "faction": "Terminids",
+                "players": 224,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "undergrowth",
+                    "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 95,
+                "name": "Genesis Prime",
+                "faction": "Illuminates",
+                "players": 573,
+                "health": 1600000,
+                "maxHealth": 1600000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "jungle",
+                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 175,
+                "name": "Grand Errant",
+                "faction": "Terminids",
+                "players": 268,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "desolate",
+                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 178,
+                "name": "Haldus",
+                "faction": "Illuminates",
+                "players": 74,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "moon",
+                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 180,
+                "name": "Herthon Secundus",
+                "faction": "Illuminates",
+                "players": 57,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "desolate",
+                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 72,
+                "name": "Julheim",
+                "faction": "Automatons",
+                "players": 567,
+                "health": 1600000,
+                "maxHealth": 1600000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "winter",
+                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 194,
+                "name": "Lesath",
+                "faction": "Automatons",
+                "players": 1189,
+                "health": 2400000,
+                "maxHealth": 2400000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "icemoss",
+                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 214,
+                "name": "Pandion-XXIV",
+                "faction": "Terminids",
+                "players": 338,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 217,
+                "name": "Phact Bay",
+                "faction": "Terminids",
+                "players": 1048,
+                "health": 2200000,
+                "maxHealth": 2200000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "mesa",
+                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 218,
+                "name": "Pherkad Secundus",
+                "faction": "Terminids",
+                "players": 110,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "highlands",
+                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 100,
+                "name": "Trandor",
+                "faction": "Terminids",
+                "players": 333,
+                "health": 1900000,
+                "maxHealth": 1900000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "tundra",
+                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 112,
+                "name": "Vernen Wells",
+                "faction": "Automatons",
+                "players": 717,
+                "health": 1500000,
+                "maxHealth": 1500000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "canyon",
+                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 128,
+                "name": "Darius II",
+                "faction": "Terminids",
+                "players": 241,
+                "health": 1400000,
+                "maxHealth": 1400000,
+                "percentage": -1.4210854715202004e-14,
+                "defense": false,
+                "biome": {
+                    "slug": "toxic",
+                    "description": "Dense, toxic fumes from deep within the planet's crust seep out of cracks in the earth and coat the ground in a sickly haze."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 94,
+                "name": "Oasis",
+                "faction": "Illuminates",
+                "players": 1682,
+                "health": 1400000,
+                "maxHealth": 1400000,
+                "percentage": -1.4210854715202004e-14,
+                "defense": false,
+                "biome": {
+                    "slug": "jungle",
+                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 244,
+                "name": "Varylia 5",
+                "faction": "Automatons",
+                "players": 269,
+                "health": 1400000,
+                "maxHealth": 1400000,
+                "percentage": -1.4210854715202004e-14,
+                "defense": false,
+                "biome": {
+                    "slug": "highlands",
+                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+                },
+                "expireDateTime": null
+            }
+        ]
+    },
+    "Helldivers2": {
+        "NewsFeed": {
+            "error": "API request failed: Expecting value: line 1 column 1 (char 0)"
+        },
+        "WarAssignments": [
+            {
+                "id32": 4100894966,
+                "startTime": 45270660,
+                "progress": [
+                    20000000,
+                    8667376,
+                    2346890,
+                    7500000,
+                    427374,
+                    0
+                ],
+                "expiresIn": 220850,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Kill the designated number of each of the enemies that most frequently plague our citizens' nightmares.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                20000000,
+                                793026793,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                12500000,
+                                1046000873,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                3,
+                                0,
+                                6250000,
+                                1153658728,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                7500000,
+                                2880434041,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                3750000,
+                                3097344451,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 50
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 50
+                    },
+                    "flags": 0
+                }
+            },
+            {
+                "id32": 1083868132,
+                "startTime": 45540280,
+                "progress": [
+                    4392594
+                ],
+                "expiresIn": 144864,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MINOR ORDER",
