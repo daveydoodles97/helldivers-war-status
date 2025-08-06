@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-06T06:58:49.981474 UTC",
+    "last_updated": "2025-08-06T07:25:14.476109 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,9 +80,12 @@
                 "startTime": 46543630,
                 "progress": [
                     1,
-                    5
+                    15,
+                    0,
+                    2,
+                    113
                 ],
-                "expiresIn": 604160,
+                "expiresIn": 602560,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -93,8 +96,47 @@
                             "type": 11,
                             "values": [
                                 1,
-                                2,
-                                31
+                                1,
+                                111
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                72
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                110
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                109
                             ],
                             "valueTypes": [
                                 3,
@@ -151,10 +193,10 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 8895,
-                "health": 1590723,
+                "players": 6292,
+                "health": 1591849,
                 "maxHealth": 2200000,
-                "percentage": 27.69440909090909,
+                "percentage": 27.643227272727273,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -166,7 +208,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 921,
+                "players": 791,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -181,7 +223,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 324,
+                "players": 258,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -196,7 +238,7 @@
                 "planetIndex": 136,
                 "name": "Afoyay Bay",
                 "faction": "Illuminates",
-                "players": 110,
+                "players": 74,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -211,7 +253,7 @@
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 22,
+                "players": 14,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -226,7 +268,7 @@
                 "planetIndex": 138,
                 "name": "Alairt III",
                 "faction": "Illuminates",
-                "players": 40,
+                "players": 22,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -241,7 +283,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 50,
+                "players": 49,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -253,7 +295,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 140,
+                "players": 91,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -268,7 +310,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 41,
+                "players": 32,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -283,7 +325,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 78,
+                "players": 73,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -298,7 +340,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 97,
+                "players": 59,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -313,7 +355,7 @@
                 "planetIndex": 78,
                 "name": "Crimsica",
                 "faction": "Terminids",
-                "players": 1121,
+                "players": 874,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -328,7 +370,7 @@
                 "planetIndex": 111,
                 "name": "Duma Tyr",
                 "faction": "Automatons",
-                "players": 928,
+                "players": 4011,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -340,7 +382,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 184,
+                "players": 166,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -355,7 +397,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 178,
+                "players": 140,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -370,7 +412,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 149,
+                "players": 120,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -385,7 +427,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 220,
+                "players": 197,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -400,7 +442,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 10,
+                "players": 17,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -415,7 +457,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 7,
+                "players": 17,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -430,7 +472,7 @@
                 "planetIndex": 72,
                 "name": "Julheim",
                 "faction": "Automatons",
-                "players": 593,
+                "players": 2253,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -445,7 +487,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 339,
+                "players": 216,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -460,7 +502,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 375,
+                "players": 301,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -475,7 +517,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 78,
+                "players": 88,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -490,7 +532,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 248,
+                "players": 214,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -505,7 +547,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 331,
+                "players": 202,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -520,7 +562,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 6423,
+                "players": 4940,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -535,7 +577,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 341,
+                "players": 214,
                 "health": 1200000,
                 "maxHealth": 1200000,
                 "percentage": 0,
@@ -550,7 +592,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 184,
+                "players": 148,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -565,7 +607,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 605,
+                "players": 360,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -580,7 +622,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 156,
+                "players": 107,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -4130,9 +4172,12 @@
                 "startTime": 46543630,
                 "progress": [
                     1,
-                    5
+                    15,
+                    0,
+                    2,
+                    105
                 ],
-                "expiresIn": 604160,
+                "expiresIn": 602580,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -4143,8 +4188,47 @@
                             "type": 11,
                             "values": [
                                 1,
-                                2,
-                                31
+                                1,
+                                111
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                72
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                110
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                109
                             ],
                             "valueTypes": [
                                 3,
