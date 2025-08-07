@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-07T10:57:49.306273 UTC",
+    "last_updated": "2025-08-07T11:17:18.690842 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -83,9 +83,9 @@
                     0,
                     0,
                     1,
-                    125698
+                    126993
                 ],
-                "expiresIn": 503520,
+                "expiresIn": 502360,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -186,6 +186,37 @@
                     },
                     "flags": 0
                 }
+            },
+            {
+                "id32": 1864231261,
+                "startTime": 46645430,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 172153,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Liberate the designated Automaton planet, where a top-secret database has been identified.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                156
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
+                }
             }
         ],
         "CampaignPlanets": [
@@ -193,10 +224,10 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 2430,
-                "health": 1985267,
+                "players": 2571,
+                "health": 1989956,
                 "maxHealth": 2200000,
-                "percentage": 9.760590909090908,
+                "percentage": 9.547454545454556,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -208,10 +239,10 @@
                 "planetIndex": 72,
                 "name": "Julheim",
                 "faction": "Automatons",
-                "players": 13156,
-                "health": 1576395,
+                "players": 13643,
+                "health": 1570247,
                 "maxHealth": 1600000,
-                "percentage": 1.4753125000000011,
+                "percentage": 1.8595624999999956,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -220,10 +251,22 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 110,
+                "name": "Bekvam III",
+                "faction": "Automatons",
+                "players": 1209,
+                "health": 1599999,
+                "maxHealth": 1600000,
+                "percentage": 6.249999999852207e-05,
+                "defense": false,
+                "biome": null,
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 677,
+                "players": 748,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -238,7 +281,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 50,
+                "players": 43,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -253,7 +296,7 @@
                 "planetIndex": 136,
                 "name": "Afoyay Bay",
                 "faction": "Illuminates",
-                "players": 37,
+                "players": 53,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -268,7 +311,7 @@
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 10,
+                "players": 8,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -307,22 +350,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 110,
-                "name": "Bekvam III",
-                "faction": "Automatons",
-                "players": 1230,
-                "health": 1600000,
-                "maxHealth": 1600000,
-                "percentage": 0,
-                "defense": false,
-                "biome": null,
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 108,
+                "players": 104,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -337,7 +368,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 29,
+                "players": 377,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -352,7 +383,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 30,
+                "players": 32,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -367,7 +398,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 25,
+                "players": 28,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -382,7 +413,7 @@
                 "planetIndex": 78,
                 "name": "Crimsica",
                 "faction": "Terminids",
-                "players": 536,
+                "players": 615,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -397,7 +428,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 93,
+                "players": 88,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -412,7 +443,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 111,
+                "players": 113,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -427,7 +458,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 59,
+                "players": 60,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -442,7 +473,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 150,
+                "players": 152,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -457,7 +488,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 9,
+                "players": 12,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -472,7 +503,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 7,
+                "players": 4,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -487,7 +518,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 84,
+                "players": 103,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -502,7 +533,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 202,
+                "players": 193,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -517,7 +548,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 53,
+                "players": 45,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -532,7 +563,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 157,
+                "players": 161,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -547,7 +578,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 64,
+                "players": 48,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -562,7 +593,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 217,
+                "players": 222,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -577,7 +608,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 71,
+                "players": 70,
                 "health": 1200000,
                 "maxHealth": 1200000,
                 "percentage": 0,
@@ -592,7 +623,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 127,
+                "players": 132,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -607,7 +638,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 171,
+                "players": 157,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -622,7 +653,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 66,
+                "players": 63,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -4171,6 +4202,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>ARSENAL AUGMENTATION</i>\n\nHigh Command has authorized the fleetwide use of the <i=1>Orbital Railcannon Stratagem</i> for the next <i=1>96 hours.</i> \n\nThe use of this mighty weapon to so irreversibly dismantle Automaton Conscripts will send a clear message to our enemies: threats to Democracy will result in nothing less than total annihilation."
+            },
+            {
+                "id": 3323,
+                "published": 46645552,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW STRATEGIC OPPORTUNITY</i>\n\nIntercepted Automaton messages have identified a secure database on <i=1>CHARBAL-VII.</i> This presents a rare opportunity to discover enemy plans; if captured, it could provide critical data on upcoming enemy troop movements."
             }
         ],
         "WarAssignments": [
@@ -4182,9 +4220,9 @@
                     0,
                     0,
                     1,
-                    125690
+                    126993
                 ],
-                "expiresIn": 503530,
+                "expiresIn": 502360,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -4283,6 +4321,37 @@
                         "id32": 897894480,
                         "amount": 50
                     },
+                    "flags": 0
+                }
+            },
+            {
+                "id32": 1864231261,
+                "startTime": 46645430,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 172153,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Liberate the designated Automaton planet, where a top-secret database has been identified.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                156
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
                     "flags": 0
                 }
             }
