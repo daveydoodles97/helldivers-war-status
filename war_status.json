@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-13T12:35:59.729618 UTC",
+    "last_updated": "2025-08-13T13:20:16.217899 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -80,13 +80,13 @@
                 "startTime": 47155970,
                 "progress": [
                     0,
-                    56829,
-                    118417,
-                    159798,
-                    1224753,
-                    882125
+                    76497,
+                    161374,
+                    217920,
+                    1639163,
+                    1188194
                 ],
-                "expiresIn": 505508,
+                "expiresIn": 502908,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -252,6 +252,37 @@
                     },
                     "flags": 0
                 }
+            },
+            {
+                "id32": 2420588399,
+                "startTime": 47170320,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 258060,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Liberate the designated Terminid planet in order to construct a new, safe E-710 farm.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                78
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
+                }
             }
         ],
         "CampaignPlanets": [
@@ -259,10 +290,10 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 2297,
-                "health": 760232,
+                "players": 2292,
+                "health": 767053,
                 "maxHealth": 1000000,
-                "percentage": 23.976799999999997,
+                "percentage": 23.29469999999999,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -274,10 +305,10 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 20333,
-                "health": 869606,
+                "players": 21344,
+                "health": 831196,
                 "maxHealth": 1000000,
-                "percentage": 13.0394,
+                "percentage": 16.880399999999995,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -289,7 +320,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 1511,
+                "players": 1425,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -304,7 +335,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 92,
+                "players": 109,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -319,7 +350,7 @@
                 "planetIndex": 136,
                 "name": "Afoyay Bay",
                 "faction": "Illuminates",
-                "players": 62,
+                "players": 83,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -334,7 +365,7 @@
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 4,
+                "players": 13,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -349,7 +380,7 @@
                 "planetIndex": 138,
                 "name": "Alairt III",
                 "faction": "Illuminates",
-                "players": 32,
+                "players": 24,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -364,7 +395,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 22,
+                "players": 26,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -376,7 +407,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 70,
+                "players": 94,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -391,7 +422,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 41,
+                "players": 35,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -406,7 +437,7 @@
                 "planetIndex": 78,
                 "name": "Crimsica",
                 "faction": "Terminids",
-                "players": 966,
+                "players": 4185,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -421,7 +452,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 61,
+                "players": 71,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -436,7 +467,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 70,
+                "players": 71,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -451,7 +482,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 142,
+                "players": 120,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -466,7 +497,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 196,
+                "players": 190,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -481,7 +512,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 10,
+                "players": 6,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -496,7 +527,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 17,
+                "players": 19,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -511,7 +542,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 146,
+                "players": 138,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -526,7 +557,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 265,
+                "players": 325,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -541,7 +572,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 347,
+                "players": 371,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -556,7 +587,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 161,
+                "players": 168,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -571,7 +602,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 1023,
+                "players": 1009,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -586,7 +617,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 35,
+                "players": 52,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -601,7 +632,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 243,
+                "players": 227,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -616,7 +647,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 102,
+                "players": 118,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -631,7 +662,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 258,
+                "players": 318,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -646,7 +677,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 81,
+                "players": 110,
                 "health": 1200000,
                 "maxHealth": 1200000,
                 "percentage": 0,
@@ -661,7 +692,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 155,
+                "players": 170,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -676,7 +707,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 201,
+                "players": 211,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -691,7 +722,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 89,
+                "players": 102,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -4282,6 +4313,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>NEW MAJOR ORDER</i>\n\nThe Super Earth Government has authorized the construction of <i=1>Tyranny Park 2,</i> a massive recreational and education facility showcasing the most dire threats posed to Managed Democracy. Helldiver aid is needed for this important endeavor. Consult your Galactic Map for more information."
+            },
+            {
+                "id": 3329,
+                "published": 47170370,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW STRATEGIC OPPORTUNITY</i>\n\nThe Helldivers are ordered to liberate <i=1>CRIMSICA</i> in order to enable the establishment of a new E-710 farm there. Consult your Galactic Map for more information."
             }
         ],
         "WarAssignments": [
@@ -4290,13 +4328,13 @@
                 "startTime": 47155970,
                 "progress": [
                     0,
-                    56751,
-                    118304,
-                    159667,
-                    1223633,
-                    881278
+                    77053,
+                    162592,
+                    219537,
+                    1650359,
+                    1196694
                 ],
-                "expiresIn": 505518,
+                "expiresIn": 502838,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -4460,6 +4498,37 @@
                         "id32": 897894480,
                         "amount": 50
                     },
+                    "flags": 0
+                }
+            },
+            {
+                "id32": 2420588399,
+                "startTime": 47170320,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 257990,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Liberate the designated Terminid planet in order to construct a new, safe E-710 farm.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                78
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
                     "flags": 0
                 }
             }
