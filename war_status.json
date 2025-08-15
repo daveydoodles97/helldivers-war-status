@@ -1,66 +1,76 @@
 {
-    "last_updated": "2025-08-15T19:43:47.951500 UTC",
+    "last_updated": "2025-08-15T19:50:28.234440 UTC",
     "SuperEarth": {
         "WarNews": [
             {
                 "id": 2797,
                 "published": 2414563,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "Terminid spores have engulfed Heeth and Angel's Venture, spawning hordes of Terminids that overwhelmed our colonial militias. Clearly, the bug hive instinct oriented their mindless expansion towards dishonoring the memory of those who fought to free these planets.\n\nYour fellow Helldivers paid for these lands with their lives. We cannot lose them now. Hold the planets until SEAF reinforcements arrive."
             },
             {
                 "id": 2798,
                 "published": 2499000,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "The Advanced Liberation Tools Research Agency (ALTRA) has tested successful prototypes of a new combat asset. Helldivers are advised to review proper mechanical operation procedures in preparation for the incoming asset."
             },
             {
                 "id": 2799,
                 "published": 2507100,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "NEW MAJOR ORDER\nTien Kwan is home to the sole arsenal of new Exosuit technology. It is only a matter of time before the Automatons discover the arsenal and steal it for themselves. Liberate Tien Kwan, before it's too late."
             },
             {
                 "id": 2800,
                 "published": 2531100,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "AUTOMATON COUNTERATTACK\nIntercepted messages indicate bot plans for a significant push. Increased resistance on Automaton planets is anticipated."
             },
             {
                 "id": 2801,
                 "published": 2598240,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "Well done, Helldivers. Tien Kwan has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact.\n\nThe EXO-45 PATRIOT EXOSUIT is now available for requisition."
             },
             {
                 "id": 2802,
                 "published": 2705219,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "Upon each Barrier Planet now stands a network of massive, Termicide-dispensing towers: the Terminid Control System. Once activated, the TCS will exterminate every Terminid on that planet, and inoculate it against all future infestations. \n\nHowever, surges in Terminid activity have forced the SEAF Engineers to evacuate. Now, only the Helldivers can ensure the safety of our citizens.\n\nThe Terminid Control System must be activated\u2014at any cost."
             },
             {
                 "id": 2803,
                 "published": 2705235,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "NEW MAJOR ORDER\nActivate Terminid Control System"
             },
             {
                 "id": 2804,
                 "published": 2822793,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "FENRIR III SECURED\nThe Terminid Control System is now fully activated on Fenrir III."
             },
             {
                 "id": 2805,
                 "published": 2899259,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "TURING SECURED\nThe Terminid Control System is now fully activated on Turing."
             },
             {
                 "id": 2806,
                 "published": 2899330,
                 "type": 0,
-                "tagIds": []
+                "tagIds": [],
+                "message": "The TCS has been fully activated on half of the Barrier Planets."
             }
         ],
         "NewsMessages": null,
@@ -70,13 +80,13 @@
                 "startTime": 47155970,
                 "progress": [
                     0,
-                    1893133,
+                    1897804,
                     2000000,
                     1500000,
-                    33156799,
+                    33239250,
                     15000000
                 ],
-                "expiresIn": 307188,
+                "expiresIn": 306708,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -247,10 +257,10 @@
                 "id32": 981697904,
                 "startTime": 47347270,
                 "progress": [
-                    32292839,
-                    2244797
+                    33135133,
+                    2315629
                 ],
-                "expiresIn": 239286,
+                "expiresIn": 238806,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MINOR ORDER",
@@ -322,25 +332,25 @@
                 "planetIndex": 129,
                 "name": "Acamar IV",
                 "faction": "Terminids",
-                "players": 18368,
-                "health": 1522802,
+                "players": 18570,
+                "health": 1518308,
                 "maxHealth": 1750000,
-                "percentage": 12.982742857142853,
+                "percentage": 13.239542857142865,
                 "defense": true,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1755425090.302
+                "expireDateTime": 1755425087.764
             },
             {
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 9437,
-                "health": 153949,
+                "players": 9564,
+                "health": 152071,
                 "maxHealth": 1000000,
-                "percentage": 84.6051,
+                "percentage": 84.7929,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -352,7 +362,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 424,
+                "players": 416,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -367,7 +377,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 351,
+                "players": 332,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -382,7 +392,7 @@
                 "planetIndex": 136,
                 "name": "Afoyay Bay",
                 "faction": "Illuminates",
-                "players": 93,
+                "players": 99,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -397,7 +407,7 @@
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 18,
+                "players": 19,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -412,7 +422,7 @@
                 "planetIndex": 138,
                 "name": "Alairt III",
                 "faction": "Illuminates",
-                "players": 41,
+                "players": 43,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -427,7 +437,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 50,
+                "players": 48,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -439,7 +449,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 123,
+                "players": 114,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -454,7 +464,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 135,
+                "players": 151,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -469,7 +479,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 75,
+                "players": 84,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -484,7 +494,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 529,
+                "players": 525,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -499,7 +509,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 226,
+                "players": 210,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -514,7 +524,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 59,
+                "players": 60,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -529,7 +539,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 151,
+                "players": 178,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -544,7 +554,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 203,
+                "players": 200,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -559,7 +569,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 14,
+                "players": 17,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -574,7 +584,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 11,
+                "players": 14,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -589,7 +599,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 409,
+                "players": 417,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -604,7 +614,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 341,
+                "players": 339,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -619,7 +629,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 566,
+                "players": 569,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -634,7 +644,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1709,
+                "players": 1764,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -649,7 +659,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 1170,
+                "players": 1130,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -664,7 +674,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 43,
+                "players": 45,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -679,7 +689,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 139,
+                "players": 142,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -694,7 +704,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 142,
+                "players": 140,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -709,7 +719,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 1800,
+                "players": 1820,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -724,7 +734,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 276,
+                "players": 251,
                 "health": 1200000,
                 "maxHealth": 1200000,
                 "percentage": 0,
@@ -739,7 +749,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 67,
+                "players": 72,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -754,7 +764,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 300,
+                "players": 288,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -769,7 +779,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 216,
+                "players": 212,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -4396,13 +4406,13 @@
                 "startTime": 47155970,
                 "progress": [
                     0,
-                    1893633,
+                    1897308,
                     2000000,
                     1500000,
-                    33164647,
+                    33230913,
                     15000000
                 ],
-                "expiresIn": 307138,
+                "expiresIn": 306758,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -4573,10 +4583,10 @@
                 "id32": 981697904,
                 "startTime": 47347270,
                 "progress": [
-                    32368131,
-                    2255678
+                    33038605,
+                    2308440
                 ],
-                "expiresIn": 239236,
+                "expiresIn": 238856,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MINOR ORDER",
