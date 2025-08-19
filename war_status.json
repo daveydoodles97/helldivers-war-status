@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-19T08:55:08.426372 UTC",
+    "last_updated": "2025-08-19T09:12:04.551275 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,195 +74,16 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 2962192940,
-                "startTime": 47155970,
-                "progress": [
-                    1,
-                    4945872,
-                    2000000,
-                    1500000,
-                    40000000,
-                    15000000
-                ],
-                "expiresIn": 718,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Liberate the designated planet, collect all required samples, and eliminate the designated Terminids to enable the construction of Tyranny Park 2.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 11,
-                            "values": [
-                                1,
-                                1,
-                                124
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                5000000,
-                                1299714559,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                2000000,
-                                1046000873,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                1500000,
-                                2514244534,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                2,
-                                0,
-                                40000000,
-                                1,
-                                3992382197,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                2,
-                                0,
-                                15000000,
-                                1,
-                                2985106497,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 50
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 50
-                    },
-                    "flags": 0
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
             {
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 12069,
-                "health": 132236,
+                "players": 11087,
+                "health": 122437,
                 "maxHealth": 1000000,
-                "percentage": 86.7764,
+                "percentage": 87.7563,
                 "defense": false,
                 "biome": {
                     "slug": "undergrowth",
@@ -274,7 +95,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 523,
+                "players": 498,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -289,7 +110,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 166,
+                "players": 215,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -304,7 +125,7 @@
                 "planetIndex": 136,
                 "name": "Afoyay Bay",
                 "faction": "Illuminates",
-                "players": 64,
+                "players": 75,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -319,7 +140,7 @@
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 12,
+                "players": 20,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -349,7 +170,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 25,
+                "players": 23,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -361,7 +182,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 34,
+                "players": 37,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -376,7 +197,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 42,
+                "players": 59,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -406,7 +227,7 @@
                 "planetIndex": 75,
                 "name": "Esker",
                 "faction": "Terminids",
-                "players": 212,
+                "players": 167,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -421,7 +242,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 855,
+                "players": 867,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -436,7 +257,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 161,
+                "players": 113,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -451,7 +272,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 78,
+                "players": 96,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -466,7 +287,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 184,
+                "players": 164,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -496,7 +317,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 9,
+                "players": 16,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -511,7 +332,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 172,
+                "players": 199,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -526,7 +347,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 142,
+                "players": 173,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -541,7 +362,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 199,
+                "players": 215,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -556,7 +377,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 2325,
+                "players": 2203,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -571,7 +392,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 63,
+                "players": 44,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -586,7 +407,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 244,
+                "players": 226,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -601,7 +422,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 87,
+                "players": 112,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -616,7 +437,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 1019,
+                "players": 1291,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -631,7 +452,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 102,
+                "players": 110,
                 "health": 1200000,
                 "maxHealth": 1200000,
                 "percentage": 0,
@@ -646,7 +467,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 68,
+                "players": 76,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -661,7 +482,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 192,
+                "players": 233,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -676,7 +497,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 71,
+                "players": 108,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -4302,187 +4123,15 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>TYRANNY PARK 2 EXPANSION SECURED</i>\n\nHelldivers have successfully neutralized all designated Gloom-mutated Terminids. \n\nA surge of Tyranny Park 2 ticket pre-sales has followed the announcement of \"The Forbidden Gloom\" expansion zone. As such, Tyranny Park 2 has sponsored the <i=1>Orbital Napalm Barrage stratagem to be available fleetwide for the next 48 hours.</i>"
+            },
+            {
+                "id": 3334,
+                "published": 47673651,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>PARK PLANNING COMISSION NOTICE</i>\n\nIn light of the Helldivers' recent <i=1>Charger</i> egg procurement efforts, the Tyranny Park Planning Commission has unanimously decided to diversify Tyranny Park 2's Charger exhibits.\n\nFor this purpose, <i=1>the Helldivers' target Charger numbers are considered met.</i>"
             }
         ],
-        "WarAssignments": [
-            {
-                "id32": 2962192940,
-                "startTime": 47155970,
-                "progress": [
-                    1,
-                    4946491,
-                    2000000,
-                    1500000,
-                    40000000,
-                    15000000
-                ],
-                "expiresIn": 638,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Liberate the designated planet, collect all required samples, and eliminate the designated Terminids to enable the construction of Tyranny Park 2.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 11,
-                            "values": [
-                                1,
-                                1,
-                                124
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                5000000,
-                                1299714559,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                2000000,
-                                1046000873,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                1500000,
-                                2514244534,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                2,
-                                0,
-                                40000000,
-                                1,
-                                3992382197,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                2,
-                                0,
-                                15000000,
-                                1,
-                                2985106497,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 50
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 50
-                    },
-                    "flags": 0
-                }
-            }
-        ]
+        "WarAssignments": []
     }
 }
