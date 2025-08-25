@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-25T13:37:37.697966 UTC",
+    "last_updated": "2025-08-25T13:49:56.833874 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -79,9 +79,9 @@
                 "id32": 1938125856,
                 "startTime": 47692040,
                 "progress": [
-                    1216996484
+                    1218672932
                 ],
-                "expiresIn": 606532,
+                "expiresIn": 605802,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -135,9 +135,9 @@
                 "id32": 3781450845,
                 "startTime": 47846840,
                 "progress": [
-                    489481530
+                    490016728
                 ],
-                "expiresIn": 588532,
+                "expiresIn": 587802,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -191,9 +191,9 @@
                 "id32": 1557461865,
                 "startTime": 47933230,
                 "progress": [
-                    238050324
+                    238542545
                 ],
-                "expiresIn": 588528,
+                "expiresIn": 587798,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -249,78 +249,93 @@
                 "planetIndex": 83,
                 "name": "Inari",
                 "faction": "Terminids",
-                "players": 18471,
-                "health": 359517,
+                "players": 19303,
+                "health": 353299,
                 "maxHealth": 500000,
-                "percentage": 28.096599999999995,
+                "percentage": 29.340199999999996,
                 "defense": true,
                 "biome": {
                     "slug": "icemoss",
                     "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
                 },
-                "expireDateTime": 1756193476.973
+                "expireDateTime": 1756193476.131
             },
             {
                 "planetIndex": 67,
                 "name": "Tarsh",
                 "faction": "Automatons",
-                "players": 2194,
-                "health": 2146608,
+                "players": 2532,
+                "health": 2146002,
                 "maxHealth": 2250000,
-                "percentage": 4.595199999999991,
+                "percentage": 4.622133333333323,
                 "defense": true,
                 "biome": {
                     "slug": "morass",
                     "description": "Squelching mud, twisting roots; the odor of rot and anarchy. A teeming, endless morass."
                 },
-                "expireDateTime": 1756185616.973
+                "expireDateTime": 1756185616.131
             },
             {
                 "planetIndex": 56,
                 "name": "Myrium",
                 "faction": "Illuminates",
-                "players": 484,
-                "health": 1959195,
+                "players": 537,
+                "health": 1959064,
                 "maxHealth": 2000000,
-                "percentage": 2.0402500000000003,
+                "percentage": 2.0467999999999904,
                 "defense": true,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1756166116.973
+                "expireDateTime": 1756166116.131
             },
             {
                 "planetIndex": 57,
                 "name": "Kerth Secundus",
                 "faction": "Illuminates",
-                "players": 897,
-                "health": 1479446,
+                "players": 928,
+                "health": 1479194,
                 "maxHealth": 1500000,
-                "percentage": 1.3702666666666659,
+                "percentage": 1.3870666666666551,
                 "defense": true,
                 "biome": null,
-                "expireDateTime": 1756200226.973
+                "expireDateTime": 1756200226.131
             },
             {
                 "planetIndex": 110,
                 "name": "Bekvam III",
                 "faction": "Automatons",
                 "players": 514,
-                "health": 2226287,
+                "health": 2226108,
                 "maxHealth": 2250000,
-                "percentage": 1.0539111111111055,
+                "percentage": 1.0618666666666599,
                 "defense": true,
                 "biome": null,
-                "expireDateTime": 1756185616.973
+                "expireDateTime": 1756185616.131
+            },
+            {
+                "planetIndex": 66,
+                "name": "Curia",
+                "faction": "Automatons",
+                "players": 2444,
+                "health": 999996,
+                "maxHealth": 1000000,
+                "percentage": 0.00039999999999906777,
+                "defense": false,
+                "biome": {
+                    "slug": "moon",
+                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+                },
+                "expireDateTime": null
             },
             {
                 "planetIndex": 135,
                 "name": "Adhara",
                 "faction": "Illuminates",
-                "players": 26,
-                "health": 1000000,
-                "maxHealth": 1000000,
+                "players": 24,
+                "health": 1500000,
+                "maxHealth": 1500000,
                 "percentage": 0,
                 "defense": false,
                 "biome": {
@@ -333,7 +348,7 @@
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 4,
+                "players": 7,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -348,7 +363,7 @@
                 "planetIndex": 138,
                 "name": "Alairt III",
                 "faction": "Illuminates",
-                "players": 13,
+                "players": 11,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -363,7 +378,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 4,
+                "players": 6,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -375,7 +390,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 234,
+                "players": 253,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -390,7 +405,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 71,
+                "players": 78,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -417,25 +432,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 66,
-                "name": "Curia",
-                "faction": "Automatons",
-                "players": 2376,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 35,
                 "name": "Effluvia",
                 "faction": "Illuminates",
-                "players": 6149,
+                "players": 5964,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -450,7 +450,7 @@
                 "planetIndex": 168,
                 "name": "Erata Prime",
                 "faction": "Terminids",
-                "players": 1005,
+                "players": 1009,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -465,7 +465,7 @@
                 "planetIndex": 75,
                 "name": "Esker",
                 "faction": "Terminids",
-                "players": 116,
+                "players": 122,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -480,7 +480,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 420,
+                "players": 430,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -495,7 +495,7 @@
                 "planetIndex": 44,
                 "name": "Fenmire",
                 "faction": "Automatons",
-                "players": 8068,
+                "players": 7910,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -510,7 +510,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 56,
+                "players": 77,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -525,7 +525,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 211,
+                "players": 212,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -540,7 +540,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 358,
+                "players": 359,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -570,7 +570,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 109,
+                "players": 114,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -585,7 +585,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 118,
+                "players": 130,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -600,7 +600,7 @@
                 "planetIndex": 58,
                 "name": "Parsh",
                 "faction": "Illuminates",
-                "players": 142,
+                "players": 133,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -615,7 +615,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 1245,
+                "players": 1281,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -630,7 +630,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 52,
+                "players": 55,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -645,7 +645,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 282,
+                "players": 283,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -660,7 +660,7 @@
                 "planetIndex": 126,
                 "name": "Turing",
                 "faction": "Terminids",
-                "players": 388,
+                "players": 402,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -675,7 +675,7 @@
                 "planetIndex": 82,
                 "name": "Ursica XI",
                 "faction": "Terminids",
-                "players": 2164,
+                "players": 2197,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -687,7 +687,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 33,
+                "players": 35,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -702,7 +702,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 425,
+                "players": 437,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -717,7 +717,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 60,
+                "players": 64,
                 "health": 1200000,
                 "maxHealth": 1200000,
                 "percentage": 0,
@@ -732,7 +732,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 377,
+                "players": 394,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -747,7 +747,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 127,
+                "players": 123,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -4499,6 +4499,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>IMPALER RAMPAGE</i>\n\nA massive outbreak of <i=1>Impaler</i> Terminids has been reported on <i=1>INARI.</i>"
+            },
+            {
+                "id": 3355,
+                "published": 48209404,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>INCREASED REINFORCEMENT BUDGET</i>\n\nIn order to account for a predicted increase in Helldiver turnover, Super Earth High Command has issued emergency approval to increase Helldiver Reinforcement Budgets to <i=1>2 per mission</i> for the next 48 hours."
             }
         ],
         "WarAssignments": [
@@ -4506,9 +4513,9 @@
                 "id32": 1938125856,
                 "startTime": 47692040,
                 "progress": [
-                    1216996484
+                    1218719995
                 ],
-                "expiresIn": 606532,
+                "expiresIn": 605782,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -4562,9 +4569,9 @@
                 "id32": 3781450845,
                 "startTime": 47846840,
                 "progress": [
-                    489481530
+                    490032759
                 ],
-                "expiresIn": 588532,
+                "expiresIn": 587782,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -4618,9 +4625,9 @@
                 "id32": 1557461865,
                 "startTime": 47933230,
                 "progress": [
-                    238050324
+                    238556668
                 ],
-                "expiresIn": 588528,
+                "expiresIn": 587778,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
