@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-29T20:55:56.306103 UTC",
+    "last_updated": "2025-08-29T21:10:51.757372 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -79,9 +79,9 @@
                 "id32": 1938125856,
                 "startTime": 47692040,
                 "progress": [
-                    3659864527
+                    3669772791
                 ],
-                "expiresIn": 234802,
+                "expiresIn": 233922,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -135,9 +135,9 @@
                 "id32": 3781450845,
                 "startTime": 47846840,
                 "progress": [
-                    1409999474
+                    1415004566
                 ],
-                "expiresIn": 216802,
+                "expiresIn": 215922,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -190,70 +190,25 @@
         ],
         "CampaignPlanets": [
             {
-                "planetIndex": 49,
-                "name": "Azterra",
-                "faction": "Terminids",
-                "players": 33096,
-                "health": 541889,
-                "maxHealth": 850000,
-                "percentage": 36.24835294117647,
-                "defense": true,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-                },
-                "expireDateTime": 1756501445.747
-            },
-            {
                 "planetIndex": 42,
                 "name": "Emeria",
                 "faction": "Automatons",
-                "players": 88512,
-                "health": 929058,
+                "players": 91745,
+                "health": 921502,
                 "maxHealth": 1250000,
-                "percentage": 25.675359999999998,
+                "percentage": 26.279839999999993,
                 "defense": true,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1756627915.747
-            },
-            {
-                "planetIndex": 77,
-                "name": "Cirrus",
-                "faction": "Terminids",
-                "players": 19276,
-                "health": 687161,
-                "maxHealth": 850000,
-                "percentage": 19.1575294117647,
-                "defense": true,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": 1756501415.747
-            },
-            {
-                "planetIndex": 76,
-                "name": "Terrek",
-                "faction": "Terminids",
-                "players": 72716,
-                "health": 359149,
-                "maxHealth": 1000000,
-                "percentage": 64.0851,
-                "defense": false,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": null
+                "expireDateTime": 1756627920.619
             },
             {
                 "planetIndex": 137,
                 "name": "Ain-5",
                 "faction": "Illuminates",
-                "players": 46,
+                "players": 48,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -268,7 +223,7 @@
                 "planetIndex": 138,
                 "name": "Alairt III",
                 "faction": "Illuminates",
-                "players": 174,
+                "players": 196,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -283,7 +238,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 106,
+                "players": 102,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -292,10 +247,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 49,
+                "name": "Azterra",
+                "faction": "Terminids",
+                "players": 34399,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "canyon",
+                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 43,
                 "name": "Barabos",
                 "faction": "Automatons",
-                "players": 2508,
+                "players": 2510,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -310,7 +280,7 @@
                 "planetIndex": 110,
                 "name": "Bekvam III",
                 "faction": "Automatons",
-                "players": 414,
+                "players": 411,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -322,7 +292,7 @@
                 "planetIndex": 65,
                 "name": "Borea",
                 "faction": "Automatons",
-                "players": 6160,
+                "players": 6362,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -337,7 +307,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 812,
+                "players": 834,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -352,7 +322,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 325,
+                "players": 313,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -364,10 +334,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 77,
+                "name": "Cirrus",
+                "faction": "Terminids",
+                "players": 20324,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 136,
+                "players": 153,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -382,7 +367,7 @@
                 "planetIndex": 111,
                 "name": "Duma Tyr",
                 "faction": "Automatons",
-                "players": 1261,
+                "players": 1205,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -394,7 +379,7 @@
                 "planetIndex": 168,
                 "name": "Erata Prime",
                 "faction": "Terminids",
-                "players": 4861,
+                "players": 5151,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -409,7 +394,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 1627,
+                "players": 1708,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -424,7 +409,7 @@
                 "planetIndex": 44,
                 "name": "Fenmire",
                 "faction": "Automatons",
-                "players": 7051,
+                "players": 7095,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -439,7 +424,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 735,
+                "players": 791,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -454,7 +439,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 2206,
+                "players": 2243,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -469,7 +454,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 106,
+                "players": 111,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -484,7 +469,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 479,
+                "players": 509,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -499,7 +484,7 @@
                 "planetIndex": 56,
                 "name": "Myrium",
                 "faction": "Illuminates",
-                "players": 399,
+                "players": 384,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -514,7 +499,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 3478,
+                "players": 3572,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -529,7 +514,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 509,
+                "players": 542,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -544,7 +529,7 @@
                 "planetIndex": 88,
                 "name": "Regnus",
                 "faction": "Illuminates",
-                "players": 1036,
+                "players": 1045,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -559,7 +544,7 @@
                 "planetIndex": 33,
                 "name": "Seyshel Beach",
                 "faction": "Illuminates",
-                "players": 10373,
+                "players": 10919,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -574,7 +559,7 @@
                 "planetIndex": 67,
                 "name": "Tarsh",
                 "faction": "Automatons",
-                "players": 2370,
+                "players": 2453,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -589,7 +574,7 @@
                 "planetIndex": 126,
                 "name": "Turing",
                 "faction": "Terminids",
-                "players": 2291,
+                "players": 2413,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -604,7 +589,7 @@
                 "planetIndex": 82,
                 "name": "Ursica XI",
                 "faction": "Terminids",
-                "players": 940,
+                "players": 921,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -616,7 +601,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 265,
+                "players": 224,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -631,7 +616,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 319,
+                "players": 326,
                 "health": 1200000,
                 "maxHealth": 1200000,
                 "percentage": 0,
@@ -646,7 +631,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 690,
+                "players": 715,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -661,7 +646,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 447,
+                "players": 429,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -4595,6 +4580,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>STRATAGEM GRANTED</i>\n\nThe <i=1>Gatling Sentry Stratagem</i> has been authorized for immediate use, for the next <i=1>24 hours.</i>"
+            },
+            {
+                "id": 3382,
+                "published": 48580555,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>ARSENAL AUGMENTATION ENDED</i>\n\n<i=1>Orbital Laser Stratagem</i> availability has now ended."
             }
         ],
         "WarAssignments": [
@@ -4602,9 +4594,9 @@
                 "id32": 1938125856,
                 "startTime": 47692040,
                 "progress": [
-                    3659759757
+                    3669659238
                 ],
-                "expiresIn": 234812,
+                "expiresIn": 233932,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -4658,9 +4650,9 @@
                 "id32": 3781450845,
                 "startTime": 47846840,
                 "progress": [
-                    1409936797
+                    1414943684
                 ],
-                "expiresIn": 216812,
+                "expiresIn": 215932,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
