@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-02T11:46:33.868151 UTC",
+    "last_updated": "2025-09-02T11:53:27.037037 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -76,29 +76,66 @@
         "NewsMessages": null,
         "MajorOrders": [
             {
-                "id32": 4183039005,
-                "startTime": 48758750,
+                "id32": 1918852723,
+                "startTime": 48893180,
                 "progress": [
                     0,
                     0,
-                    0
+                    1
                 ],
-                "expiresIn": 17023,
+                "expiresIn": 603963,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Establish a forward operating base inside the Gloom, to facilitate expeditions into its spore-producing heart.",
+                    "overrideBrief": "Operation Righteous Reclamation has entered its second stage. The Helldivers must help research the Hive World, while defending Outpost Alpha.",
                     "taskDescription": "",
                     "tasks": [
                         {
-                            "type": 13,
+                            "type": 2,
                             "values": [
+                                2,
+                                0,
+                                350000000,
                                 1,
+                                3992382197,
+                                0,
+                                0,
                                 1,
-                                211
+                                212
                             ],
                             "valueTypes": [
+                                1,
+                                2,
                                 3,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "values": [
+                                2,
+                                0,
+                                200000000,
+                                1,
+                                2985106497,
+                                0,
+                                0,
+                                1,
+                                212
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                5,
+                                8,
+                                9,
                                 11,
                                 12
                             ]
@@ -115,61 +152,33 @@
                                 11,
                                 12
                             ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
                         }
                     ],
                     "rewards": [
                         {
                             "type": 1,
                             "id32": 897894480,
-                            "amount": 40
+                            "amount": 55
                         }
                     ],
                     "reward": {
                         "type": 1,
                         "id32": 897894480,
-                        "amount": 40
+                        "amount": 55
                     },
-                    "flags": 2
+                    "flags": 0
                 }
             }
         ],
         "CampaignPlanets": [
             {
-                "planetIndex": 34,
-                "name": "Hellmire",
-                "faction": "Terminids",
-                "players": 83311,
-                "health": 1374,
-                "maxHealth": 1000000,
-                "percentage": 99.8626,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 25,
                 "name": "Sulfura",
                 "faction": "Terminids",
-                "players": 6747,
-                "health": 417629,
+                "players": 7168,
+                "health": 417198,
                 "maxHealth": 1000000,
-                "percentage": 58.2371,
+                "percentage": 58.2802,
                 "defense": false,
                 "biome": {
                     "slug": "ethereal",
@@ -196,7 +205,7 @@
                 "planetIndex": 138,
                 "name": "Alairt III",
                 "faction": "Illuminates",
-                "players": 41,
+                "players": 55,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -211,7 +220,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 25,
+                "players": 26,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -223,7 +232,7 @@
                 "planetIndex": 43,
                 "name": "Barabos",
                 "faction": "Automatons",
-                "players": 348,
+                "players": 362,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -238,7 +247,7 @@
                 "planetIndex": 110,
                 "name": "Bekvam III",
                 "faction": "Automatons",
-                "players": 74,
+                "players": 67,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -250,7 +259,7 @@
                 "planetIndex": 65,
                 "name": "Borea",
                 "faction": "Automatons",
-                "players": 449,
+                "players": 441,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -265,7 +274,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 282,
+                "players": 271,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -280,7 +289,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 93,
+                "players": 111,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -295,7 +304,7 @@
                 "planetIndex": 77,
                 "name": "Cirrus",
                 "faction": "Terminids",
-                "players": 1252,
+                "players": 1330,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -310,7 +319,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 44,
+                "players": 45,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -325,7 +334,7 @@
                 "planetIndex": 111,
                 "name": "Duma Tyr",
                 "faction": "Automatons",
-                "players": 333,
+                "players": 337,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -337,7 +346,7 @@
                 "planetIndex": 168,
                 "name": "Erata Prime",
                 "faction": "Terminids",
-                "players": 2288,
+                "players": 2332,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -352,7 +361,7 @@
                 "planetIndex": 169,
                 "name": "Estanu",
                 "faction": "Terminids",
-                "players": 1928,
+                "players": 2078,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -367,7 +376,7 @@
                 "planetIndex": 44,
                 "name": "Fenmire",
                 "faction": "Automatons",
-                "players": 3210,
+                "players": 3264,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -382,7 +391,7 @@
                 "planetIndex": 170,
                 "name": "Fori Prime",
                 "faction": "Terminids",
-                "players": 7434,
+                "players": 8300,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -397,7 +406,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 129,
+                "players": 123,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -412,7 +421,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 770,
+                "players": 762,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -427,7 +436,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 23,
+                "players": 16,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -442,7 +451,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 180,
+                "players": 172,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -457,7 +466,7 @@
                 "planetIndex": 56,
                 "name": "Myrium",
                 "faction": "Illuminates",
-                "players": 65,
+                "players": 60,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -469,10 +478,40 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 211,
+                "name": "Nivel 43",
+                "faction": "Terminids",
+                "players": 1079,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 212,
+                "name": "Oshaune",
+                "faction": "Terminids",
+                "players": 6847,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "highlands",
+                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 1562,
+                "players": 1532,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -487,7 +526,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 106,
+                "players": 105,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -502,7 +541,7 @@
                 "planetIndex": 88,
                 "name": "Regnus",
                 "faction": "Illuminates",
-                "players": 57,
+                "players": 54,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -517,7 +556,7 @@
                 "planetIndex": 33,
                 "name": "Seyshel Beach",
                 "faction": "Illuminates",
-                "players": 1551,
+                "players": 1534,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -532,7 +571,7 @@
                 "planetIndex": 67,
                 "name": "Tarsh",
                 "faction": "Automatons",
-                "players": 1035,
+                "players": 1119,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -547,7 +586,7 @@
                 "planetIndex": 126,
                 "name": "Turing",
                 "faction": "Terminids",
-                "players": 367,
+                "players": 368,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -562,7 +601,7 @@
                 "planetIndex": 82,
                 "name": "Ursica XI",
                 "faction": "Terminids",
-                "players": 127,
+                "players": 133,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -574,7 +613,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 78,
+                "players": 71,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -589,7 +628,7 @@
                 "planetIndex": 117,
                 "name": "Vog-sojoth",
                 "faction": "Automatons",
-                "players": 93,
+                "players": 91,
                 "health": 1200000,
                 "maxHealth": 1200000,
                 "percentage": 0,
@@ -604,7 +643,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 179,
+                "players": 171,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -619,7 +658,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 137,
+                "players": 126,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -4644,33 +4683,91 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>ARSENAL AUGMENTATION ENDED</i>\n\n<i=1>Tesla Tower Stratagem</i> availability has now ended."
+            },
+            {
+                "id": 3395,
+                "published": 48892623,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>STRATEGIC TIMELINE ACCELERATED</i>\n\nIn order to maintain operational momentum, High Command has directed the immediate and forceful invasion of <i=1>OSHAUNE,</i> springboarding from the rapidlly-deployed Outpost Alpha on <i=1>HELLMIRE.</i>\n\nLow Gloom resistance thus far indicates a lack of enemy preparedness. High deployment velocity will enable full exploitation of this vulnerability."
+            },
+            {
+                "id": 3396,
+                "published": 48892755,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>MAJOR ORDER WON</i>\n\nThe Helldivers have liberated <i=1>HELLMIRE</i> from the Gloom\u2019s clutches.\n\nTheir superhuman efforts have successfully enabled construction of a forward operating base inside the Gloom, dubbed <i=1>Outpost Alpha.</i> As long as Outpost Alpha remains operational, the Helldivers will have unprecedented access to the heart of the Gloom.\n\nOutpost personnel have completed initial geological scans of <i=1>OSHAUNE.</i> The planet presents a unique biome, which has earned it the designation: <i=1>Hive World.</i>"
+            },
+            {
+                "id": 3397,
+                "published": 48893310,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nOperation <i=1>Righteous Reclamation</i=1> has entered its second stage.\n\n<i=1>Outpost Alpha</i> enables the Helldivers\u2019 spore-resistant Super Destroyers to access the <i=1>Hive World OSHAUNE.</i>\n\nThe Helldivers are ordered to conduct initial reconnaissance of the <i=1>Hive World</i> and secure research samples from it. Understanding this unique biome is key to annihilating it for good.\n\nWhile operations on <i=1>HELLMIRE</i> are ongoing, <i=1>Outpost Alpha</i> must not be lost."
             }
         ],
         "WarAssignments": [
             {
-                "id32": 4183039005,
-                "startTime": 48758750,
+                "id32": 1918852723,
+                "startTime": 48893180,
                 "progress": [
                     0,
                     0,
-                    0
+                    1
                 ],
-                "expiresIn": 17003,
+                "expiresIn": 603843,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Establish a forward operating base inside the Gloom, to facilitate expeditions into its spore-producing heart.",
+                    "overrideBrief": "Operation Righteous Reclamation has entered its second stage. The Helldivers must help research the Hive World, while defending Outpost Alpha.",
                     "taskDescription": "",
                     "tasks": [
                         {
-                            "type": 13,
+                            "type": 2,
                             "values": [
+                                2,
+                                0,
+                                350000000,
                                 1,
+                                3992382197,
+                                0,
+                                0,
                                 1,
-                                211
+                                212
                             ],
                             "valueTypes": [
+                                1,
+                                2,
                                 3,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "values": [
+                                2,
+                                0,
+                                200000000,
+                                1,
+                                2985106497,
+                                0,
+                                0,
+                                1,
+                                212
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                5,
+                                8,
+                                9,
                                 11,
                                 12
                             ]
@@ -4687,34 +4784,21 @@
                                 11,
                                 12
                             ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
                         }
                     ],
                     "rewards": [
                         {
                             "type": 1,
                             "id32": 897894480,
-                            "amount": 40
+                            "amount": 55
                         }
                     ],
                     "reward": {
                         "type": 1,
                         "id32": 897894480,
-                        "amount": 40
+                        "amount": 55
                     },
-                    "flags": 2
+                    "flags": 0
                 }
             }
         ]
