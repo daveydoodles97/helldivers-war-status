@@ -1,106 +1,15 @@
 {
-    "last_updated": "2025-11-18T11:39:12.313150 UTC",
+    "last_updated": "2025-11-18T11:46:05.617977 UTC",
     "SuperEarth": {
         "WarNews": {
             "error": "Failed to fetch data, status: 500"
         },
-        "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 2540751458,
-                "startTime": 55124130,
-                "progress": [
-                    1,
-                    14687390,
-                    43033421
-                ],
-                "expiresIn": 188729,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Secure the designated number of samples to enable an expansion of the Center for Citizen Surveillance & Safety.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                45
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                4,
-                                0,
-                                15000000,
-                                1,
-                                3992382197,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                3,
-                                0,
-                                62500000,
-                                1,
-                                3992382197,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 55
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 55
-                    },
-                    "flags": 1
-                }
-            }
-        ],
+        "NewsMessages": {
+            "error": "Failed to fetch data, status: 500"
+        },
+        "MajorOrders": {
+            "error": "Failed to fetch data, status: 500"
+        },
         "CampaignPlanets": {
             "error": "Failed to fetch data, status: 500"
         }
@@ -4818,10 +4727,10 @@
                 "startTime": 55124130,
                 "progress": [
                     1,
-                    14713031,
-                    43084106
+                    14720669,
+                    43097472
                 ],
-                "expiresIn": 187269,
+                "expiresIn": 186879,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
