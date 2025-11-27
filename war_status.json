@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-27T15:58:00.268346 UTC",
+    "last_updated": "2025-11-27T16:22:04.663132 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,105 +74,46 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 3607871146,
-                "startTime": 55730070,
-                "progress": [
-                    1,
-                    5
-                ],
-                "expiresIn": 498,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Defend our planets against all 3 factions and hold the Xenoentomology Center on Turing.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                126
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 12,
-                            "values": [
-                                8,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                3,
-                                1,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 60
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 60
-                    },
-                    "flags": 1
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
             {
                 "planetIndex": 91,
                 "name": "Iro",
                 "faction": "Illuminates",
-                "players": 10737,
-                "health": 267274,
+                "players": 10037,
+                "health": 256383,
                 "maxHealth": 500000,
-                "percentage": 46.545199999999994,
+                "percentage": 48.7234,
                 "defense": true,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1764284169.57
+                "expireDateTime": 1764284164.272
             },
             {
                 "planetIndex": 116,
                 "name": "Gaellivare",
                 "faction": "Automatons",
-                "players": 5720,
-                "health": 796483,
+                "players": 7452,
+                "health": 791369,
                 "maxHealth": 800000,
-                "percentage": 0.4396249999999924,
+                "percentage": 1.0788749999999965,
                 "defense": true,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1764429159.57
+                "expireDateTime": 1764429154.272
             },
             {
                 "planetIndex": 76,
                 "name": "Terrek",
                 "faction": "Terminids",
-                "players": 7928,
-                "health": 736558,
+                "players": 8014,
+                "health": 732604,
                 "maxHealth": 1000000,
-                "percentage": 26.3442,
+                "percentage": 26.739599999999996,
                 "defense": false,
                 "biome": {
                     "slug": "moon",
@@ -184,10 +125,10 @@
                 "planetIndex": 83,
                 "name": "Inari",
                 "faction": "Terminids",
-                "players": 2307,
-                "health": 951074,
+                "players": 2477,
+                "health": 950407,
                 "maxHealth": 1000000,
-                "percentage": 4.892600000000002,
+                "percentage": 4.959299999999999,
                 "defense": false,
                 "biome": {
                     "slug": "icemoss",
@@ -199,7 +140,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 637,
+                "players": 596,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -214,7 +155,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 86,
+                "players": 88,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -229,7 +170,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 145,
+                "players": 124,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -244,7 +185,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 191,
+                "players": 211,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -259,7 +200,7 @@
                 "planetIndex": 65,
                 "name": "Borea",
                 "faction": "Automatons",
-                "players": 454,
+                "players": 383,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -274,7 +215,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 212,
+                "players": 211,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -289,7 +230,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 109,
+                "players": 117,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -304,7 +245,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 86,
+                "players": 81,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -319,7 +260,7 @@
                 "planetIndex": 78,
                 "name": "Crimsica",
                 "faction": "Terminids",
-                "players": 996,
+                "players": 1021,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -334,7 +275,7 @@
                 "planetIndex": 111,
                 "name": "Duma Tyr",
                 "faction": "Automatons",
-                "players": 837,
+                "players": 812,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -346,7 +287,7 @@
                 "planetIndex": 170,
                 "name": "Fori Prime",
                 "faction": "Terminids",
-                "players": 537,
+                "players": 494,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -361,7 +302,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 171,
+                "players": 165,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -376,7 +317,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 13,
+                "players": 21,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -391,7 +332,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 77,
+                "players": 94,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -406,7 +347,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 549,
+                "players": 627,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -421,7 +362,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 959,
+                "players": 618,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -436,7 +377,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 11,
+                "players": 9,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -451,7 +392,7 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 37,
+                "players": 45,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -466,7 +407,7 @@
                 "planetIndex": 60,
                 "name": "Irulta",
                 "faction": "Illuminates",
-                "players": 100,
+                "players": 128,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -481,7 +422,7 @@
                 "planetIndex": 57,
                 "name": "Kerth Secundus",
                 "faction": "Illuminates",
-                "players": 68,
+                "players": 66,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -493,7 +434,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 1792,
+                "players": 1584,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -508,7 +449,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 185,
+                "players": 187,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -523,7 +464,7 @@
                 "planetIndex": 56,
                 "name": "Myrium",
                 "faction": "Illuminates",
-                "players": 24,
+                "players": 18,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -538,7 +479,7 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 50,
+                "players": 51,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -553,7 +494,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 419,
+                "players": 436,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -568,7 +509,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 332,
+                "players": 335,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -583,7 +524,7 @@
                 "planetIndex": 58,
                 "name": "Parsh",
                 "faction": "Illuminates",
-                "players": 22,
+                "players": 20,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -598,7 +539,7 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 126,
+                "players": 131,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -613,7 +554,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 8,
+                "players": 18,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -628,7 +569,7 @@
                 "planetIndex": 59,
                 "name": "Reaf",
                 "faction": "Illuminates",
-                "players": 48,
+                "players": 54,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -643,7 +584,7 @@
                 "planetIndex": 88,
                 "name": "Regnus",
                 "faction": "Illuminates",
-                "players": 8,
+                "players": 11,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -673,7 +614,7 @@
                 "planetIndex": 229,
                 "name": "Setia",
                 "faction": "Illuminates",
-                "players": 16,
+                "players": 7,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -688,7 +629,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 141,
+                "players": 135,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -703,7 +644,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 480,
+                "players": 488,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -718,7 +659,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 200,
+                "players": 207,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -733,7 +674,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 171,
+                "players": 163,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -748,7 +689,7 @@
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 18,
+                "players": 31,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -763,7 +704,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 38,
+                "players": 34,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -778,7 +719,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 164,
+                "players": 147,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -5545,67 +5486,15 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>ARSENAL AUGMENTATION ENDED</i>\n\n<i=1>Orbital Walking Barrage Stratagem</i> availability has now ended."
+            },
+            {
+                "id": 3507,
+                "published": 56335179,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>MAJOR ORDER FAILED</i>\n\nThe enemy has gained ground on multiple fronts. Forces have been pulled back in retreat as all 3 factions push forward. Fierce, stalwart Helldiver resistance forestalled catastrophe, but the losses are nevertheless significant. Consult the <i=1>Galactic Map</i> for more information.\n"
             }
         ],
-        "WarAssignments": [
-            {
-                "id32": 3607871146,
-                "startTime": 55730070,
-                "progress": [
-                    1,
-                    5
-                ],
-                "expiresIn": 488,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Defend our planets against all 3 factions and hold the Xenoentomology Center on Turing.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                126
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 12,
-                            "values": [
-                                8,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                3,
-                                1,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 60
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 60
-                    },
-                    "flags": 1
-                }
-            }
-        ]
+        "WarAssignments": []
     }
 }
