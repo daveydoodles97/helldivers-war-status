@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-03T17:11:55.489171 UTC",
+    "last_updated": "2025-12-03T17:36:01.013093 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,69 +74,16 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 862496691,
-                "startTime": 56339570,
-                "progress": [
-                    1,
-                    1
-                ],
-                "expiresIn": 974,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Hold the line while SEAF forces hunt down dissidents within the Federation. Liberate Afoyay Bay to enable construction of the Center for the Confinement of Dissidence.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 15,
-                            "values": [
-                                1
-                            ],
-                            "valueTypes": [
-                                3
-                            ]
-                        },
-                        {
-                            "type": 11,
-                            "values": [
-                                1,
-                                1,
-                                136
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 50
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 50
-                    },
-                    "flags": 1
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
             {
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 17185,
-                "health": 275479,
+                "players": 27114,
+                "health": 259913,
                 "maxHealth": 1000000,
-                "percentage": 72.4521,
+                "percentage": 74.0087,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -148,7 +95,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 1839,
+                "players": 2279,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -163,7 +110,7 @@
                 "planetIndex": 135,
                 "name": "Adhara",
                 "faction": "Illuminates",
-                "players": 438,
+                "players": 492,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -178,7 +125,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 182,
+                "players": 228,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -193,7 +140,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 203,
+                "players": 201,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -208,7 +155,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 296,
+                "players": 361,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -223,7 +170,7 @@
                 "planetIndex": 65,
                 "name": "Borea",
                 "faction": "Automatons",
-                "players": 4179,
+                "players": 5159,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -238,7 +185,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 358,
+                "players": 427,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -253,7 +200,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 228,
+                "players": 239,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -268,7 +215,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 213,
+                "players": 221,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -283,7 +230,7 @@
                 "planetIndex": 78,
                 "name": "Crimsica",
                 "faction": "Terminids",
-                "players": 2306,
+                "players": 2692,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -298,7 +245,7 @@
                 "planetIndex": 111,
                 "name": "Duma Tyr",
                 "faction": "Automatons",
-                "players": 1489,
+                "players": 1601,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -310,7 +257,7 @@
                 "planetIndex": 98,
                 "name": "Elysian Meadows",
                 "faction": "Illuminates",
-                "players": 243,
+                "players": 271,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -325,7 +272,7 @@
                 "planetIndex": 170,
                 "name": "Fori Prime",
                 "faction": "Terminids",
-                "players": 1029,
+                "players": 1125,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -340,7 +287,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 214,
+                "players": 233,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -355,7 +302,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 49,
+                "players": 54,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -370,7 +317,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1886,
+                "players": 2250,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -385,7 +332,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 71,
+                "players": 68,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -400,7 +347,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 84,
+                "players": 83,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -415,7 +362,7 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 104,
+                "players": 161,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -430,7 +377,7 @@
                 "planetIndex": 91,
                 "name": "Iro",
                 "faction": "Illuminates",
-                "players": 40,
+                "players": 58,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -445,7 +392,7 @@
                 "planetIndex": 60,
                 "name": "Irulta",
                 "faction": "Illuminates",
-                "players": 198,
+                "players": 248,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -460,7 +407,7 @@
                 "planetIndex": 57,
                 "name": "Kerth Secundus",
                 "faction": "Illuminates",
-                "players": 353,
+                "players": 444,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -472,7 +419,7 @@
                 "planetIndex": 194,
                 "name": "Lesath",
                 "faction": "Automatons",
-                "players": 724,
+                "players": 750,
                 "health": 2400000,
                 "maxHealth": 2400000,
                 "percentage": 0,
@@ -487,7 +434,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 251,
+                "players": 286,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -502,7 +449,7 @@
                 "planetIndex": 56,
                 "name": "Myrium",
                 "faction": "Illuminates",
-                "players": 199,
+                "players": 218,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -517,7 +464,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 511,
+                "players": 611,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -532,7 +479,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 395,
+                "players": 467,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -547,7 +494,7 @@
                 "planetIndex": 58,
                 "name": "Parsh",
                 "faction": "Illuminates",
-                "players": 93,
+                "players": 138,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -562,7 +509,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 164,
+                "players": 177,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -577,7 +524,7 @@
                 "planetIndex": 59,
                 "name": "Reaf",
                 "faction": "Illuminates",
-                "players": 219,
+                "players": 269,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -592,7 +539,7 @@
                 "planetIndex": 88,
                 "name": "Regnus",
                 "faction": "Illuminates",
-                "players": 118,
+                "players": 122,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -622,7 +569,7 @@
                 "planetIndex": 82,
                 "name": "Ursica XI",
                 "faction": "Terminids",
-                "players": 534,
+                "players": 874,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -634,7 +581,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 135,
+                "players": 158,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -649,7 +596,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 861,
+                "players": 919,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -664,7 +611,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 400,
+                "players": 471,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -679,7 +626,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 59,
+                "players": 80,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -694,7 +641,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 1026,
+                "players": 1063,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -709,7 +656,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 332,
+                "players": 376,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -724,7 +671,7 @@
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 127,
+                "players": 139,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -739,7 +686,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 102,
+                "players": 109,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -754,7 +701,7 @@
                 "planetIndex": 230,
                 "name": "Shete",
                 "faction": "Illuminates",
-                "players": 3110,
+                "players": 2711,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -769,7 +716,7 @@
                 "planetIndex": 244,
                 "name": "Varylia 5",
                 "faction": "Automatons",
-                "players": 359,
+                "players": 322,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -5606,61 +5553,15 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>STRATEGIC OPPORTUNITY LOST</i>\n\nThe Hellidvers have failed to liberate <i=1>PHERKAD SECUNDUS.</i> No trace of the dissidents was found; still they elude Justice, hiding amongst the Terminids with whom they no doubt sympathize."
+            },
+            {
+                "id": 3517,
+                "published": 56858037,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>MAJOR ORDER WON</i>\n\nThe first battle in the War on Dissidence has ended in a decisive victory, thanks to the Helldivers.\n\nGround has been broken on the <i=1>Center for the Confinement of Dissidence (CECOD).</i> Once built, CECOD will hold up to 15 million dissidents, enabling thorough and secure re-education. Consult the <i=1>Galactic Map</i> for more information."
             }
         ],
-        "WarAssignments": [
-            {
-                "id32": 862496691,
-                "startTime": 56339570,
-                "progress": [
-                    1,
-                    1
-                ],
-                "expiresIn": 984,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Hold the line while SEAF forces hunt down dissidents within the Federation. Liberate Afoyay Bay to enable construction of the Center for the Confinement of Dissidence.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 15,
-                            "values": [
-                                1
-                            ],
-                            "valueTypes": [
-                                3
-                            ]
-                        },
-                        {
-                            "type": 11,
-                            "values": [
-                                1,
-                                1,
-                                136
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 50
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 50
-                    },
-                    "flags": 1
-                }
-            }
-        ]
+        "WarAssignments": []
     }
 }
