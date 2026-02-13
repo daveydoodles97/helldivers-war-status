@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13T10:05:13.694250 UTC",
+    "last_updated": "2026-02-13T10:55:45.687387 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -79,21 +79,21 @@
                 "id32": 1604225357,
                 "startTime": 62886970,
                 "progress": [
-                    13698497
+                    2040295
                 ],
-                "expiresIn": 356360,
+                "expiresIn": 371280,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Complete the designated number of missions on Cyberstan, to support a ground invasion towards the enemy capital: Transcendence.",
+                    "overrideBrief": "Complete the designated number of operations on Cyberstan, to support a ground invasion towards the enemy capital: Transcendence.",
                     "taskDescription": "",
                     "tasks": [
                         {
-                            "type": 7,
+                            "type": 9,
                             "values": [
                                 3,
                                 0,
-                                25000000,
+                                8000000,
                                 0,
                                 0,
                                 0,
@@ -128,6 +128,127 @@
                     },
                     "flags": 1
                 }
+            },
+            {
+                "id32": 1013696053,
+                "startTime": 63050330,
+                "progress": [
+                    3114,
+                    1442,
+                    1851,
+                    2163
+                ],
+                "expiresIn": 171039,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Cull the designated Titan-Class Terminids in order to secure egg specimens for fundraising sales to high-value citizens, to fund additional reinforcements and experimental stratagem support for Operation VALID PRETEXT.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                2000000,
+                                2651633799,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                1000000,
+                                1046000873,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                1000000,
+                                2514244534,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 9,
+                            "values": [
+                                2,
+                                150000,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
+                }
             }
         ],
         "CampaignPlanets": [
@@ -135,7 +256,7 @@
                 "planetIndex": 131,
                 "name": "Achird III",
                 "faction": "Terminids",
-                "players": 935,
+                "players": 919,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -150,7 +271,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 179,
+                "players": 197,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -177,7 +298,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 1927,
+                "players": 1888,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -192,7 +313,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 52,
+                "players": 66,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -207,7 +328,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 1918,
+                "players": 2426,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -222,7 +343,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 46,
+                "players": 40,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -237,7 +358,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 369,
+                "players": 381,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -252,7 +373,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 272,
+                "players": 256,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -267,7 +388,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 847,
+                "players": 907,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -282,7 +403,7 @@
                 "planetIndex": 260,
                 "name": "Cyberstan",
                 "faction": "Automatons",
-                "players": 48814,
+                "players": 47418,
                 "health": 15000000,
                 "maxHealth": 15000000,
                 "percentage": 0,
@@ -297,7 +418,7 @@
                 "planetIndex": 98,
                 "name": "Elysian Meadows",
                 "faction": "Illuminates",
-                "players": 38,
+                "players": 30,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -312,7 +433,7 @@
                 "planetIndex": 170,
                 "name": "Fori Prime",
                 "faction": "Terminids",
-                "players": 2657,
+                "players": 2970,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -327,7 +448,7 @@
                 "planetIndex": 261,
                 "name": "Fury",
                 "faction": "Automatons",
-                "players": 202,
+                "players": 205,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -342,7 +463,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 310,
+                "players": 371,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -357,7 +478,7 @@
                 "planetIndex": 173,
                 "name": "Gatria",
                 "faction": "Terminids",
-                "players": 4654,
+                "players": 5981,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -372,7 +493,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 55,
+                "players": 32,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -387,7 +508,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 1048,
+                "players": 1100,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -402,7 +523,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 5,
+                "players": 11,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -417,7 +538,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 22,
+                "players": 13,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -432,7 +553,7 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 39,
+                "players": 33,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -447,7 +568,7 @@
                 "planetIndex": 60,
                 "name": "Irulta",
                 "faction": "Illuminates",
-                "players": 72,
+                "players": 75,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -462,7 +583,7 @@
                 "planetIndex": 57,
                 "name": "Kerth Secundus",
                 "faction": "Illuminates",
-                "players": 355,
+                "players": 358,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -474,7 +595,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 238,
+                "players": 255,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -489,7 +610,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 243,
+                "players": 279,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -504,7 +625,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 440,
+                "players": 385,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -519,7 +640,7 @@
                 "planetIndex": 89,
                 "name": "Mog",
                 "faction": "Illuminates",
-                "players": 74,
+                "players": 92,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -534,7 +655,7 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 66,
+                "players": 52,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -549,7 +670,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 655,
+                "players": 617,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -564,7 +685,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 561,
+                "players": 662,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -579,7 +700,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 602,
+                "players": 689,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -594,7 +715,7 @@
                 "planetIndex": 58,
                 "name": "Parsh",
                 "faction": "Illuminates",
-                "players": 96,
+                "players": 66,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -609,7 +730,7 @@
                 "planetIndex": 59,
                 "name": "Reaf",
                 "faction": "Illuminates",
-                "players": 83,
+                "players": 87,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -624,7 +745,7 @@
                 "planetIndex": 88,
                 "name": "Regnus",
                 "faction": "Illuminates",
-                "players": 61,
+                "players": 80,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -639,7 +760,7 @@
                 "planetIndex": 82,
                 "name": "Ursica XI",
                 "faction": "Terminids",
-                "players": 344,
+                "players": 441,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -651,7 +772,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 89,
+                "players": 90,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -666,7 +787,7 @@
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 109,
+                "players": 150,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -681,7 +802,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 948,
+                "players": 907,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -711,7 +832,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 28,
+                "players": 11,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -726,7 +847,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 280,
+                "players": 290,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -741,7 +862,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 190,
+                "players": 258,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -756,7 +877,7 @@
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 57,
+                "players": 70,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -771,7 +892,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 111,
+                "players": 91,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -786,7 +907,7 @@
                 "planetIndex": 230,
                 "name": "Shete",
                 "faction": "Illuminates",
-                "players": 21,
+                "players": 32,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -6211,6 +6332,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>AUTONOMY DESTROYED</i>\n\n<i=1>AUTONOMY</i> has been wiped off the surface of Cyberstan, following the repulsion of enemy forces by the valiant Helldiver assault.\n\n Forces may now advance upon two new targets: <i=1>OMNIPARITUS</i> and <i=1>LURZA</i>."
+            },
+            {
+                "id": 3629,
+                "published": 63050549,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>OPERATIONAL ADVISORY</i>\n\nFalsified mission data has been traced to dissidents corrupted by Automaton lies.\n\nThe offenders have been volunteered to beta-test Permacura\u2019s <i=1>Bio-Safety Protocols</i>. This exemplifies the magnanimity of Super Earth: even the disloyal may find redemption by contributing to scientific progress.\n\nTo ensure fleetwide integrity, Helldivers must now complete <i=1>Full Operations</i> to progress the Major Order.\n\nProceed with your orders. Defection will not be tolerated."
             }
         ],
         "WarAssignments": [
@@ -6218,21 +6346,21 @@
                 "id32": 1604225357,
                 "startTime": 62886970,
                 "progress": [
-                    13700135
+                    2040295
                 ],
-                "expiresIn": 356290,
+                "expiresIn": 371280,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Complete the designated number of missions on Cyberstan, to support a ground invasion towards the enemy capital: Transcendence.",
+                    "overrideBrief": "Complete the designated number of operations on Cyberstan, to support a ground invasion towards the enemy capital: Transcendence.",
                     "taskDescription": "",
                     "tasks": [
                         {
-                            "type": 7,
+                            "type": 9,
                             "values": [
                                 3,
                                 0,
-                                25000000,
+                                8000000,
                                 0,
                                 0,
                                 0,
@@ -6266,6 +6394,127 @@
                         "amount": 80
                     },
                     "flags": 1
+                }
+            },
+            {
+                "id32": 1013696053,
+                "startTime": 63050330,
+                "progress": [
+                    3114,
+                    1442,
+                    1851,
+                    2163
+                ],
+                "expiresIn": 171039,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Cull the designated Titan-Class Terminids in order to secure egg specimens for fundraising sales to high-value citizens, to fund additional reinforcements and experimental stratagem support for Operation VALID PRETEXT.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                2000000,
+                                2651633799,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                1000000,
+                                1046000873,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                1000000,
+                                2514244534,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 9,
+                            "values": [
+                                2,
+                                150000,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
                 }
             }
         ]
