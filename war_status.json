@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-27T14:39:57.126464 UTC",
+    "last_updated": "2026-03-27T15:29:25.028582 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -82,7 +82,7 @@
                     0,
                     1
                 ],
-                "expiresIn": 346887,
+                "expiresIn": 343917,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -130,6 +130,37 @@
                     },
                     "flags": 1
                 }
+            },
+            {
+                "id32": 3199389664,
+                "startTime": 66694730,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 85792,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MINOR ORDER",
+                    "overrideBrief": "Liberate Ursica XI using surplus Fast Recon Vehicles (FRVs) provided by the AM Defense Factory Hub. The resulting combat telemetry will accelerate the next phase of mobile justice.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                82
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 1
+                }
             }
         ],
         "CampaignPlanets": [
@@ -137,10 +168,10 @@
                 "planetIndex": 82,
                 "name": "Ursica XI",
                 "faction": "Terminids",
-                "players": 4454,
-                "health": 287998,
+                "players": 6543,
+                "health": 275871,
                 "maxHealth": 1600000,
-                "percentage": 82.000125,
+                "percentage": 82.7580625,
                 "defense": false,
                 "biome": null,
                 "expireDateTime": null
@@ -149,25 +180,25 @@
                 "planetIndex": 183,
                 "name": "Hort",
                 "faction": "Super Earth",
-                "players": 33941,
-                "health": 1911590,
+                "players": 33792,
+                "health": 1870342,
                 "maxHealth": 5150000,
-                "percentage": 62.881747572815534,
+                "percentage": 63.682679611650485,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1774968676.217
+                "expireDateTime": 1774968674.342
             },
             {
                 "planetIndex": 57,
                 "name": "Kerth Secundus",
                 "faction": "Illuminates",
-                "players": 155,
-                "health": 1953503,
+                "players": 182,
+                "health": 1955167,
                 "maxHealth": 2000000,
-                "percentage": 2.324849999999998,
+                "percentage": 2.241649999999993,
                 "defense": false,
                 "biome": null,
                 "expireDateTime": null
@@ -176,7 +207,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 235,
+                "players": 273,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -191,7 +222,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 52,
+                "players": 56,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -203,7 +234,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 422,
+                "players": 445,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -218,7 +249,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 73,
+                "players": 66,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -233,7 +264,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 901,
+                "players": 785,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -248,7 +279,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 1491,
+                "players": 1537,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -263,7 +294,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 470,
+                "players": 471,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -278,7 +309,7 @@
                 "planetIndex": 98,
                 "name": "Elysian Meadows",
                 "faction": "Illuminates",
-                "players": 31,
+                "players": 27,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -293,7 +324,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 423,
+                "players": 449,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -308,7 +339,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 457,
+                "players": 434,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -323,7 +354,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 26,
+                "players": 23,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -338,7 +369,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 2145,
+                "players": 1904,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -353,7 +384,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 30,
+                "players": 32,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -368,7 +399,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 94,
+                "players": 99,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -383,7 +414,7 @@
                 "planetIndex": 60,
                 "name": "Irulta",
                 "faction": "Illuminates",
-                "players": 24,
+                "players": 19,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -398,7 +429,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 2725,
+                "players": 2724,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -413,7 +444,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 161,
+                "players": 159,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -428,7 +459,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 176,
+                "players": 254,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -443,7 +474,7 @@
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 374,
+                "players": 381,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -458,7 +489,7 @@
                 "planetIndex": 89,
                 "name": "Mog",
                 "faction": "Illuminates",
-                "players": 52,
+                "players": 50,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -473,7 +504,7 @@
                 "planetIndex": 266,
                 "name": "Mox",
                 "faction": "Automatons",
-                "players": 102,
+                "players": 107,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -488,7 +519,7 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 126,
+                "players": 139,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -503,7 +534,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 446,
+                "players": 370,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -518,7 +549,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 837,
+                "players": 874,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -533,7 +564,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1328,
+                "players": 1280,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -548,7 +579,7 @@
                 "planetIndex": 58,
                 "name": "Parsh",
                 "faction": "Illuminates",
-                "players": 28,
+                "players": 27,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -563,7 +594,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 9868,
+                "players": 9112,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -578,7 +609,7 @@
                 "planetIndex": 59,
                 "name": "Reaf",
                 "faction": "Illuminates",
-                "players": 49,
+                "players": 29,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -593,7 +624,7 @@
                 "planetIndex": 88,
                 "name": "Regnus",
                 "faction": "Illuminates",
-                "players": 28,
+                "players": 27,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -608,7 +639,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 2082,
+                "players": 1815,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -623,7 +654,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 47,
+                "players": 46,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -638,7 +669,7 @@
                 "planetIndex": 112,
                 "name": "Vernen Wells",
                 "faction": "Automatons",
-                "players": 917,
+                "players": 945,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -653,7 +684,7 @@
                 "planetIndex": 247,
                 "name": "Wezen",
                 "faction": "Automatons",
-                "players": 47,
+                "players": 61,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -668,7 +699,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 48,
+                "players": 52,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -683,7 +714,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 759,
+                "players": 731,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -698,7 +729,7 @@
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 1399,
+                "players": 1349,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -713,7 +744,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 16,
+                "players": 14,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -728,7 +759,7 @@
                 "planetIndex": 230,
                 "name": "Shete",
                 "faction": "Illuminates",
-                "players": 26,
+                "players": 18,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -6650,6 +6681,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>NEW MAJOR ORDER</i>\n\n<i=3>SEASSE</i> has been engulfed by a strange <i=1>Void</i>. The Illuminate have already begun raising additional <i=1>Exospires</i> on <i=1>HORT.</i> If not stopped, it must be assumed the planet will be engulfed as well. Liberate <i=3>HORT</i> from the Illuminate.\n\n\nSimultaneously, swarms of <i=1>Voteless</i> have invaded <i=1>RIRGA BAY</i>. <i=1>Defend the planet from attack.</i>"
+            },
+            {
+                "id": 3709,
+                "published": 66694756,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW STRATEGIC OPPORTUNITY</i>\n\nRestoring the <i=1>AM Defense Factory Hub</i> on Achernar Secundus has resulted in an abundance of vehicle production.\n\nTo remove impediments from production lines, High Command authorizes free, fleetwide access to the <i=1>Fast Recon Vehicle (FRV) Stratagem</i> for all Helldivers on <i=1>Ursica XI</i>. \n\nHelldivers: utilize this fortuitous bounty to <i=1>liberate Ursica XI</i> with virtuous velocity, and to provide combat telemetry required for forthcoming mobile R&D."
             }
         ],
         "WarAssignments": [
@@ -6660,7 +6698,7 @@
                     0,
                     1
                 ],
-                "expiresIn": 346917,
+                "expiresIn": 343927,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -6706,6 +6744,37 @@
                         "id32": 897894480,
                         "amount": 55
                     },
+                    "flags": 1
+                }
+            },
+            {
+                "id32": 3199389664,
+                "startTime": 66694730,
+                "progress": [
+                    0
+                ],
+                "expiresIn": 85802,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MINOR ORDER",
+                    "overrideBrief": "Liberate Ursica XI using surplus Fast Recon Vehicles (FRVs) provided by the AM Defense Factory Hub. The resulting combat telemetry will accelerate the next phase of mobile justice.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 11,
+                            "values": [
+                                1,
+                                1,
+                                82
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
                     "flags": 1
                 }
             }
