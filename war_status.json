@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-10T13:50:24.280848 UTC",
+    "last_updated": "2026-06-10T16:50:46.608252 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -79,9 +79,9 @@
                 "id32": 2616794736,
                 "startTime": 73083030,
                 "progress": [
-                    176994
+                    204149
                 ],
-                "expiresIn": 435044,
+                "expiresIn": 424234,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -122,17 +122,63 @@
                     },
                     "flags": 0
                 }
+            },
+            {
+                "id32": 3257352995,
+                "startTime": 73167090,
+                "progress": [
+                    1
+                ],
+                "expiresIn": 249094,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC THREAT",
+                    "overrideBrief": "Hold Crimsica in order to restore the fuel lines of Managed Democracy, and end the temporary fleetwide rationing of E-710.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                78
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 1
+                }
             }
         ],
         "CampaignPlanets": [
             {
+                "planetIndex": 78,
+                "name": "Crimsica",
+                "faction": "Terminids",
+                "players": 11727,
+                "health": 1687340,
+                "maxHealth": 1750000,
+                "percentage": 3.5805714285714316,
+                "defense": true,
+                "biome": {
+                    "slug": "crimsonmoor",
+                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+                },
+                "expireDateTime": 1781272925.459
+            },
+            {
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 2162,
-                "health": 829409,
+                "players": 1968,
+                "health": 861245,
                 "maxHealth": 1500000,
-                "percentage": 44.706066666666665,
+                "percentage": 42.583666666666666,
                 "defense": false,
                 "biome": {
                     "slug": "tundra",
@@ -144,10 +190,10 @@
                 "planetIndex": 129,
                 "name": "Acamar IV",
                 "faction": "Terminids",
-                "players": 4741,
-                "health": 1121697,
+                "players": 3061,
+                "health": 1121817,
                 "maxHealth": 1500000,
-                "percentage": 25.22019999999999,
+                "percentage": 25.212199999999996,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -159,7 +205,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 172,
+                "players": 196,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -174,7 +220,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 23,
+                "players": 63,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -189,7 +235,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 522,
+                "players": 568,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -204,7 +250,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 175,
+                "players": 264,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -219,7 +265,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 238,
+                "players": 292,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -234,7 +280,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 58,
+                "players": 81,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -249,7 +295,7 @@
                 "planetIndex": 75,
                 "name": "Esker",
                 "faction": "Terminids",
-                "players": 322,
+                "players": 171,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -264,7 +310,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 380,
+                "players": 141,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -279,7 +325,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 223,
+                "players": 126,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -294,7 +340,7 @@
                 "planetIndex": 173,
                 "name": "Gatria",
                 "faction": "Terminids",
-                "players": 1210,
+                "players": 499,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -309,7 +355,7 @@
                 "planetIndex": 174,
                 "name": "Gemma",
                 "faction": "Terminids",
-                "players": 379,
+                "players": 278,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -324,7 +370,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 20,
+                "players": 17,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -339,7 +385,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 89,
+                "players": 64,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -354,7 +400,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 692,
+                "players": 724,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -384,7 +430,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 3,
+                "players": 11,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -399,7 +445,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 7,
+                "players": 8,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -414,7 +460,7 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 469,
+                "players": 443,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -429,7 +475,7 @@
                 "planetIndex": 186,
                 "name": "Keid",
                 "faction": "Illuminates",
-                "players": 121,
+                "players": 96,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -444,7 +490,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 259,
+                "players": 294,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -459,7 +505,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 162,
+                "players": 190,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -474,7 +520,7 @@
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 74,
+                "players": 117,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -489,7 +535,7 @@
                 "planetIndex": 266,
                 "name": "Mox",
                 "faction": "Automatons",
-                "players": 63,
+                "players": 59,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -504,7 +550,7 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 59,
+                "players": 86,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -519,7 +565,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 839,
+                "players": 325,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -534,7 +580,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 24602,
+                "players": 15874,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -549,7 +595,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 32,
+                "players": 42,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -594,7 +640,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 21,
+                "players": 30,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -609,7 +655,7 @@
                 "planetIndex": 245,
                 "name": "Wasat",
                 "faction": "Automatons",
-                "players": 26,
+                "players": 28,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -624,7 +670,7 @@
                 "planetIndex": 247,
                 "name": "Wezen",
                 "faction": "Automatons",
-                "players": 29,
+                "players": 28,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -639,7 +685,7 @@
                 "planetIndex": 249,
                 "name": "X-45",
                 "faction": "Automatons",
-                "players": 20,
+                "players": 30,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -654,7 +700,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 62,
+                "players": 99,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -684,7 +730,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 413,
+                "players": 274,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -699,7 +745,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 41,
+                "players": 47,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -7069,6 +7115,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>NEW MAJOR ORDER</i>\n\nThe Star of Peace requires vast quantities of Dark Fluid to fire; the Federation\u2019s reserves remain depleted following the weapon's inaugural operation.\n\nDark Fluid is synthesized directly from E-711. The Hive World of <i=1>Omicron</i> possesses immense E-711 reservoirs.\n\nThe Helldivers are ordered to complete <i=1>1,750,000 Operations</i> on <i=1>Omicron</i> to quell Terminid resistance and clear the way for E-711 extraction pipelines, to enable the synthesis of Dark Fluid."
+            },
+            {
+                "id": 3774,
+                "published": 73167094,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW STRATEGIC IMPERATIVE</i>\n\nFascist Terminids have invaded <i=1>Crimsica</i>, attacking the incredibly secure E-710 farm situated there.\n\nThis completely unforeseeable response to the current Major Order has caused E-710 prices to skyrocket, impacting all citizens.\n\nFleetwide rationing of E-710 is now in place, reducing logistical capabilities. Multiple supply shortages will be conveyed momentarily.\n\nHelldivers: <i=1>Hold Crimsica</i>, and restore the fuel lines of Managed Democracy."
             }
         ],
         "WarAssignments": [
@@ -7076,9 +7129,9 @@
                 "id32": 2616794736,
                 "startTime": 73083030,
                 "progress": [
-                    176932
+                    204118
                 ],
-                "expiresIn": 435064,
+                "expiresIn": 424254,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -7118,6 +7171,37 @@
                         "amount": 50
                     },
                     "flags": 0
+                }
+            },
+            {
+                "id32": 3257352995,
+                "startTime": 73167090,
+                "progress": [
+                    1
+                ],
+                "expiresIn": 249114,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC THREAT",
+                    "overrideBrief": "Hold Crimsica in order to restore the fuel lines of Managed Democracy, and end the temporary fleetwide rationing of E-710.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                78
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 1
                 }
             }
         ]
