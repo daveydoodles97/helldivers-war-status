@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-10T19:25:12.752656 UTC",
+    "last_updated": "2026-06-10T21:32:33.742197 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -79,9 +79,9 @@
                 "id32": 2616794736,
                 "startTime": 73083030,
                 "progress": [
-                    222841
+                    237733
                 ],
-                "expiresIn": 415084,
+                "expiresIn": 407354,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -129,7 +129,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 239944,
+                "expiresIn": 232214,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "STRATEGIC THREAT",
@@ -153,6 +153,51 @@
                     "rewards": [],
                     "flags": 1
                 }
+            },
+            {
+                "id32": 2503321752,
+                "startTime": 73192430,
+                "progress": [
+                    2092
+                ],
+                "expiresIn": 171153,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Kill the required number of Dragon Roaches in order to prevent the fuel crisis and resulting supply shortages from worsening.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                2000000,
+                                1378841226,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
+                }
             }
         ],
         "CampaignPlanets": [
@@ -160,25 +205,40 @@
                 "planetIndex": 78,
                 "name": "Crimsica",
                 "faction": "Terminids",
-                "players": 14603,
-                "health": 1600394,
+                "players": 14088,
+                "health": 1380477,
                 "maxHealth": 1750000,
-                "percentage": 8.54891428571429,
+                "percentage": 21.1156,
                 "defense": true,
                 "biome": {
                     "slug": "crimsonmoor",
                     "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
                 },
-                "expireDateTime": 1781272922.158
+                "expireDateTime": 1781272922.573
+            },
+            {
+                "planetIndex": 124,
+                "name": "Bore Rock",
+                "faction": "Terminids",
+                "players": 1102,
+                "health": 748293,
+                "maxHealth": 750000,
+                "percentage": 0.22759999999999536,
+                "defense": true,
+                "biome": {
+                    "slug": "desolate",
+                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+                },
+                "expireDateTime": 1781208872.573
             },
             {
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 2254,
-                "health": 888224,
+                "players": 2098,
+                "health": 911457,
                 "maxHealth": 1500000,
-                "percentage": 40.785066666666665,
+                "percentage": 39.2362,
                 "defense": false,
                 "biome": {
                     "slug": "tundra",
@@ -190,10 +250,10 @@
                 "planetIndex": 129,
                 "name": "Acamar IV",
                 "faction": "Terminids",
-                "players": 6375,
-                "health": 1124365,
+                "players": 5590,
+                "health": 1122136,
                 "maxHealth": 1500000,
-                "percentage": 25.042333333333332,
+                "percentage": 25.190933333333334,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -205,7 +265,7 @@
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 306,
+                "players": 237,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -220,7 +280,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 57,
+                "players": 79,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -235,7 +295,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 702,
+                "players": 601,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -250,7 +310,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 324,
+                "players": 298,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -265,7 +325,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 359,
+                "players": 394,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -280,7 +340,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 130,
+                "players": 95,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -295,7 +355,7 @@
                 "planetIndex": 75,
                 "name": "Esker",
                 "faction": "Terminids",
-                "players": 134,
+                "players": 153,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -310,7 +370,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 219,
+                "players": 200,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -325,7 +385,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 169,
+                "players": 109,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -340,7 +400,7 @@
                 "planetIndex": 173,
                 "name": "Gatria",
                 "faction": "Terminids",
-                "players": 569,
+                "players": 401,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -355,7 +415,7 @@
                 "planetIndex": 174,
                 "name": "Gemma",
                 "faction": "Terminids",
-                "players": 257,
+                "players": 259,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -370,7 +430,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 17,
+                "players": 20,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -385,7 +445,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 97,
+                "players": 98,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -400,7 +460,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 828,
+                "players": 777,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -415,7 +475,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 9,
+                "players": 10,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -430,7 +490,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 11,
+                "players": 13,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -445,7 +505,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 18,
+                "players": 10,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -460,7 +520,7 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 555,
+                "players": 526,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -475,7 +535,7 @@
                 "planetIndex": 186,
                 "name": "Keid",
                 "faction": "Illuminates",
-                "players": 144,
+                "players": 156,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -490,7 +550,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 382,
+                "players": 306,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -505,7 +565,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 246,
+                "players": 274,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -520,7 +580,7 @@
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 141,
+                "players": 134,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -535,7 +595,7 @@
                 "planetIndex": 266,
                 "name": "Mox",
                 "faction": "Automatons",
-                "players": 97,
+                "players": 75,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -550,7 +610,7 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 93,
+                "players": 78,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -565,7 +625,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 371,
+                "players": 307,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -580,7 +640,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 15509,
+                "players": 12693,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -595,7 +655,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 42,
+                "players": 35,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -625,7 +685,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 17,
+                "players": 10,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -640,7 +700,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 37,
+                "players": 33,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -655,7 +715,7 @@
                 "planetIndex": 245,
                 "name": "Wasat",
                 "faction": "Automatons",
-                "players": 52,
+                "players": 37,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -670,7 +730,7 @@
                 "planetIndex": 247,
                 "name": "Wezen",
                 "faction": "Automatons",
-                "players": 55,
+                "players": 33,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -685,7 +745,7 @@
                 "planetIndex": 249,
                 "name": "X-45",
                 "faction": "Automatons",
-                "players": 46,
+                "players": 22,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -700,7 +760,7 @@
                 "planetIndex": 250,
                 "name": "Yed Prior",
                 "faction": "Automatons",
-                "players": 105,
+                "players": 84,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -715,7 +775,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 9,
+                "players": 14,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -730,7 +790,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 351,
+                "players": 282,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -745,7 +805,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 57,
+                "players": 55,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -7129,6 +7189,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>STRATEGIC ALERT: SUPPLY SHORTAGES</i>\n\nUntil further notice, as a result of fleetwide E-710 rationing, the following supply shortages are now in effect:\n\n<i=1>Orbital Stratagem Cooldowns</i> will be <i=1>increased by 15 seconds</i>.\n\n<i=1>Eagle Rearm Cooldowns</i> will be <i=1>increased by 15 seconds</i>.\n\n<i=1>Reinforcement budgets</i> will be <i=1>temporarily reduced by 1</i>.\n\nHelldivers will be issued <i=1>25% less ammunition on deployment</i>."
+            },
+            {
+                "id": 3776,
+                "published": 73192459,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW STRATEGIC OPPORTUNITY</i>\n\n<i=1>Dragon Roaches</i> are igniting E-710 reserves on <i=1>Crimsica</i>, worsening the fuel crisis.\n\nTo aid their extermination\u2014and comply with ammo restrictions\u2014High Command authorizes temporary fleetwide deployment of the <i=1>CQC-20 Breaching Hammer</i> and experimental <i=1>Dark Energy Jet Pack</i>\u2014calculated to secure more E-711 than they expend.\n\nHelldivers: <i=1>kill 2,000,000 Dragon Roaches</i>, and prove the righteous don\u2019t need bullets to crush Tyranny."
             }
         ],
         "WarAssignments": [
@@ -7136,9 +7203,9 @@
                 "id32": 2616794736,
                 "startTime": 73083030,
                 "progress": [
-                    223005
+                    237708
                 ],
-                "expiresIn": 414984,
+                "expiresIn": 407364,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -7186,7 +7253,7 @@
                 "progress": [
                     1
                 ],
-                "expiresIn": 239844,
+                "expiresIn": 232224,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "STRATEGIC THREAT",
@@ -7209,6 +7276,51 @@
                     ],
                     "rewards": [],
                     "flags": 1
+                }
+            },
+            {
+                "id32": 2503321752,
+                "startTime": 73192430,
+                "progress": [
+                    2033
+                ],
+                "expiresIn": 171163,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Kill the required number of Dragon Roaches in order to prevent the fuel crisis and resulting supply shortages from worsening.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                2000000,
+                                1378841226,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
                 }
             }
         ]
