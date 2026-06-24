@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-24T04:19:27.767978 UTC",
+    "last_updated": "2026-06-24T07:54:23.660064 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,115 +74,31 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 3552244474,
-                "startTime": 74016220,
-                "progress": [
-                    0,
-                    15000000
-                ],
-                "expiresIn": 193581,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Liberate the designated Automaton planet to secure enemy bio-processors. Secure Voteless common samples.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 11,
-                            "values": [
-                                1,
-                                1,
-                                70
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                4,
-                                0,
-                                15000000,
-                                1,
-                                3992382197,
-                                0,
-                                0,
-                                1,
-                                140
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 45
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 45
-                    },
-                    "flags": 0
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
             {
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 2844,
-                "health": 2154043,
+                "players": 8844,
+                "health": 2116263,
                 "maxHealth": 2250000,
-                "percentage": 4.264755555555553,
+                "percentage": 5.943866666666665,
                 "defense": true,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1782386006.77
-            },
-            {
-                "planetIndex": 70,
-                "name": "Blistica",
-                "faction": "Automatons",
-                "players": 27804,
-                "health": 54857,
-                "maxHealth": 1000000,
-                "percentage": 94.5143,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
+                "expireDateTime": 1782386022.879
             },
             {
                 "planetIndex": 273,
                 "name": "Sangis",
                 "faction": "Illuminates",
-                "players": 1171,
-                "health": 1416396,
+                "players": 936,
+                "health": 1440382,
                 "maxHealth": 2000000,
-                "percentage": 29.1802,
+                "percentage": 27.98089999999999,
                 "defense": false,
                 "biome": {
                     "slug": "autumn",
@@ -194,10 +110,10 @@
                 "planetIndex": 129,
                 "name": "Acamar IV",
                 "faction": "Terminids",
-                "players": 2628,
-                "health": 1500000,
+                "players": 2792,
+                "health": 1499793,
                 "maxHealth": 1500000,
-                "percentage": 0,
+                "percentage": 0.013799999999989154,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -206,10 +122,40 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 250,
+                "name": "Yed Prior",
+                "faction": "Automatons",
+                "players": 2509,
+                "health": 999969,
+                "maxHealth": 1000000,
+                "percentage": 0.0030999999999892225,
+                "defense": false,
+                "biome": {
+                    "slug": "crimsonmoor",
+                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 173,
+                "name": "Gatria",
+                "faction": "Terminids",
+                "players": 1303,
+                "health": 1499994,
+                "maxHealth": 1500000,
+                "percentage": 0.00039999999999906777,
+                "defense": false,
+                "biome": {
+                    "slug": "crimsonmoor",
+                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 113,
                 "name": "Aesir Pass",
                 "faction": "Automatons",
-                "players": 91,
+                "players": 58,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -224,7 +170,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 48,
+                "players": 17,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -239,7 +185,7 @@
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 862,
+                "players": 401,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -254,7 +200,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 150,
+                "players": 92,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -269,7 +215,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 222,
+                "players": 127,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -284,7 +230,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 171,
+                "players": 128,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -299,7 +245,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 217,
+                "players": 194,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -314,7 +260,7 @@
                 "planetIndex": 162,
                 "name": "Clasa",
                 "faction": "Automatons",
-                "players": 131,
+                "players": 180,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -329,7 +275,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 148,
+                "players": 97,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -344,7 +290,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 241,
+                "players": 213,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -356,25 +302,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 173,
-                "name": "Gatria",
-                "faction": "Terminids",
-                "players": 1289,
-                "health": 1500000,
-                "maxHealth": 1500000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "crimsonmoor",
-                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 174,
                 "name": "Gemma",
                 "faction": "Terminids",
-                "players": 330,
+                "players": 283,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -389,7 +320,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 31,
+                "players": 18,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -404,7 +335,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 50,
+                "players": 51,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -419,7 +350,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 648,
+                "players": 504,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -434,7 +365,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 14,
+                "players": 9,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -449,7 +380,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 6,
+                "players": 10,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -464,7 +395,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 19,
+                "players": 18,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -479,7 +410,7 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 216,
+                "players": 113,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -494,7 +425,7 @@
                 "planetIndex": 186,
                 "name": "Keid",
                 "faction": "Illuminates",
-                "players": 173,
+                "players": 105,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -509,7 +440,7 @@
                 "planetIndex": 198,
                 "name": "Marfark",
                 "faction": "Automatons",
-                "players": 201,
+                "players": 163,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -524,7 +455,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 414,
+                "players": 300,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -539,7 +470,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 68,
+                "players": 56,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -554,7 +485,7 @@
                 "planetIndex": 266,
                 "name": "Mox",
                 "faction": "Automatons",
-                "players": 36,
+                "players": 25,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -569,7 +500,7 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 71,
+                "players": 35,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -584,7 +515,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 277,
+                "players": 219,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -599,7 +530,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 418,
+                "players": 376,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -614,7 +545,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 23,
+                "players": 38,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -644,7 +575,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 8,
+                "players": 10,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -674,7 +605,7 @@
                 "planetIndex": 245,
                 "name": "Wasat",
                 "faction": "Automatons",
-                "players": 21,
+                "players": 15,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -689,7 +620,7 @@
                 "planetIndex": 247,
                 "name": "Wezen",
                 "faction": "Automatons",
-                "players": 16,
+                "players": 19,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -704,7 +635,7 @@
                 "planetIndex": 249,
                 "name": "X-45",
                 "faction": "Automatons",
-                "players": 26,
+                "players": 30,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -716,25 +647,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 250,
-                "name": "Yed Prior",
-                "faction": "Automatons",
-                "players": 1152,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "crimsonmoor",
-                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 9,
+                "players": 10,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -749,7 +665,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 219,
+                "players": 163,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -764,7 +680,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 257,
+                "players": 175,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -7233,77 +7149,15 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>NEW MAJOR ORDER</i>\n\nThe Ministry of Science is constructing a large Voteless Processing Facility, to study Voteless from within the Void.\n\nDeploy to Automaton-held <i=1>BLISTICA</i> to secure the enemy's bio-processors. Additionally, secure <i=1>15,000,000 samples</i> from <i=1>ALARAPH</i>, currently overrun by Voteless."
+            },
+            {
+                "id": 3786,
+                "published": 74350211,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>MAJOR ORDER WON</i>\n\nThe Helldivers have liberated <i=1>BLISTICA</i> from the Automatons. Simultaneously, the Helldivers secured over <i=1>15,000,000</i> Voteless tissue samples. These samples have proved the hypothesis of Federation scientists: exotic alterations to their cells have occured, allowing for laboratory study of the Void for the first time."
             }
         ],
-        "WarAssignments": [
-            {
-                "id32": 3552244474,
-                "startTime": 74016220,
-                "progress": [
-                    0,
-                    15000000
-                ],
-                "expiresIn": 193521,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Liberate the designated Automaton planet to secure enemy bio-processors. Secure Voteless common samples.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 11,
-                            "values": [
-                                1,
-                                1,
-                                70
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "values": [
-                                4,
-                                0,
-                                15000000,
-                                1,
-                                3992382197,
-                                0,
-                                0,
-                                1,
-                                140
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 45
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 45
-                    },
-                    "flags": 0
-                }
-            }
-        ]
+        "WarAssignments": []
     }
 }
