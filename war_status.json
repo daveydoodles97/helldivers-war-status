@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-24T00:08:54.037930 UTC",
+    "last_updated": "2026-07-24T03:37:53.998692 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -81,7 +81,7 @@
                 "progress": [
                     0
                 ],
-                "expiresIn": 291010,
+                "expiresIn": 278430,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -116,43 +116,6 @@
                     },
                     "flags": 0
                 }
-            },
-            {
-                "id32": 3641290855,
-                "startTime": 76866080,
-                "progress": [
-                    156038
-                ],
-                "expiresIn": 35483,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "STRATEGIC OPPORTUNITY",
-                    "overrideBrief": "Complete operations on the designated planet to disrupt Automaton resource extraction.\n",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 9,
-                            "values": [
-                                3,
-                                200000,
-                                0,
-                                0,
-                                1,
-                                158
-                            ],
-                            "valueTypes": [
-                                1,
-                                3,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [],
-                    "flags": 0
-                }
             }
         ],
         "CampaignPlanets": [
@@ -160,40 +123,40 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 25110,
-                "health": 749311,
+                "players": 18481,
+                "health": 543376,
                 "maxHealth": 1500000,
-                "percentage": 50.04593333333333,
+                "percentage": 63.77493333333333,
                 "defense": true,
                 "biome": {
                     "slug": "icemoss",
                     "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
                 },
-                "expireDateTime": 1784969373.22
+                "expireDateTime": 1784969373.157
             },
             {
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Super Earth",
-                "players": 1228,
-                "health": 4458206,
+                "players": 1468,
+                "health": 4450028,
                 "maxHealth": 5000000,
-                "percentage": 10.835879999999989,
+                "percentage": 10.999439999999993,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
                     "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
                 },
-                "expireDateTime": 1785262823.22
+                "expireDateTime": 1785262823.157
             },
             {
                 "planetIndex": 246,
                 "name": "Vega Bay",
                 "faction": "Automatons",
-                "players": 7965,
-                "health": 1391871,
+                "players": 16094,
+                "health": 1392820,
                 "maxHealth": 1500000,
-                "percentage": 7.20859999999999,
+                "percentage": 7.145333333333326,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -205,7 +168,7 @@
                 "planetIndex": 129,
                 "name": "Acamar IV",
                 "faction": "Terminids",
-                "players": 2104,
+                "players": 2630,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -220,7 +183,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 79,
+                "players": 86,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -235,7 +198,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 158,
+                "players": 201,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -250,7 +213,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 60,
+                "players": 70,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -265,7 +228,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 261,
+                "players": 226,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -280,7 +243,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 432,
+                "players": 404,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -295,7 +258,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 244,
+                "players": 242,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -310,7 +273,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 257,
+                "players": 282,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -325,7 +288,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 146,
+                "players": 180,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -340,7 +303,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 254,
+                "players": 305,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -355,7 +318,7 @@
                 "planetIndex": 173,
                 "name": "Gatria",
                 "faction": "Terminids",
-                "players": 1125,
+                "players": 1306,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -370,7 +333,7 @@
                 "planetIndex": 174,
                 "name": "Gemma",
                 "faction": "Terminids",
-                "players": 355,
+                "players": 451,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -385,7 +348,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 32,
+                "players": 24,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -400,7 +363,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 49,
+                "players": 65,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -415,7 +378,7 @@
                 "planetIndex": 175,
                 "name": "Grand Errant",
                 "faction": "Terminids",
-                "players": 837,
+                "players": 885,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -430,7 +393,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 8,
+                "players": 12,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -445,7 +408,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 13,
+                "players": 11,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -460,7 +423,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 17,
+                "players": 5,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -475,7 +438,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 218,
+                "players": 260,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -490,7 +453,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 269,
+                "players": 234,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -505,7 +468,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 73,
+                "players": 130,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -520,7 +483,7 @@
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 295,
+                "players": 318,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -535,7 +498,7 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 55,
+                "players": 75,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -550,7 +513,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 177,
+                "players": 203,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -565,7 +528,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 374,
+                "players": 490,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -580,7 +543,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 47,
+                "players": 39,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -595,7 +558,7 @@
                 "planetIndex": 227,
                 "name": "Seasse",
                 "faction": "Illuminates",
-                "players": 0,
+                "players": 1,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -610,7 +573,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 153,
+                "players": 195,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -625,7 +588,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 41,
+                "players": 21,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -655,7 +618,7 @@
                 "planetIndex": 128,
                 "name": "Darius II",
                 "faction": "Terminids",
-                "players": 292,
+                "players": 298,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -670,7 +633,7 @@
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 0,
+                "players": 2,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -685,7 +648,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 38,
+                "players": 35,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -7405,6 +7368,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>NEW STRATEGIC OPPORTUNITY</i>\n\nAutomaton transmissions indicate that the bots are reallocating forces to extract raw material from CHOEPESSA IV ahead of the next orbital superweapon strike. \n\nIt is suspected that these materials are crucial to the operation of the superweapon. Helldivers will deploy immediately and seize these supplies as part of the effort to gather intel on the superweapon."
+            },
+            {
+                "id": 3828,
+                "published": 76927560,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>STRATEGIC OPPORTUNITY SEIZED</i>\n\nThe supplies recovered from CHOEPESSA IV, along with seized intel from the Automatons, have been turned over to top tactical analysts.\n\nEarly reports indicate that the bots are scrambling to increase the reliability of orbital scanning on planets with thick fog. \n"
             }
         ],
         "WarAssignments": [
@@ -7414,7 +7384,7 @@
                 "progress": [
                     0
                 ],
-                "expiresIn": 291000,
+                "expiresIn": 278430,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -7447,43 +7417,6 @@
                         "id32": 897894480,
                         "amount": 40
                     },
-                    "flags": 0
-                }
-            },
-            {
-                "id32": 3641290855,
-                "startTime": 76866080,
-                "progress": [
-                    156086
-                ],
-                "expiresIn": 35473,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "STRATEGIC OPPORTUNITY",
-                    "overrideBrief": "Complete operations on the designated planet to disrupt Automaton resource extraction.\n",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 9,
-                            "values": [
-                                3,
-                                200000,
-                                0,
-                                0,
-                                1,
-                                158
-                            ],
-                            "valueTypes": [
-                                1,
-                                3,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [],
                     "flags": 0
                 }
             }
