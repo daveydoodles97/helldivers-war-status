@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-09T02:37:00.947505 UTC",
+    "last_updated": "2026-08-09T04:02:15.741725 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -84,7 +84,7 @@
                     1,
                     1
                 ],
-                "expiresIn": 191240,
+                "expiresIn": 186280,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -158,6 +158,43 @@
                     },
                     "flags": 1
                 }
+            },
+            {
+                "id32": 2899149968,
+                "startTime": 78310980,
+                "progress": [
+                    205
+                ],
+                "expiresIn": 171155,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Conduct operations against the Cyborgs on the designated planet to liberate materials needed to construct a Warp Relay to penetrate the Void.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 9,
+                            "values": [
+                                3,
+                                125000,
+                                0,
+                                0,
+                                1,
+                                156
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
+                }
             }
         ],
         "CampaignPlanets": [
@@ -165,25 +202,25 @@
                 "planetIndex": 218,
                 "name": "Pherkad Secundus",
                 "faction": "Terminids",
-                "players": 40354,
-                "health": 465260,
+                "players": 35352,
+                "health": 383477,
                 "maxHealth": 950000,
-                "percentage": 51.025263157894734,
+                "percentage": 59.634,
                 "defense": true,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1786259969.866
+                "expireDateTime": 1786259961.766
             },
             {
                 "planetIndex": 34,
                 "name": "Hellmire",
                 "faction": "Terminids",
-                "players": 1868,
-                "health": 406107,
+                "players": 1775,
+                "health": 388232,
                 "maxHealth": 1000000,
-                "percentage": 59.3893,
+                "percentage": 61.1768,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -195,10 +232,10 @@
                 "planetIndex": 245,
                 "name": "Wasat",
                 "faction": "Automatons",
-                "players": 711,
-                "health": 1557273,
+                "players": 566,
+                "health": 1542335,
                 "maxHealth": 2000000,
-                "percentage": 22.136349999999993,
+                "percentage": 22.88324999999999,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -210,7 +247,7 @@
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 97,
+                "players": 99,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -225,7 +262,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 1391,
+                "players": 1034,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -240,7 +277,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 121,
+                "players": 107,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -255,7 +292,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 213,
+                "players": 195,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -270,7 +307,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 140,
+                "players": 5030,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -285,7 +322,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 579,
+                "players": 623,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -300,7 +337,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 834,
+                "players": 685,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -315,7 +352,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 300,
+                "players": 251,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -330,7 +367,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 237,
+                "players": 265,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -345,7 +382,7 @@
                 "planetIndex": 173,
                 "name": "Gatria",
                 "faction": "Terminids",
-                "players": 4007,
+                "players": 3511,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -360,7 +397,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 96,
+                "players": 104,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -375,7 +412,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 396,
+                "players": 356,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -390,7 +427,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 32,
+                "players": 30,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -420,7 +457,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 101,
+                "players": 89,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -435,7 +472,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 1208,
+                "players": 1069,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -450,7 +487,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 2291,
+                "players": 1938,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -465,7 +502,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 406,
+                "players": 387,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -480,7 +517,7 @@
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 988,
+                "players": 854,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -495,7 +532,7 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 144,
+                "players": 133,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -510,7 +547,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 279,
+                "players": 277,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -525,7 +562,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 693,
+                "players": 683,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -540,7 +577,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 473,
+                "players": 422,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -555,7 +592,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 2850,
+                "players": 2744,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -570,7 +607,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 228,
+                "players": 211,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -600,7 +637,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 2090,
+                "players": 1837,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -615,7 +652,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 114,
+                "players": 113,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -630,7 +667,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 44,
+                "players": 40,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -660,7 +697,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 165,
+                "players": 109,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -7534,6 +7571,13 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>SCIENTIFIC BREAKTHROUGH</i>\n\nThe Ministry of Science has reached a breakthrough in their study of the Void. Concentrations of Void-impacted molecules, collected from massive quantities of humanely-processed Voteless, may identify planet locations inside the Void. \n\nTop scientists have formed these masses into y-shapes, oriented them towards the Void, and discovered that specific directional vectors cause intense vibrations. They theorize this may indicate the direction of planets within the Void."
+            },
+            {
+                "id": 3850,
+                "published": 78311000,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW STRATEGIC IMPERATIVE</i>\n\nEngineers on <i=1>RIRGA BAY</i> have found a way to penetrate the Void. Alcubiere warp bubbles can be modified to provid insulation from the cosmic radiation field at the Void's barrier. \n\nThis has been demonstrated in a laboratory setting using various amphibians. Construction of a <i=1>Warp Relay Station</i>, to transport Destroyers, has already begun on RIRGA BAY. The Helldivers are ordered to aid construction by liberating materials from Cyborg Megafactories."
             }
         ],
         "WarAssignments": [
@@ -7546,7 +7590,7 @@
                     1,
                     1
                 ],
-                "expiresIn": 191270,
+                "expiresIn": 186140,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -7619,6 +7663,43 @@
                         "amount": 35
                     },
                     "flags": 1
+                }
+            },
+            {
+                "id32": 2899149968,
+                "startTime": 78310980,
+                "progress": [
+                    248
+                ],
+                "expiresIn": 171015,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "STRATEGIC OPPORTUNITY",
+                    "overrideBrief": "Conduct operations against the Cyborgs on the designated planet to liberate materials needed to construct a Warp Relay to penetrate the Void.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 9,
+                            "values": [
+                                3,
+                                125000,
+                                0,
+                                0,
+                                1,
+                                156
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [],
+                    "flags": 0
                 }
             }
         ]
