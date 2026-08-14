@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-14T11:24:59.653684 UTC",
+    "last_updated": "2026-08-14T12:03:23.274968 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,16 +74,119 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 3979642198,
+                "startTime": 78773190,
+                "progress": [
+                    0,
+                    0,
+                    0
+                ],
+                "expiresIn": 345348,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Complete all operations, eliminate enemies of Freedom, and harvest samples across the designated planets to help map a secure corridor deeper into the Void.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 9,
+                            "values": [
+                                4,
+                                1000000,
+                                0,
+                                0,
+                                1,
+                                275
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                1250000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                280
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "values": [
+                                4,
+                                0,
+                                35000000,
+                                1,
+                                3992382197,
+                                0,
+                                0,
+                                1,
+                                278
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 40
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 40
+                    },
+                    "flags": 0
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 245,
                 "name": "Wasat",
                 "faction": "Automatons",
-                "players": 1309,
-                "health": 237180,
+                "players": 1481,
+                "health": 230071,
                 "maxHealth": 2000000,
-                "percentage": 88.141,
+                "percentage": 88.49645,
                 "defense": false,
                 "biome": {
                     "slug": "toxic",
@@ -92,10 +195,43 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 275,
+                "name": "",
+                "players": 0,
+                "health": 0,
+                "maxHealth": 0,
+                "percentage": 0,
+                "defense": false,
+                "biome": null,
+                "expireDateTime": 0
+            },
+            {
+                "planetIndex": 278,
+                "name": "",
+                "players": 0,
+                "health": 0,
+                "maxHealth": 0,
+                "percentage": 0,
+                "defense": false,
+                "biome": null,
+                "expireDateTime": 0
+            },
+            {
+                "planetIndex": 280,
+                "name": "",
+                "players": 0,
+                "health": 0,
+                "maxHealth": 0,
+                "percentage": 0,
+                "defense": false,
+                "biome": null,
+                "expireDateTime": 0
+            },
+            {
                 "planetIndex": 139,
                 "name": "Alamak VII",
                 "faction": "Illuminates",
-                "players": 255,
+                "players": 401,
                 "health": 2300000,
                 "maxHealth": 2300000,
                 "percentage": 0,
@@ -110,7 +246,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 1369,
+                "players": 1613,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -125,7 +261,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 160,
+                "players": 225,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -140,7 +276,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 1039,
+                "players": 1112,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -155,7 +291,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 232,
+                "players": 319,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -170,7 +306,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 637,
+                "players": 800,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -185,7 +321,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 1234,
+                "players": 1392,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -200,7 +336,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 589,
+                "players": 685,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -215,7 +351,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 460,
+                "players": 541,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +366,7 @@
                 "planetIndex": 173,
                 "name": "Gatria",
                 "faction": "Terminids",
-                "players": 3188,
+                "players": 4051,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -245,7 +381,7 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 339,
+                "players": 435,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -260,7 +396,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 846,
+                "players": 989,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -275,7 +411,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 117,
+                "players": 147,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +426,7 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 167,
+                "players": 197,
                 "health": 1800000,
                 "maxHealth": 1800000,
                 "percentage": 0,
@@ -305,7 +441,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 19522,
+                "players": 24744,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +456,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 1127,
+                "players": 1364,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -335,7 +471,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 3390,
+                "players": 3829,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -350,7 +486,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 467,
+                "players": 472,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +501,7 @@
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 1063,
+                "players": 1306,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -380,7 +516,7 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 213,
+                "players": 301,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -395,7 +531,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 873,
+                "players": 1019,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -410,7 +546,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 1888,
+                "players": 2285,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -425,7 +561,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1093,
+                "players": 1330,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -440,7 +576,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 23118,
+                "players": 27520,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -455,7 +591,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 1644,
+                "players": 2130,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -470,7 +606,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 1567,
+                "players": 2005,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -485,7 +621,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 272,
+                "players": 344,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -500,7 +636,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 99,
+                "players": 126,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -515,7 +651,7 @@
                 "planetIndex": 94,
                 "name": "Oasis",
                 "faction": "Illuminates",
-                "players": 357,
+                "players": 411,
                 "health": 1400000,
                 "maxHealth": 1400000,
                 "percentage": -1.4210854715202004e-14,
@@ -7452,8 +7588,118 @@
                 "type": 0,
                 "tagIds": [],
                 "message": "<i=3>MAJOR ORDER WON</i>\n\nThe Helldivers successfully protected <i=1>Rirga Bay</i>, proving that no amount of <i=1>Illuminate</i> genetic tampering can withstand Liberty's might.\n\nConsequently, the Void Warp Relay has achieved full operational status. In addition to securing primary fuel metrics, the enthusiastic harvesting of <i=1>E-711</i> enabled High Command to reward auxiliary SEAF regiments with immediate, mandatory deployment into <i=1>the Void</i> alongside Super Earth's most elite forces."
+            },
+            {
+                "id": 3859,
+                "published": 78773198,
+                "type": 0,
+                "tagIds": [],
+                "message": "<i=3>NEW MAJOR ORDER</i>\n\nHelldivers are to enter <i=1>the Void</i> immediately. Here, conventional navigational arrays are non-functional.\n\nTo aid the science teams deploying alongside ground forces and enable onward navigation to the hidden Void <i=1>source planet</i>, Helldivers must extract <i=1>35,000,000 samples from UVP ALPHA</i>, complete <i=1>1,000,000 operations on UVP GAMMA</i>, and eliminate <i=1>1,250,000,000 hostiles on SENGE 23</i>."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 3979642198,
+                "startTime": 78773190,
+                "progress": [
+                    0,
+                    0,
+                    0
+                ],
+                "expiresIn": 345348,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Complete all operations, eliminate enemies of Freedom, and harvest samples across the designated planets to help map a secure corridor deeper into the Void.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 9,
+                            "values": [
+                                4,
+                                1000000,
+                                0,
+                                0,
+                                1,
+                                275
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                1250000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                280
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "values": [
+                                4,
+                                0,
+                                35000000,
+                                1,
+                                3992382197,
+                                0,
+                                0,
+                                1,
+                                278
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 40
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 40
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
