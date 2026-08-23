@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-23T16:56:57.550258 UTC",
+    "last_updated": "2026-08-23T17:15:47.917647 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,56 +74,13 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 434236,
-                "startTime": 79118690,
-                "progress": [
-                    0
-                ],
-                "expiresIn": 68915,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Liberate Seasse to protect the Ministry of Science expeditionary teams as they trigger the total collapse of the Void.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 11,
-                            "values": [
-                                1,
-                                1,
-                                276
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 40
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 40
-                    },
-                    "flags": 0
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
             {
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 2219,
+                "players": 3374,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -138,7 +95,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 299,
+                "players": 375,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -153,7 +110,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 2070,
+                "players": 2617,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -168,7 +125,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 418,
+                "players": 689,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -183,7 +140,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 1179,
+                "players": 1629,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -198,7 +155,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 1812,
+                "players": 2582,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -213,7 +170,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 1383,
+                "players": 1699,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -228,7 +185,7 @@
                 "planetIndex": 172,
                 "name": "Gar Haren",
                 "faction": "Terminids",
-                "players": 802,
+                "players": 971,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -243,7 +200,7 @@
                 "planetIndex": 173,
                 "name": "Gatria",
                 "faction": "Terminids",
-                "players": 6514,
+                "players": 8076,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -258,7 +215,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 1866,
+                "players": 6842,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -273,7 +230,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 212,
+                "players": 331,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -288,7 +245,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 822,
+                "players": 1956,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -303,7 +260,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 2151,
+                "players": 3205,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -318,7 +275,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 4004,
+                "players": 7801,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -333,7 +290,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 850,
+                "players": 1384,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -348,7 +305,7 @@
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 1311,
+                "players": 2266,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -363,7 +320,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 2207,
+                "players": 2715,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -378,7 +335,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 2734,
+                "players": 3719,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -393,7 +350,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 1951,
+                "players": 2420,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -408,7 +365,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 16239,
+                "players": 25879,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -423,7 +380,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 817,
+                "players": 1727,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -438,7 +395,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 758,
+                "players": 1878,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -453,7 +410,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 499,
+                "players": 1279,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -468,7 +425,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 260,
+                "players": 703,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
