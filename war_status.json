@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-01T06:47:56.126932 UTC",
+    "last_updated": "2026-09-01T12:04:31.958397 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,31 +74,172 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 3038612729,
+                "startTime": 80324240,
+                "progress": [
+                    74418,
+                    3741,
+                    102270,
+                    579
+                ],
+                "expiresIn": 255502,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Neutralize the designated enemy targets, for conversion into bounty trophies for citizens who arrest suspected dissidents.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                3,
+                                0,
+                                100000000,
+                                1371180916,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                3,
+                                0,
+                                7500000,
+                                4066406510,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                150000000,
+                                3621116014,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                50000000,
+                                1870840792,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 35
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 35
+                    },
+                    "flags": 0
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 14456,
-                "health": 490120,
+                "players": 22887,
+                "health": 368912,
                 "maxHealth": 650000,
-                "percentage": 24.596923076923076,
+                "percentage": 43.24430769230769,
                 "defense": true,
                 "biome": {
                     "slug": "jungle",
                     "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
                 },
-                "expireDateTime": 1788270725.409
+                "expireDateTime": 1788272830.204
             },
             {
                 "planetIndex": 130,
                 "name": "Achernar Secundus",
                 "faction": "Terminids",
-                "players": 8759,
-                "health": 841279,
+                "players": 5559,
+                "health": 748426,
                 "maxHealth": 2000000,
-                "percentage": 57.936049999999994,
+                "percentage": 62.5787,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -110,10 +251,10 @@
                 "planetIndex": 185,
                 "name": "Karlia",
                 "faction": "Illuminates",
-                "players": 1376,
-                "health": 1242858,
+                "players": 1533,
+                "health": 1239554,
                 "maxHealth": 1400000,
-                "percentage": 11.224428571428561,
+                "percentage": 11.460428571428565,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -122,28 +263,13 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 251,
-                "name": "Zefia",
-                "faction": "Automatons",
-                "players": 4523,
-                "health": 944625,
-                "maxHealth": 1000000,
-                "percentage": 5.537499999999994,
-                "defense": false,
-                "biome": {
-                    "slug": "ethereal",
-                    "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 631,
-                "health": 1724187,
+                "players": 594,
+                "health": 1722544,
                 "maxHealth": 1800000,
-                "percentage": 4.211833333333331,
+                "percentage": 4.303111111111107,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -155,10 +281,10 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 114,
-                "health": 971399,
+                "players": 95,
+                "health": 970380,
                 "maxHealth": 1000000,
-                "percentage": 2.8600999999999885,
+                "percentage": 2.961999999999989,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -167,13 +293,28 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 251,
+                "name": "Zefia",
+                "faction": "Automatons",
+                "players": 8401,
+                "health": 977411,
+                "maxHealth": 1000000,
+                "percentage": 2.258899999999997,
+                "defense": false,
+                "biome": {
+                    "slug": "ethereal",
+                    "description": "This world teems with ethereal, boundless, and peculiar plant life that spreads silent and uninterrupted across its entire surface."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 178,
-                "health": 1577710,
+                "players": 222,
+                "health": 1576908,
                 "maxHealth": 1600000,
-                "percentage": 1.3931249999999977,
+                "percentage": 1.443249999999992,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
@@ -185,10 +326,10 @@
                 "planetIndex": 143,
                 "name": "Asperoth Prime",
                 "faction": "Illuminates",
-                "players": 112,
-                "health": 1788182,
+                "players": 111,
+                "health": 1787731,
                 "maxHealth": 1800000,
-                "percentage": 0.6565555555555562,
+                "percentage": 0.6816111111111098,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -200,10 +341,10 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 54,
-                "health": 1788856,
+                "players": 71,
+                "health": 1788405,
                 "maxHealth": 1800000,
-                "percentage": 0.6191111111111098,
+                "percentage": 0.6441666666666634,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -215,10 +356,10 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 23,
-                "health": 1794892,
+                "players": 29,
+                "health": 1794589,
                 "maxHealth": 1800000,
-                "percentage": 0.2837777777777717,
+                "percentage": 0.3006111111111096,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -230,7 +371,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 425,
+                "players": 469,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -245,7 +386,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 112,
+                "players": 87,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +401,7 @@
                 "planetIndex": 124,
                 "name": "Bore Rock",
                 "faction": "Terminids",
-                "players": 297,
+                "players": 324,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -275,7 +416,7 @@
                 "planetIndex": 269,
                 "name": "Brilliance",
                 "faction": "Super Earth",
-                "players": 0,
+                "players": 1,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -290,7 +431,7 @@
                 "planetIndex": 156,
                 "name": "Charbal-VII",
                 "faction": "Automatons",
-                "players": 98,
+                "players": 91,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -305,7 +446,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 255,
+                "players": 252,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +461,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 432,
+                "players": 1366,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +476,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 338,
+                "players": 366,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -350,7 +491,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 29,
+                "players": 32,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -365,7 +506,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 59,
+                "players": 43,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -380,7 +521,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 432,
+                "players": 438,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -395,7 +536,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 761,
+                "players": 1206,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -425,7 +566,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 283,
+                "players": 281,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -440,7 +581,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 1005,
+                "players": 856,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -455,7 +596,7 @@
                 "planetIndex": 214,
                 "name": "Pandion-XXIV",
                 "faction": "Terminids",
-                "players": 828,
+                "players": 876,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -470,7 +611,7 @@
                 "planetIndex": 215,
                 "name": "Partion",
                 "faction": "Terminids",
-                "players": 307,
+                "players": 369,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -485,7 +626,7 @@
                 "planetIndex": 216,
                 "name": "Peacock",
                 "faction": "Terminids",
-                "players": 375,
+                "players": 278,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -500,7 +641,7 @@
                 "planetIndex": 217,
                 "name": "Phact Bay",
                 "faction": "Terminids",
-                "players": 8832,
+                "players": 9045,
                 "health": 2200000,
                 "maxHealth": 2200000,
                 "percentage": 0,
@@ -515,7 +656,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 138,
+                "players": 89,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -530,7 +671,7 @@
                 "planetIndex": 225,
                 "name": "Rogue 5",
                 "faction": "Illuminates",
-                "players": 22,
+                "players": 28,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -545,7 +686,7 @@
                 "planetIndex": 228,
                 "name": "Senge 23",
                 "faction": "Illuminates",
-                "players": 345,
+                "players": 1630,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -560,7 +701,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 530,
+                "players": 356,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -575,7 +716,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 602,
+                "players": 617,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -590,7 +731,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 93,
+                "players": 121,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -605,7 +746,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 33,
+                "players": 24,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -7789,6 +7930,147 @@
                 "message": "<i=3>VOID EXPANSION DETECTED</i>\n\nThe expansion rate of <i=1>the Void</i> has accelerated, engulfing a substantial swath of outer galactic territory. \n\nAffected sectors have been further consumed by the spatial vacuum. Helldivers are advised to focus all attention on efforts to map the Void. Preventing its further expansion is of the utmost urgency."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 3038612729,
+                "startTime": 80324240,
+                "progress": [
+                    73111,
+                    3655,
+                    100501,
+                    563
+                ],
+                "expiresIn": 255532,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Neutralize the designated enemy targets, for conversion into bounty trophies for citizens who arrest suspected dissidents.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                3,
+                                0,
+                                100000000,
+                                1371180916,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                3,
+                                0,
+                                7500000,
+                                4066406510,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                150000000,
+                                3621116014,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                50000000,
+                                1870840792,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 35
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 35
+                    },
+                    "flags": 0
+                }
+            }
+        ]
     }
 }
