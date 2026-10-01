@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-01T18:59:25.521710 UTC",
+    "last_updated": "2026-10-01T23:00:47.356995 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,101 +74,16 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 1715805482,
-                "startTime": 82599600,
-                "progress": [
-                    20984371,
-                    4034504
-                ],
-                "expiresIn": 1900,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Kill the requisite enemies to ensure early investors in the TD-110 Maelstrom Tanks receive their promised deluxe features.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                25000000,
-                                2651633799,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                3,
-                                0,
-                                5000000,
-                                2664856027,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 40
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 40
-                    },
-                    "flags": 0
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
             {
                 "planetIndex": 268,
                 "name": "Luxuriant",
                 "faction": "Terminids",
-                "players": 18786,
-                "health": 974054,
+                "players": 13474,
+                "health": 969622,
                 "maxHealth": 2000000,
-                "percentage": 51.2973,
+                "percentage": 51.518899999999995,
                 "defense": false,
                 "biome": {
                     "slug": "lush",
@@ -180,10 +95,10 @@
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 1146,
-                "health": 1295542,
+                "players": 1524,
+                "health": 1293354,
                 "maxHealth": 1800000,
-                "percentage": 28.025444444444446,
+                "percentage": 28.14699999999999,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -195,10 +110,10 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 20226,
-                "health": 1349494,
+                "players": 20353,
+                "health": 1307977,
                 "maxHealth": 1600000,
-                "percentage": 15.656625000000005,
+                "percentage": 18.251437499999994,
                 "defense": false,
                 "biome": {
                     "slug": "highlands",
@@ -210,10 +125,10 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 141,
-                "health": 856272,
+                "players": 156,
+                "health": 855545,
                 "maxHealth": 1000000,
-                "percentage": 14.372799999999998,
+                "percentage": 14.445499999999996,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -222,13 +137,28 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 199,
+                "name": "Martale",
+                "faction": "Automatons",
+                "players": 2943,
+                "health": 1376128,
+                "maxHealth": 1500000,
+                "percentage": 8.258133333333333,
+                "defense": false,
+                "biome": {
+                    "slug": "tundra",
+                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 181,
-                "health": 1479192,
+                "players": 245,
+                "health": 1478646,
                 "maxHealth": 1600000,
-                "percentage": 7.5504999999999995,
+                "percentage": 7.584625000000003,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
@@ -240,10 +170,10 @@
                 "planetIndex": 143,
                 "name": "Asperoth Prime",
                 "faction": "Illuminates",
-                "players": 147,
-                "health": 1728236,
+                "players": 128,
+                "health": 1727922,
                 "maxHealth": 1800000,
-                "percentage": 3.9868888888888847,
+                "percentage": 4.004333333333335,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -255,10 +185,10 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 47,
-                "health": 1753349,
+                "players": 61,
+                "health": 1753234,
                 "maxHealth": 1800000,
-                "percentage": 2.5917222222222165,
+                "percentage": 2.598111111111109,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -270,10 +200,10 @@
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 70,
-                "health": 1377527,
+                "players": 65,
+                "health": 1377298,
                 "maxHealth": 1400000,
-                "percentage": 1.6052142857142826,
+                "percentage": 1.6215714285714142,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -285,10 +215,10 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 27,
-                "health": 1779771,
+                "players": 29,
+                "health": 1779700,
                 "maxHealth": 1800000,
-                "percentage": 1.123833333333323,
+                "percentage": 1.12777777777778,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -300,7 +230,7 @@
                 "planetIndex": 99,
                 "name": "Alderidge Cove",
                 "faction": "Illuminates",
-                "players": 52,
+                "players": 134,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -315,7 +245,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 1130,
+                "players": 1316,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -330,7 +260,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 179,
+                "players": 186,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -345,7 +275,7 @@
                 "planetIndex": 269,
                 "name": "Brilliance",
                 "faction": "Terminids",
-                "players": 2368,
+                "players": 1835,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -360,7 +290,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 1289,
+                "players": 1335,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -375,7 +305,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 1549,
+                "players": 1640,
                 "health": 3200000,
                 "maxHealth": 3200000,
                 "percentage": 0,
@@ -390,7 +320,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 1112,
+                "players": 997,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -405,7 +335,7 @@
                 "planetIndex": 261,
                 "name": "Fury",
                 "faction": "Automatons",
-                "players": 305,
+                "players": 364,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -420,7 +350,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 288,
+                "players": 323,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -435,7 +365,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 39,
+                "players": 32,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -450,7 +380,7 @@
                 "planetIndex": 79,
                 "name": "Heeth",
                 "faction": "Terminids",
-                "players": 3541,
+                "players": 2927,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -465,7 +395,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 49,
+                "players": 48,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -480,7 +410,7 @@
                 "planetIndex": 262,
                 "name": "K",
                 "faction": "Automatons",
-                "players": 293,
+                "players": 275,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -495,7 +425,7 @@
                 "planetIndex": 186,
                 "name": "Keid",
                 "faction": "Illuminates",
-                "players": 104,
+                "players": 75,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -510,7 +440,7 @@
                 "planetIndex": 187,
                 "name": "Khandark",
                 "faction": "Illuminates",
-                "players": 37,
+                "players": 46,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -522,25 +452,10 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 199,
-                "name": "Martale",
-                "faction": "Automatons",
-                "players": 3159,
-                "health": 1500000,
-                "maxHealth": 1500000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "tundra",
-                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 2023,
+                "players": 2001,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -555,7 +470,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 493,
+                "players": 546,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -570,7 +485,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 1363,
+                "players": 1308,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -585,7 +500,7 @@
                 "planetIndex": 215,
                 "name": "Partion",
                 "faction": "Terminids",
-                "players": 1291,
+                "players": 1075,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -600,7 +515,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 87,
+                "players": 93,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -615,7 +530,7 @@
                 "planetIndex": 225,
                 "name": "Rogue 5",
                 "faction": "Illuminates",
-                "players": 15,
+                "players": 19,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -630,7 +545,7 @@
                 "planetIndex": 228,
                 "name": "Senge 23",
                 "faction": "Illuminates",
-                "players": 164,
+                "players": 205,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -645,7 +560,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 289,
+                "players": 393,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -660,7 +575,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 599,
+                "players": 532,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -675,7 +590,7 @@
                 "planetIndex": 270,
                 "name": "Unknown",
                 "faction": "Super Earth",
-                "players": 1,
+                "players": 3,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -687,7 +602,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 94,
+                "players": 130,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -717,7 +632,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 1064,
+                "players": 1013,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -7121,93 +7036,14 @@
                 "Published": 82599608,
                 "Type": 0,
                 "Message": "<i=3>NEW MAJOR ORDER</i>\n\nProduction of <i=1>Maelstrom</i> Tanks for civilian and military use is proceeding on schedule. Now, deluxe features offered as incentives for early investors must be fabricated. The Helldivers are ordered to dismantle <i=1>5,000,000 Automaton Tanks</i> to repurpose their engine cooling systems as climate-controlled cupholders, and harvest <i=1>25,000,000 Chargers</i> to convert their carapaces to vibration-insulation panels."
+            },
+            {
+                "Id": 3942,
+                "Published": 82945292,
+                "Type": 0,
+                "Message": "<i=3>MAJOR ORDER FAILED</i>\n\nInsufficient materials have been harvested by the Helldivers to fulfill production quotas for deluxe <i=1>Maelstrom</i> Tank features. This has caused significant distress amongst the early investors who were promised these features as incentives, resulting in a precipitous drop in pre-sales and a decrease in share value.\n\nAs a result, the <i=1>Maelstrom</i> Tank project is now at risk of termination."
             }
         ],
-        "WarAssignments": [
-            {
-                "id32": 1715805482,
-                "startTime": 82599600,
-                "progress": [
-                    20983683,
-                    4034162
-                ],
-                "expiresIn": 1920,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Kill the requisite enemies to ensure early investors in the TD-110 Maelstrom Tanks receive their promised deluxe features.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                25000000,
-                                2651633799,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 3,
-                            "values": [
-                                3,
-                                0,
-                                5000000,
-                                2664856027,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 40
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 40
-                    },
-                    "flags": 0
-                }
-            }
-        ]
+        "WarAssignments": []
     }
 }
