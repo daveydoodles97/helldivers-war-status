@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-08T09:28:02.286390 UTC",
+    "last_updated": "2026-10-08T16:46:35.017132 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,31 +74,130 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
+        "MajorOrders": [
+            {
+                "id32": 4152388944,
+                "startTime": 83527230,
+                "progress": [
+                    1,
+                    1506756,
+                    3195376
+                ],
+                "expiresIn": 420889,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Hold the designated planet and eliminate the mandated number of bile-producing Terminids in order to prove the safety of our chemical airstrikes, and to aid vital and fully planned research into airborne toxicity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                228
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                30000000,
+                                717622970,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                40000000,
+                                444529084,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 1
+                }
+            }
+        ],
         "CampaignPlanets": [
             {
-                "planetIndex": 76,
-                "name": "Terrek",
-                "faction": "Terminids",
-                "players": 9783,
-                "health": 350405,
-                "maxHealth": 550000,
-                "percentage": 36.290000000000006,
+                "planetIndex": 249,
+                "name": "X-45",
+                "faction": "Automatons",
+                "players": 1870,
+                "health": 739002,
+                "maxHealth": 750000,
+                "percentage": 1.466399999999993,
                 "defense": true,
                 "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
                 },
-                "expireDateTime": 1791467521.65
+                "expireDateTime": 1791548314.462
             },
             {
                 "planetIndex": 268,
                 "name": "Luxuriant",
                 "faction": "Terminids",
-                "players": 6833,
-                "health": 1107154,
+                "players": 36842,
+                "health": 1000445,
                 "maxHealth": 2000000,
-                "percentage": 44.6423,
+                "percentage": 49.97775,
                 "defense": false,
                 "biome": {
                     "slug": "lush",
@@ -110,10 +209,10 @@
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 1259,
-                "health": 1177997,
+                "players": 1267,
+                "health": 1173103,
                 "maxHealth": 1800000,
-                "percentage": 34.555722222222215,
+                "percentage": 34.82761111111111,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -125,10 +224,10 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 81,
-                "health": 819727,
+                "players": 88,
+                "health": 818456,
                 "maxHealth": 1000000,
-                "percentage": 18.027299999999997,
+                "percentage": 18.154399999999995,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -140,10 +239,10 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 195,
-                "health": 1449266,
+                "players": 162,
+                "health": 1448083,
                 "maxHealth": 1600000,
-                "percentage": 9.420874999999995,
+                "percentage": 9.494812499999995,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
@@ -155,10 +254,10 @@
                 "planetIndex": 143,
                 "name": "Asperoth Prime",
                 "faction": "Illuminates",
-                "players": 66,
-                "health": 1711627,
+                "players": 96,
+                "health": 1711116,
                 "maxHealth": 1800000,
-                "percentage": 4.909611111111104,
+                "percentage": 4.938000000000002,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -167,28 +266,13 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 182,
-                "name": "Heze Bay",
-                "faction": "Illuminates",
-                "players": 40,
-                "health": 1745245,
-                "maxHealth": 1800000,
-                "percentage": 3.0419444444444395,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 462,
-                "health": 1357727,
+                "players": 379,
+                "health": 1355881,
                 "maxHealth": 1400000,
-                "percentage": 3.0194999999999936,
+                "percentage": 3.1513571428571368,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -197,13 +281,28 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 182,
+                "name": "Heze Bay",
+                "faction": "Illuminates",
+                "players": 39,
+                "health": 1744987,
+                "maxHealth": 1800000,
+                "percentage": 3.0562777777777796,
+                "defense": false,
+                "biome": {
+                    "slug": "mesa",
+                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 17,
-                "health": 1776045,
+                "players": 19,
+                "health": 1775889,
                 "maxHealth": 1800000,
-                "percentage": 1.3308333333333309,
+                "percentage": 1.339500000000001,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -215,7 +314,7 @@
                 "planetIndex": 99,
                 "name": "Alderidge Cove",
                 "faction": "Illuminates",
-                "players": 292,
+                "players": 254,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -230,7 +329,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 379,
+                "players": 395,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -245,7 +344,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 50,
+                "players": 73,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +359,7 @@
                 "planetIndex": 269,
                 "name": "Brilliance",
                 "faction": "Terminids",
-                "players": 547,
+                "players": 1347,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -275,7 +374,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 257,
+                "players": 401,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +389,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 266,
+                "players": 352,
                 "health": 3200000,
                 "maxHealth": 3200000,
                 "percentage": 0,
@@ -305,7 +404,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 243,
+                "players": 444,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +419,7 @@
                 "planetIndex": 261,
                 "name": "Fury",
                 "faction": "Automatons",
-                "players": 53,
+                "players": 112,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -335,7 +434,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 275,
+                "players": 198,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -365,7 +464,7 @@
                 "planetIndex": 79,
                 "name": "Heeth",
                 "faction": "Terminids",
-                "players": 895,
+                "players": 2572,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -380,7 +479,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 21,
+                "players": 36,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -395,7 +494,7 @@
                 "planetIndex": 262,
                 "name": "K",
                 "faction": "Automatons",
-                "players": 42,
+                "players": 70,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -410,7 +509,7 @@
                 "planetIndex": 186,
                 "name": "Keid",
                 "faction": "Illuminates",
-                "players": 85,
+                "players": 90,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -425,7 +524,7 @@
                 "planetIndex": 187,
                 "name": "Khandark",
                 "faction": "Illuminates",
-                "players": 17,
+                "players": 43,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -440,7 +539,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 346,
+                "players": 549,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -455,7 +554,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 1404,
+                "players": 1508,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -470,7 +569,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 86,
+                "players": 334,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -485,7 +584,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 123,
+                "players": 194,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -500,7 +599,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 555,
+                "players": 1081,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -515,7 +614,7 @@
                 "planetIndex": 215,
                 "name": "Partion",
                 "faction": "Terminids",
-                "players": 412,
+                "players": 917,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -530,7 +629,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 78,
+                "players": 56,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -545,7 +644,7 @@
                 "planetIndex": 225,
                 "name": "Rogue 5",
                 "faction": "Illuminates",
-                "players": 10,
+                "players": 14,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -560,7 +659,7 @@
                 "planetIndex": 229,
                 "name": "Setia",
                 "faction": "Illuminates",
-                "players": 136,
+                "players": 271,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -575,7 +674,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 293,
+                "players": 314,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -587,10 +686,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 76,
+                "name": "Terrek",
+                "faction": "Terminids",
+                "players": 4205,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "moon",
+                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 200,
+                "players": 423,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -605,7 +719,7 @@
                 "planetIndex": 270,
                 "name": "Unknown",
                 "faction": "Super Earth",
-                "players": 0,
+                "players": 3,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -617,7 +731,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 84,
+                "players": 56,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -632,7 +746,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 12,
+                "players": 25,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -647,7 +761,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 241,
+                "players": 358,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -7099,8 +7213,113 @@
                 "Published": 83508719,
                 "Type": 0,
                 "Message": "<i=3>MAJOR ORDER WON</i>\n\nThe liberation of <i=1>SENGE 23</i> has concluded with a decisive victory for the Helldivers. High-definition broadcasts of the engagement were successfully transmitted to cheering homes across the Federation, prompting an immediate 4.2% increase in regional real estate futures.\n\nAs a routine operational byproduct, harmless gaseous residues are now dispersing into adjacent residential flight corridors. Air quality experts have decisively concluded there is no cause for concern."
+            },
+            {
+                "Id": 3950,
+                "Published": 83527250,
+                "Type": 0,
+                "Message": "<i=3>NEW MAJOR ORDER</i>\n\nThe Illuminate have manipulated harmless gaseous residues into somehow affecting exclusive Class A retirement facilities orbiting <i=1>SENGE 23</i>.\n\nTo prove the safety of <i=1>Eagle Gas Storms</i>\u2014normally entirely benevolent to human lungs\u2014Helldivers must hold <i=1>SENGE 23</i>, and deploy to the Terminid front to eliminate <i=1>30,000,000 Bile Spewers</i> and <i=1>40,000,000 Bile Spitters</i>, to aid vital and fully planned research into airborne toxicity."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 4152388944,
+                "startTime": 83527230,
+                "progress": [
+                    1,
+                    1508099,
+                    3198643
+                ],
+                "expiresIn": 420879,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Hold the designated planet and eliminate the mandated number of bile-producing Terminids in order to prove the safety of our chemical airstrikes, and to aid vital and fully planned research into airborne toxicity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                228
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                30000000,
+                                717622970,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                40000000,
+                                444529084,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 1
+                }
+            }
+        ]
     }
 }
