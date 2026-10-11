@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-11T18:11:23.514343 UTC",
+    "last_updated": "2026-10-11T21:54:45.429349 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -83,7 +83,7 @@
                     30000000,
                     40000000
                 ],
-                "expiresIn": 156789,
+                "expiresIn": 143359,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -172,122 +172,47 @@
                     },
                     "flags": 1
                 }
-            },
-            {
-                "id32": 25744386,
-                "startTime": 83641940,
-                "progress": [
-                    1,
-                    1
-                ],
-                "expiresIn": 9593,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "STRATEGIC THREAT",
-                    "overrideBrief": "Protect and hold the designated planets in order to destroy the propaganda arrays being established by the Incineration Corps and Jet Brigade, and protect citizens from the Automatons' craven lies.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                198
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                203
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [],
-                    "flags": 1
-                }
             }
         ],
         "CampaignPlanets": [
             {
-                "planetIndex": 198,
-                "name": "Marfark",
-                "faction": "Automatons",
-                "players": 27651,
-                "health": 61896,
-                "maxHealth": 950000,
-                "percentage": 93.48463157894737,
-                "defense": true,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": 1791751432.85
-            },
-            {
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 7056,
-                "health": 216759,
+                "players": 8705,
+                "health": 189074,
                 "maxHealth": 350000,
-                "percentage": 38.06885714285714,
+                "percentage": 45.97885714285714,
                 "defense": true,
                 "biome": {
                     "slug": "undergrowth",
                     "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
                 },
-                "expireDateTime": 1791760412.85
-            },
-            {
-                "planetIndex": 203,
-                "name": "Menkent",
-                "faction": "Automatons",
-                "players": 2804,
-                "health": 1852868,
-                "maxHealth": 2000000,
-                "percentage": 7.3566,
-                "defense": true,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": 1791751412.85
+                "expireDateTime": 1791760414.769
             },
             {
                 "planetIndex": 228,
                 "name": "Senge 23",
                 "faction": "Illuminates",
-                "players": 8765,
-                "health": 1016440,
+                "players": 20236,
+                "health": 959415,
                 "maxHealth": 1050000,
-                "percentage": 3.1961904761904805,
+                "percentage": 8.627142857142857,
                 "defense": true,
                 "biome": {
                     "slug": "canyon",
                     "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
                 },
-                "expireDateTime": 1791898422.85
+                "expireDateTime": 1791898424.769
             },
             {
                 "planetIndex": 79,
                 "name": "Heeth",
                 "faction": "Terminids",
-                "players": 13948,
-                "health": 320387,
+                "players": 13169,
+                "health": 328491,
                 "maxHealth": 1000000,
-                "percentage": 67.9613,
+                "percentage": 67.15090000000001,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -299,10 +224,10 @@
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 985,
-                "health": 1134778,
+                "players": 898,
+                "health": 1133818,
                 "maxHealth": 1800000,
-                "percentage": 36.95677777777777,
+                "percentage": 37.01011111111111,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -314,10 +239,10 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 63,
-                "health": 810517,
+                "players": 86,
+                "health": 810240,
                 "maxHealth": 1000000,
-                "percentage": 18.94829999999999,
+                "percentage": 18.976,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -329,10 +254,10 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 208,
-                "health": 1440391,
+                "players": 178,
+                "health": 1440091,
                 "maxHealth": 1600000,
-                "percentage": 9.975562499999995,
+                "percentage": 9.994312499999992,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
@@ -344,10 +269,10 @@
                 "planetIndex": 143,
                 "name": "Asperoth Prime",
                 "faction": "Illuminates",
-                "players": 114,
-                "health": 1705856,
+                "players": 107,
+                "health": 1705708,
                 "maxHealth": 1800000,
-                "percentage": 5.230222222222224,
+                "percentage": 5.23844444444444,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -359,10 +284,10 @@
                 "planetIndex": 184,
                 "name": "Hydrobius",
                 "faction": "Illuminates",
-                "players": 221,
-                "health": 1339106,
+                "players": 195,
+                "health": 1338660,
                 "maxHealth": 1400000,
-                "percentage": 4.349571428571423,
+                "percentage": 4.3814285714285575,
                 "defense": false,
                 "biome": {
                     "slug": "desert",
@@ -374,10 +299,10 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 63,
-                "health": 1742735,
+                "players": 32,
+                "health": 1742629,
                 "maxHealth": 1800000,
-                "percentage": 3.1813888888888897,
+                "percentage": 3.18727777777778,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -389,10 +314,10 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 19,
-                "health": 1774939,
+                "players": 27,
+                "health": 1774900,
                 "maxHealth": 1800000,
-                "percentage": 1.3922777777777782,
+                "percentage": 1.3944444444444457,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -404,7 +329,7 @@
                 "planetIndex": 99,
                 "name": "Alderidge Cove",
                 "faction": "Illuminates",
-                "players": 145,
+                "players": 148,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -419,7 +344,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 283,
+                "players": 451,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -434,7 +359,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 49,
+                "players": 83,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -449,7 +374,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 445,
+                "players": 759,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -464,7 +389,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 368,
+                "players": 492,
                 "health": 3200000,
                 "maxHealth": 3200000,
                 "percentage": 0,
@@ -479,7 +404,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 422,
+                "players": 528,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -494,7 +419,7 @@
                 "planetIndex": 261,
                 "name": "Fury",
                 "faction": "Automatons",
-                "players": 79,
+                "players": 157,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -509,7 +434,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 289,
+                "players": 257,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -524,7 +449,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 24,
+                "players": 25,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -539,7 +464,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 15,
+                "players": 18,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -554,7 +479,7 @@
                 "planetIndex": 262,
                 "name": "K",
                 "faction": "Automatons",
-                "players": 78,
+                "players": 131,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -569,7 +494,7 @@
                 "planetIndex": 186,
                 "name": "Keid",
                 "faction": "Illuminates",
-                "players": 94,
+                "players": 71,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -584,7 +509,7 @@
                 "planetIndex": 187,
                 "name": "Khandark",
                 "faction": "Illuminates",
-                "players": 42,
+                "players": 36,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -599,7 +524,7 @@
                 "planetIndex": 268,
                 "name": "Luxuriant",
                 "faction": "Super Earth",
-                "players": 481,
+                "players": 305,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -614,7 +539,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 689,
+                "players": 1479,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -629,7 +554,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 1121,
+                "players": 3550,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -644,7 +569,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 215,
+                "players": 329,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -656,10 +581,25 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 203,
+                "name": "Menkent",
+                "faction": "Automatons",
+                "players": 4238,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "desolate",
+                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 150,
+                "players": 273,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -674,7 +614,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 1306,
+                "players": 1097,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -689,7 +629,7 @@
                 "planetIndex": 215,
                 "name": "Partion",
                 "faction": "Terminids",
-                "players": 1967,
+                "players": 1808,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -704,7 +644,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 86,
+                "players": 77,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -719,7 +659,7 @@
                 "planetIndex": 225,
                 "name": "Rogue 5",
                 "faction": "Illuminates",
-                "players": 7,
+                "players": 16,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -734,7 +674,7 @@
                 "planetIndex": 229,
                 "name": "Setia",
                 "faction": "Illuminates",
-                "players": 79,
+                "players": 91,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -749,7 +689,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 389,
+                "players": 341,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -764,7 +704,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 598,
+                "players": 601,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -779,7 +719,7 @@
                 "planetIndex": 270,
                 "name": "Unknown",
                 "faction": "Super Earth",
-                "players": 0,
+                "players": 2,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -791,7 +731,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 87,
+                "players": 94,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -806,7 +746,7 @@
                 "planetIndex": 249,
                 "name": "X-45",
                 "faction": "Automatons",
-                "players": 111,
+                "players": 219,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -821,7 +761,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 38,
+                "players": 22,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -836,7 +776,7 @@
                 "planetIndex": 253,
                 "name": "Zzaniah Prime",
                 "faction": "Automatons",
-                "players": 273,
+                "players": 350,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -7306,6 +7246,12 @@
                 "Published": 83721669,
                 "Type": 0,
                 "Message": "<i=3>WARFRONT DEVELOPMENT</i>\n\nSEAF Battalions previously recalled to secure voting sites as detailed in the \"Blazing Electorate\" campaign are now returning to the frontlines. Trigger dicipline encouraged, democratic fervor mandatory."
+            },
+            {
+                "Id": 3953,
+                "Published": 83812042,
+                "Type": 0,
+                "Message": "<i=3>STRATEGIC DIRECTIVE FAILED</i>\n\nDespite the Helldivers overcoming the Automatons on <i=1>MARFARK</i>, the heartless machines retained their foul communist propaganda arrays on <i=1>MENKENT</i>, broadcasting obscene lies regarding the safety of SEAF chemical peacekeeping operations.\n\nThe Ministry of Truth has proactively suspended all civilian broadcasts until speech is correctly free once more, and has escorted any citizen cruelly exposed to the signal to voluntary acoustic re-education facilities."
             }
         ],
         "WarAssignments": [
@@ -7317,7 +7263,7 @@
                     30000000,
                     40000000
                 ],
-                "expiresIn": 156809,
+                "expiresIn": 143379,
                 "setting": {
                     "type": 4,
                     "overrideTitle": "MAJOR ORDER",
@@ -7404,51 +7350,6 @@
                         "id32": 897894480,
                         "amount": 45
                     },
-                    "flags": 1
-                }
-            },
-            {
-                "id32": 25744386,
-                "startTime": 83641940,
-                "progress": [
-                    1,
-                    1
-                ],
-                "expiresIn": 9613,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "STRATEGIC THREAT",
-                    "overrideBrief": "Protect and hold the designated planets in order to destroy the propaganda arrays being established by the Incineration Corps and Jet Brigade, and protect citizens from the Automatons' craven lies.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                198
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                203
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [],
                     "flags": 1
                 }
             }
