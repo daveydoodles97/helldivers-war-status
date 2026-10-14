@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-14T15:21:01.939403 UTC",
+    "last_updated": "2026-10-14T19:29:08.853268 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,609 +74,101 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
-        "CampaignPlanets": [
+        "MajorOrders": [
             {
-                "planetIndex": 246,
-                "name": "Vega Bay",
-                "faction": "Automatons",
-                "players": 20197,
-                "health": 520,
-                "maxHealth": 1700000,
-                "percentage": 99.96941176470588,
-                "defense": true,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": 1792000381.314
-            },
-            {
-                "planetIndex": 170,
-                "name": "Fori Prime",
-                "faction": "Terminids",
-                "players": 17813,
-                "health": 781794,
-                "maxHealth": 900000,
-                "percentage": 13.134,
-                "defense": true,
-                "biome": {
-                    "slug": "canyon",
-                    "description": "This arid, rocky biome covering this world has driven the evolution of exceptionally efficient water usage in its various organisms."
-                },
-                "expireDateTime": 1792057481.314
-            },
-            {
-                "planetIndex": 140,
-                "name": "Alaraph",
-                "faction": "Illuminates",
-                "players": 1138,
-                "health": 1109442,
-                "maxHealth": 1800000,
-                "percentage": 38.36433333333333,
-                "defense": false,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 93,
-                "name": "New Stockholm",
-                "faction": "Illuminates",
-                "players": 87,
-                "health": 803984,
-                "maxHealth": 1000000,
-                "percentage": 19.60159999999999,
-                "defense": false,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 95,
-                "name": "Genesis Prime",
-                "faction": "Illuminates",
-                "players": 189,
-                "health": 1433051,
-                "maxHealth": 1600000,
-                "percentage": 10.434312500000004,
-                "defense": false,
-                "biome": {
-                    "slug": "jungle",
-                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 184,
-                "name": "Hydrobius",
-                "faction": "Illuminates",
-                "players": 571,
-                "health": 1297419,
-                "maxHealth": 1400000,
-                "percentage": 7.327214285714277,
-                "defense": false,
-                "biome": {
-                    "slug": "desert",
-                    "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 143,
-                "name": "Asperoth Prime",
-                "faction": "Illuminates",
-                "players": 67,
-                "health": 1702401,
-                "maxHealth": 1800000,
-                "percentage": 5.422166666666655,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 182,
-                "name": "Heze Bay",
-                "faction": "Illuminates",
-                "players": 58,
-                "health": 1740828,
-                "maxHealth": 1800000,
-                "percentage": 3.287333333333322,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 180,
-                "name": "Herthon Secundus",
-                "faction": "Illuminates",
-                "players": 18,
-                "health": 1774243,
-                "maxHealth": 1800000,
-                "percentage": 1.4309444444444352,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 99,
-                "name": "Alderidge Cove",
-                "faction": "Illuminates",
-                "players": 149,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 114,
-                "name": "Aurora Bay",
-                "faction": "Automatons",
-                "players": 265,
-                "health": 1600000,
-                "maxHealth": 1600000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "tundra",
-                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 70,
-                "name": "Blistica",
-                "faction": "Automatons",
-                "players": 109,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 157,
-                "name": "Charon Prime",
-                "faction": "Automatons",
-                "players": 1312,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "crimsonmoor",
-                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 158,
-                "name": "Choepessa IV",
-                "faction": "Automatons",
-                "players": 688,
-                "health": 3200000,
-                "maxHealth": 3200000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "icemoss",
-                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 159,
-                "name": "Choohe",
-                "faction": "Automatons",
-                "players": 911,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 261,
-                "name": "Fury",
-                "faction": "Automatons",
-                "players": 152,
-                "health": 2000000,
-                "maxHealth": 2000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "magma",
-                    "description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 171,
-                "name": "Gacrux",
-                "faction": "Terminids",
-                "players": 1819,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "undergrowth",
-                    "description": "Tall, gnarled trees flourish across the surface of this forested world. Sunlight filters past dangling vines, to the saturated undergrowth below."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 92,
-                "name": "Grafmere",
-                "faction": "Illuminates",
-                "players": 236,
-                "health": 2100000,
-                "maxHealth": 2100000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "icemoss",
-                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 178,
-                "name": "Haldus",
-                "faction": "Illuminates",
-                "players": 29,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 181,
-                "name": "Hesoe Prime",
-                "faction": "Illuminates",
-                "players": 26,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 262,
-                "name": "K",
-                "faction": "Automatons",
-                "players": 125,
-                "health": 2000000,
-                "maxHealth": 2000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "magma",
-                    "description": "Constant eruptions keep this planet covered in lava flows and utterly inhospitable to Democratic life. It also makes it a treasure trove of rare minerals."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 186,
-                "name": "Keid",
-                "faction": "Illuminates",
-                "players": 101,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 187,
-                "name": "Khandark",
-                "faction": "Illuminates",
-                "players": 35,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 268,
-                "name": "Luxuriant",
-                "faction": "Super Earth",
-                "players": 153,
-                "health": 2000000,
-                "maxHealth": 2000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "lush",
-                    "description": ""
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 199,
-                "name": "Martale",
-                "faction": "Automatons",
-                "players": 1063,
-                "health": 1500000,
-                "maxHealth": 1500000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "tundra",
-                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 200,
-                "name": "Matar Bay",
-                "faction": "Automatons",
-                "players": 1768,
-                "health": 1600000,
-                "maxHealth": 1600000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "highlands",
-                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 201,
-                "name": "Meissa",
-                "faction": "Automatons",
-                "players": 495,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "jungle",
-                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 203,
-                "name": "Menkent",
-                "faction": "Automatons",
-                "players": 1757,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 205,
-                "name": "Merga IV",
-                "faction": "Automatons",
-                "players": 145,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "winter",
-                    "description": "Submerged in eternal winter, this world's frosty peaks glimmer in the light of its too-distant star."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 259,
-                "name": "Omicron",
-                "faction": "Terminids",
-                "players": 1525,
-                "health": 3000000,
-                "maxHealth": 3000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "tundra",
-                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 215,
-                "name": "Partion",
-                "faction": "Terminids",
-                "players": 2937,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desolate",
-                    "description": "Scorching temperatures, high winds, and low precipitation cause a near-constant cycle of fires to sweep this planet, punctuated by short bursts of lush rebirth between infernos."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 224,
-                "name": "RD-4",
-                "faction": "Illuminates",
-                "players": 97,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "moon",
-                    "description": "A rocky, lonely moon with extremely valuable mineral deposits underneath the surface."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 225,
-                "name": "Rogue 5",
-                "faction": "Illuminates",
-                "players": 11,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "jungle",
-                    "description": "Abundant with life, this wet planet is covered in deep oceans, thick forests, and tall grasses."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 229,
-                "name": "Setia",
-                "faction": "Illuminates",
-                "players": 42,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 231,
-                "name": "Siemnot",
-                "faction": "Illuminates",
-                "players": 275,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "rainforest",
-                    "description": "The strange subversion of photosynthesis that sustains the oddly-hued flora that flourishes on this planet remains an intriguing mystery to Super Earth's greatest exo-biologists."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 100,
-                "name": "Trandor",
-                "faction": "Terminids",
-                "players": 1045,
-                "health": 1900000,
-                "maxHealth": 1900000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "tundra",
-                    "description": "A perenially chilly climate has allowed short, colourful shrubs to flourish across this planet's surface."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 90,
-                "name": "Valmox",
-                "faction": "Illuminates",
-                "players": 68,
-                "health": 1900000,
-                "maxHealth": 1900000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "crimsonmoor",
-                    "description": "A crimson algae has propagated wildly across this entire planet, coating its rocky hills with a constant red that masks the spilt blood of the heroes who defend it from tyranny."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 249,
-                "name": "X-45",
-                "faction": "Automatons",
-                "players": 346,
-                "health": 1000000,
-                "maxHealth": 1000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 7,
-                "name": "Zea Rugosia",
-                "faction": "Illuminates",
-                "players": 22,
-                "health": 1700000,
-                "maxHealth": 1700000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "desert",
-                    "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 253,
-                "name": "Zzaniah Prime",
-                "faction": "Automatons",
-                "players": 565,
-                "health": 2000000,
-                "maxHealth": 2000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
-                },
-                "expireDateTime": null
+                "id32": 4184022284,
+                "startTime": 84052800,
+                "progress": [
+                    1,
+                    887,
+                    28498503
+                ],
+                "expiresIn": 418700,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Hold the designated planet, complete the required number of operations, and terminate the mandated quantity of Illuminate hostiles in order to restore peace of mind and full respiratory capacity to our most honored retirees.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                228
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 9,
+                            "values": [
+                                4,
+                                1250000,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                1000000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 1
+                }
             }
-        ]
+        ],
+        "CampaignPlanets": {
+            "error": "API request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        }
     },
     "Helldivers2": {
         "NewsFeed": [
@@ -7147,8 +6639,105 @@
                 "Published": 83959248,
                 "Type": 0,
                 "Message": "<i=3>MAJOR ORDER WON</i>\n\nThanks to the Helldivers' steadfast obedience, the chemical safety demonstration on <i=1>SENGE 23</i> has concluded with the successful defense of the planet from further <i=1>Illuminate</i> interference. \n\nAdditionally, a complete recalibration of SEAF aerosol payloads has resulted in Class A retirees happily reporting an immediate improvement to their well-deserved scenic views, and an abundance of pristine, pine-scented air."
+            },
+            {
+                "Id": 3955,
+                "Published": 84052817,
+                "Type": 0,
+                "Message": "<i=3>NEW MAJOR ORDER</i>\n\nFollowing <i=1>Illuminate</i> interference against Class A elder statespersons, High Command has authorized the AIR (Anti-Illuminate Restitution) initiative. For every Illuminate terminated during this order, this vital charitable fund will receive 0.004 Super Credits.\n\nHelldivers: hold <i=1>SENGE 23</i>, complete <i=1>1,250,000 operations</i> and kill <i=1>1,000,000,000 Illuminate forces</i> to restore peace of mind and full respiratory capacity to our most honored retirees."
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 4184022284,
+                "startTime": 84052800,
+                "progress": [
+                    1,
+                    899,
+                    28723962
+                ],
+                "expiresIn": 418630,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Hold the designated planet, complete the required number of operations, and terminate the mandated quantity of Illuminate hostiles in order to restore peace of mind and full respiratory capacity to our most honored retirees.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                228
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 9,
+                            "values": [
+                                4,
+                                1250000,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                3,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 3,
+                            "values": [
+                                4,
+                                0,
+                                1000000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 1
+                }
+            }
+        ]
     }
 }
