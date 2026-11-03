@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-03T09:27:38.374296 UTC",
+    "last_updated": "2026-11-03T17:12:15.914331 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,61 +74,102 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [],
-        "CampaignPlanets": [
+        "MajorOrders": [
             {
-                "planetIndex": 211,
-                "name": "Nivel 43",
-                "faction": "Terminids",
-                "players": 1822,
-                "health": 716915,
-                "maxHealth": 850000,
-                "percentage": 15.657058823529411,
-                "defense": true,
-                "biome": {
-                    "slug": "swamp",
-                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
-                },
-                "expireDateTime": 1793715227.764
-            },
+                "id32": 1636665659,
+                "startTime": 85770480,
+                "progress": [
+                    75606138,
+                    0
+                ],
+                "expiresIn": 416960,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Eliminate the mandated number of Terminids in order to restore public confidence, quell unlawful rumours of TCS+ failures, and safeguard Federal prosperity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                700000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                170
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 1
+                }
+            }
+        ],
+        "CampaignPlanets": [
             {
                 "planetIndex": 129,
                 "name": "Acamar IV",
                 "faction": "Terminids",
-                "players": 4938,
-                "health": 2049396,
+                "players": 6254,
+                "health": 1842392,
                 "maxHealth": 2250000,
-                "percentage": 8.915733333333336,
+                "percentage": 18.115911111111103,
                 "defense": true,
                 "biome": {
                     "slug": "highlands",
                     "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
                 },
-                "expireDateTime": 1793810637.764
-            },
-            {
-                "planetIndex": 207,
-                "name": "Mintoria",
-                "faction": "Automatons",
-                "players": 425,
-                "health": 2174471,
-                "maxHealth": 2250000,
-                "percentage": 3.356844444444434,
-                "defense": true,
-                "biome": {
-                    "slug": "highlands",
-                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-                },
-                "expireDateTime": 1793714167.764
+                "expireDateTime": 1793810655.266
             },
             {
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 108,
-                "health": 947727,
+                "players": 54,
+                "health": 946809,
                 "maxHealth": 1800000,
-                "percentage": 47.348499999999994,
+                "percentage": 47.399499999999996,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -140,10 +181,10 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 228,
-                "health": 572156,
+                "players": 82,
+                "health": 569278,
                 "maxHealth": 1000000,
-                "percentage": 42.7844,
+                "percentage": 43.072199999999995,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -155,10 +196,10 @@
                 "planetIndex": 170,
                 "name": "Fori Prime",
                 "faction": "Terminids",
-                "players": 771,
-                "health": 621645,
+                "players": 31150,
+                "health": 687176,
                 "maxHealth": 1000000,
-                "percentage": 37.835499999999996,
+                "percentage": 31.282399999999996,
                 "defense": false,
                 "biome": {
                     "slug": "canyon",
@@ -167,28 +208,13 @@
                 "expireDateTime": null
             },
             {
-                "planetIndex": 158,
-                "name": "Choepessa IV",
-                "faction": "Automatons",
-                "players": 5576,
-                "health": 2129712,
-                "maxHealth": 3200000,
-                "percentage": 33.4465,
-                "defense": false,
-                "biome": {
-                    "slug": "icemoss",
-                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
-                },
-                "expireDateTime": null
-            },
-            {
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 2029,
-                "health": 1169074,
+                "players": 359,
+                "health": 1160618,
                 "maxHealth": 1600000,
-                "percentage": 26.932874999999996,
+                "percentage": 27.461375000000004,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
@@ -197,13 +223,28 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 158,
+                "name": "Choepessa IV",
+                "faction": "Automatons",
+                "players": 3081,
+                "health": 2381452,
+                "maxHealth": 3200000,
+                "percentage": 25.579624999999993,
+                "defense": false,
+                "biome": {
+                    "slug": "icemoss",
+                    "description": "Ice and moss-covered rock can be found across most of the surface of this planet."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 143,
                 "name": "Asperoth Prime",
                 "faction": "Illuminates",
-                "players": 52,
-                "health": 1667847,
+                "players": 24,
+                "health": 1667341,
                 "maxHealth": 1800000,
-                "percentage": 7.3418333333333266,
+                "percentage": 7.369944444444442,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -215,10 +256,10 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 66,
-                "health": 1680900,
+                "players": 31,
+                "health": 1680375,
                 "maxHealth": 1800000,
-                "percentage": 6.61666666666666,
+                "percentage": 6.645833333333329,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -230,10 +271,10 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 26,
-                "health": 1740022,
+                "players": 13,
+                "health": 1739592,
                 "maxHealth": 1800000,
-                "percentage": 3.3321111111111037,
+                "percentage": 3.3559999999999945,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -245,7 +286,7 @@
                 "planetIndex": 99,
                 "name": "Alderidge Cove",
                 "faction": "Illuminates",
-                "players": 121,
+                "players": 49,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -260,7 +301,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 57,
+                "players": 91,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -275,7 +316,7 @@
                 "planetIndex": 144,
                 "name": "Bellatrix",
                 "faction": "Illuminates",
-                "players": 269,
+                "players": 122,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -290,7 +331,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 10,
+                "players": 24,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -305,7 +346,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 122,
+                "players": 207,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -320,7 +361,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 108,
+                "players": 224,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -335,7 +376,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 351,
+                "players": 683,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -350,7 +391,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 547,
+                "players": 300,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -365,7 +406,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 24,
+                "players": 8,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -380,7 +421,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 50,
+                "players": 17,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -395,7 +436,7 @@
                 "planetIndex": 262,
                 "name": "K",
                 "faction": "Automatons",
-                "players": 57,
+                "players": 88,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -410,7 +451,7 @@
                 "planetIndex": 186,
                 "name": "Keid",
                 "faction": "Illuminates",
-                "players": 38,
+                "players": 21,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -425,7 +466,7 @@
                 "planetIndex": 187,
                 "name": "Khandark",
                 "faction": "Illuminates",
-                "players": 7,
+                "players": 10,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -440,7 +481,7 @@
                 "planetIndex": 268,
                 "name": "Luxuriant",
                 "faction": "Super Earth",
-                "players": 12,
+                "players": 22,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -455,7 +496,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 180,
+                "players": 296,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -470,7 +511,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 303,
+                "players": 473,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -485,7 +526,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 59,
+                "players": 116,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -500,7 +541,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 142,
+                "players": 279,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -515,7 +556,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 33,
+                "players": 80,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -527,10 +568,40 @@
                 "expireDateTime": null
             },
             {
+                "planetIndex": 207,
+                "name": "Mintoria",
+                "faction": "Automatons",
+                "players": 216,
+                "health": 1300000,
+                "maxHealth": 1300000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "highlands",
+                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
+                },
+                "expireDateTime": null
+            },
+            {
+                "planetIndex": 211,
+                "name": "Nivel 43",
+                "faction": "Terminids",
+                "players": 865,
+                "health": 1000000,
+                "maxHealth": 1000000,
+                "percentage": 0,
+                "defense": false,
+                "biome": {
+                    "slug": "swamp",
+                    "description": "The lifeless grey of this planet is interrupted only by the violet flowers that grow from strange, parasitic outcroppings."
+                },
+                "expireDateTime": null
+            },
+            {
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 427,
+                "players": 455,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -545,7 +616,7 @@
                 "planetIndex": 215,
                 "name": "Partion",
                 "faction": "Terminids",
-                "players": 449,
+                "players": 710,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -560,7 +631,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 100,
+                "players": 53,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -575,7 +646,7 @@
                 "planetIndex": 225,
                 "name": "Rogue 5",
                 "faction": "Illuminates",
-                "players": 22,
+                "players": 8,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -590,7 +661,7 @@
                 "planetIndex": 229,
                 "name": "Setia",
                 "faction": "Illuminates",
-                "players": 28,
+                "players": 10,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -605,7 +676,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 118,
+                "players": 133,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -620,7 +691,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 298,
+                "players": 366,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -635,7 +706,7 @@
                 "planetIndex": 242,
                 "name": "Ustotu",
                 "faction": "Automatons",
-                "players": 196,
+                "players": 233,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -650,7 +721,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 165,
+                "players": 62,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -665,7 +736,7 @@
                 "planetIndex": 249,
                 "name": "X-45",
                 "faction": "Automatons",
-                "players": 17,
+                "players": 33,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -680,7 +751,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 153,
+                "players": 66,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -688,21 +759,6 @@
                 "biome": {
                     "slug": "desert",
                     "description": "A desert planet prone to unpredictable and dangerous,sand twisters."
-                },
-                "expireDateTime": null
-            },
-            {
-                "planetIndex": 253,
-                "name": "Zzaniah Prime",
-                "faction": "Automatons",
-                "players": 63,
-                "health": 2000000,
-                "maxHealth": 2000000,
-                "percentage": 0,
-                "defense": false,
-                "biome": {
-                    "slug": "mesa",
-                    "description": "A blazing-hot desert planet, it's rocky mesas are the sole interruptions to the endless sea of dunes."
                 },
                 "expireDateTime": null
             }
@@ -7363,8 +7419,91 @@
                 "Published": 85715754,
                 "Type": 0,
                 "Message": "<i=3>MISINFORMATION ALERT</i>\n\nHelldivers are to be aware of recent falsified reports fraudulently claiming that Termicide 2.0 exposure has increased the spread of the Gloom. The Ministry of Truth is investigating the source of this blatant attempt to deceive our citizens with outlandish lies. In the meantime, all personnel are ordered to report any credulous discussion of these rumors."
+            },
+            {
+                "Id": 3986,
+                "Published": 85770496,
+                "Type": 0,
+                "Message": "<i=3>NEW MAJOR ORDER</i>\n\nSeditious and entirely false rumours regarding TCS+ malfunctions are spreading across civilian channels, resulting in unfounded economic panic. SEAF Intelligence confirms: there is zero actionable peril to fully insured citizens.\n\nTo restore public confidence, the Helldivers are ordered to <i=1>eliminate 700,000,000 Terminids</i>. To aid in swiftly safeguarding Federal prosperity, High Command has authorized and subsidized fleetwide availability of the <i=1>INCINERATOR FRV Stratagem</i>."
+            },
+            {
+                "Id": 3987,
+                "Published": 85771438,
+                "Type": 0,
+                "Message": "<i=3>GLOOM SPREAD DETECTED</i>\n\nThe Gloom is spreading at an unprecedented pace. <i=1>GACRUX</i> is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. \n\nWorse, there are indications of new <i=1>Hive Worlds</i> forming, corrupting biomes formerly resistant to severe infestation. This may represent a novel strain of Gloom spores, adapted to more extreme conditions.\n"
             }
         ],
-        "WarAssignments": []
+        "WarAssignments": [
+            {
+                "id32": 1636665659,
+                "startTime": 85770480,
+                "progress": [
+                    75967626,
+                    0
+                ],
+                "expiresIn": 416890,
+                "setting": {
+                    "type": 4,
+                    "overrideTitle": "MAJOR ORDER",
+                    "overrideBrief": "Eliminate the mandated number of Terminids in order to restore public confidence, quell unlawful rumours of TCS+ failures, and safeguard Federal prosperity.",
+                    "taskDescription": "",
+                    "tasks": [
+                        {
+                            "type": 3,
+                            "values": [
+                                2,
+                                0,
+                                700000000,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "valueTypes": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                6,
+                                5,
+                                8,
+                                9,
+                                11,
+                                12
+                            ]
+                        },
+                        {
+                            "type": 13,
+                            "values": [
+                                1,
+                                1,
+                                170
+                            ],
+                            "valueTypes": [
+                                3,
+                                11,
+                                12
+                            ]
+                        }
+                    ],
+                    "rewards": [
+                        {
+                            "type": 1,
+                            "id32": 897894480,
+                            "amount": 45
+                        }
+                    ],
+                    "reward": {
+                        "type": 1,
+                        "id32": 897894480,
+                        "amount": 45
+                    },
+                    "flags": 1
+                }
+            }
+        ]
     }
 }
