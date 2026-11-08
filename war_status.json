@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-08T07:51:59.055662 UTC",
+    "last_updated": "2026-11-08T14:33:37.624737 UTC",
     "SuperEarth": {
         "WarNews": [
             {
@@ -74,175 +74,16 @@
             }
         ],
         "NewsMessages": null,
-        "MajorOrders": [
-            {
-                "id32": 1636665659,
-                "startTime": 85770480,
-                "progress": [
-                    700000000,
-                    1
-                ],
-                "expiresIn": 18590,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Eliminate the mandated number of Terminids in order to restore public confidence, quell unlawful rumours of TCS+ failures, and safeguard Federal prosperity.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                700000000,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 45
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 45
-                    },
-                    "flags": 1
-                }
-            },
-            {
-                "id32": 3504692473,
-                "startTime": 85856280,
-                "progress": [
-                    1,
-                    1,
-                    1,
-                    0
-                ],
-                "expiresIn": 17986,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "STRATEGIC THREAT",
-                    "overrideBrief": "Investigate and, if warranted, hold the designated planets, in order to verify highly unlikely reports of TCS+ breaches.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                270
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                78
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                128
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                130
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [],
-                    "flags": 1
-                }
-            }
-        ],
+        "MajorOrders": [],
         "CampaignPlanets": [
-            {
-                "planetIndex": 130,
-                "name": "Achernar Secundus",
-                "faction": "Terminids",
-                "players": 29879,
-                "health": 234466,
-                "maxHealth": 2000000,
-                "percentage": 88.2767,
-                "defense": false,
-                "biome": {
-                    "slug": "highlands",
-                    "description": "Rocky outcroppings punctuate fields of tall grass in a planet dominated by misty highland terrain."
-                },
-                "expireDateTime": null
-            },
             {
                 "planetIndex": 140,
                 "name": "Alaraph",
                 "faction": "Illuminates",
-                "players": 60,
-                "health": 939335,
+                "players": 112,
+                "health": 938556,
                 "maxHealth": 1800000,
-                "percentage": 47.81472222222222,
+                "percentage": 47.858,
                 "defense": false,
                 "biome": {
                     "slug": "swamp",
@@ -254,10 +95,10 @@
                 "planetIndex": 93,
                 "name": "New Stockholm",
                 "faction": "Illuminates",
-                "players": 131,
-                "health": 548726,
+                "players": 190,
+                "health": 547131,
                 "maxHealth": 1000000,
-                "percentage": 45.127399999999994,
+                "percentage": 45.286899999999996,
                 "defense": false,
                 "biome": {
                     "slug": "winter",
@@ -269,10 +110,10 @@
                 "planetIndex": 95,
                 "name": "Genesis Prime",
                 "faction": "Illuminates",
-                "players": 446,
-                "health": 1133309,
+                "players": 943,
+                "health": 1129798,
                 "maxHealth": 1600000,
-                "percentage": 29.168187500000002,
+                "percentage": 29.387625,
                 "defense": false,
                 "biome": {
                     "slug": "jungle",
@@ -284,10 +125,10 @@
                 "planetIndex": 143,
                 "name": "Asperoth Prime",
                 "faction": "Illuminates",
-                "players": 25,
-                "health": 1664450,
+                "players": 40,
+                "health": 1664335,
                 "maxHealth": 1800000,
-                "percentage": 7.5305555555555515,
+                "percentage": 7.536944444444444,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -299,10 +140,10 @@
                 "planetIndex": 182,
                 "name": "Heze Bay",
                 "faction": "Illuminates",
-                "players": 53,
-                "health": 1674135,
+                "players": 52,
+                "health": 1673819,
                 "maxHealth": 1800000,
-                "percentage": 6.992499999999993,
+                "percentage": 7.010055555555553,
                 "defense": false,
                 "biome": {
                     "slug": "mesa",
@@ -314,10 +155,10 @@
                 "planetIndex": 180,
                 "name": "Herthon Secundus",
                 "faction": "Illuminates",
-                "players": 18,
-                "health": 1737192,
+                "players": 15,
+                "health": 1737014,
                 "maxHealth": 1800000,
-                "percentage": 3.4893333333333345,
+                "percentage": 3.4992222222222154,
                 "defense": false,
                 "biome": {
                     "slug": "desolate",
@@ -329,7 +170,7 @@
                 "planetIndex": 129,
                 "name": "Acamar IV",
                 "faction": "Terminids",
-                "players": 643,
+                "players": 3277,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -344,7 +185,7 @@
                 "planetIndex": 99,
                 "name": "Alderidge Cove",
                 "faction": "Illuminates",
-                "players": 71,
+                "players": 57,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -359,7 +200,7 @@
                 "planetIndex": 114,
                 "name": "Aurora Bay",
                 "faction": "Automatons",
-                "players": 122,
+                "players": 118,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -374,7 +215,7 @@
                 "planetIndex": 144,
                 "name": "Bellatrix",
                 "faction": "Illuminates",
-                "players": 27,
+                "players": 65,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -389,7 +230,7 @@
                 "planetIndex": 70,
                 "name": "Blistica",
                 "faction": "Automatons",
-                "players": 53,
+                "players": 30,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -404,7 +245,7 @@
                 "planetIndex": 157,
                 "name": "Charon Prime",
                 "faction": "Automatons",
-                "players": 401,
+                "players": 409,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -419,7 +260,7 @@
                 "planetIndex": 158,
                 "name": "Choepessa IV",
                 "faction": "Automatons",
-                "players": 2778,
+                "players": 13190,
                 "health": 3200000,
                 "maxHealth": 3200000,
                 "percentage": 0,
@@ -434,7 +275,7 @@
                 "planetIndex": 159,
                 "name": "Choohe",
                 "faction": "Automatons",
-                "players": 286,
+                "players": 335,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -449,7 +290,7 @@
                 "planetIndex": 75,
                 "name": "Esker",
                 "faction": "Terminids",
-                "players": 547,
+                "players": 2451,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -464,7 +305,7 @@
                 "planetIndex": 171,
                 "name": "Gacrux",
                 "faction": "Terminids",
-                "players": 396,
+                "players": 1742,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -479,7 +320,7 @@
                 "planetIndex": 92,
                 "name": "Grafmere",
                 "faction": "Illuminates",
-                "players": 241,
+                "players": 377,
                 "health": 2100000,
                 "maxHealth": 2100000,
                 "percentage": 0,
@@ -494,7 +335,7 @@
                 "planetIndex": 178,
                 "name": "Haldus",
                 "faction": "Illuminates",
-                "players": 10,
+                "players": 27,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -509,7 +350,7 @@
                 "planetIndex": 181,
                 "name": "Hesoe Prime",
                 "faction": "Illuminates",
-                "players": 47,
+                "players": 50,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -524,7 +365,7 @@
                 "planetIndex": 262,
                 "name": "K",
                 "faction": "Automatons",
-                "players": 110,
+                "players": 159,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -539,7 +380,7 @@
                 "planetIndex": 186,
                 "name": "Keid",
                 "faction": "Illuminates",
-                "players": 42,
+                "players": 67,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -569,7 +410,7 @@
                 "planetIndex": 268,
                 "name": "Luxuriant",
                 "faction": "Super Earth",
-                "players": 16,
+                "players": 24,
                 "health": 2000000,
                 "maxHealth": 2000000,
                 "percentage": 0,
@@ -584,7 +425,7 @@
                 "planetIndex": 199,
                 "name": "Martale",
                 "faction": "Automatons",
-                "players": 556,
+                "players": 615,
                 "health": 1500000,
                 "maxHealth": 1500000,
                 "percentage": 0,
@@ -599,7 +440,7 @@
                 "planetIndex": 200,
                 "name": "Matar Bay",
                 "faction": "Automatons",
-                "players": 1218,
+                "players": 961,
                 "health": 1600000,
                 "maxHealth": 1600000,
                 "percentage": 0,
@@ -614,7 +455,7 @@
                 "planetIndex": 201,
                 "name": "Meissa",
                 "faction": "Automatons",
-                "players": 133,
+                "players": 149,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -629,7 +470,7 @@
                 "planetIndex": 203,
                 "name": "Menkent",
                 "faction": "Automatons",
-                "players": 462,
+                "players": 428,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -644,7 +485,7 @@
                 "planetIndex": 205,
                 "name": "Merga IV",
                 "faction": "Automatons",
-                "players": 89,
+                "players": 118,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -659,7 +500,7 @@
                 "planetIndex": 207,
                 "name": "Mintoria",
                 "faction": "Automatons",
-                "players": 140,
+                "players": 142,
                 "health": 1300000,
                 "maxHealth": 1300000,
                 "percentage": 0,
@@ -674,7 +515,7 @@
                 "planetIndex": 211,
                 "name": "Nivel 43",
                 "faction": "Terminids",
-                "players": 392,
+                "players": 1553,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -689,7 +530,7 @@
                 "planetIndex": 259,
                 "name": "Omicron",
                 "faction": "Terminids",
-                "players": 506,
+                "players": 1343,
                 "health": 3000000,
                 "maxHealth": 3000000,
                 "percentage": 0,
@@ -704,7 +545,7 @@
                 "planetIndex": 215,
                 "name": "Partion",
                 "faction": "Terminids",
-                "players": 734,
+                "players": 1620,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -719,7 +560,7 @@
                 "planetIndex": 224,
                 "name": "RD-4",
                 "faction": "Illuminates",
-                "players": 90,
+                "players": 116,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -734,7 +575,7 @@
                 "planetIndex": 225,
                 "name": "Rogue 5",
                 "faction": "Illuminates",
-                "players": 12,
+                "players": 9,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -749,7 +590,7 @@
                 "planetIndex": 229,
                 "name": "Setia",
                 "faction": "Illuminates",
-                "players": 12,
+                "players": 18,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -764,7 +605,7 @@
                 "planetIndex": 231,
                 "name": "Siemnot",
                 "faction": "Illuminates",
-                "players": 124,
+                "players": 197,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -779,7 +620,7 @@
                 "planetIndex": 100,
                 "name": "Trandor",
                 "faction": "Terminids",
-                "players": 640,
+                "players": 1279,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -794,7 +635,7 @@
                 "planetIndex": 242,
                 "name": "Ustotu",
                 "faction": "Automatons",
-                "players": 290,
+                "players": 405,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -809,7 +650,7 @@
                 "planetIndex": 90,
                 "name": "Valmox",
                 "faction": "Illuminates",
-                "players": 63,
+                "players": 114,
                 "health": 1900000,
                 "maxHealth": 1900000,
                 "percentage": 0,
@@ -824,7 +665,7 @@
                 "planetIndex": 249,
                 "name": "X-45",
                 "faction": "Automatons",
-                "players": 45,
+                "players": 61,
                 "health": 1000000,
                 "maxHealth": 1000000,
                 "percentage": 0,
@@ -839,7 +680,7 @@
                 "planetIndex": 7,
                 "name": "Zea Rugosia",
                 "faction": "Illuminates",
-                "players": 209,
+                "players": 307,
                 "health": 1700000,
                 "maxHealth": 1700000,
                 "percentage": 0,
@@ -7531,152 +7372,20 @@
                 "Published": 85856296,
                 "Type": 0,
                 "Message": "<i=3>NEW STRATEGIC DIRECTIVE</i>\n\nIncongruously, increases in TCS+ breaches continue to be reported.\n\nWhile these reports will almost certainly be attributed to departmental cost-cutting during routine rewiring of multiple TCS+ sections, Helldivers with surplus operational capacity are invited to verify their veracity, should they choose.\n\nHelldivers: investigate and, if warranted, <i=1>hold FRONTERIA, CRIMSICA, DARIUS II and ACHERNAR SECUNDUS</i>."
-            }
-        ],
-        "WarAssignments": [
-            {
-                "id32": 1636665659,
-                "startTime": 85770480,
-                "progress": [
-                    700000000,
-                    1
-                ],
-                "expiresIn": 18570,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "MAJOR ORDER",
-                    "overrideBrief": "Eliminate the mandated number of Terminids in order to restore public confidence, quell unlawful rumours of TCS+ failures, and safeguard Federal prosperity.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 3,
-                            "values": [
-                                2,
-                                0,
-                                700000000,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "valueTypes": [
-                                1,
-                                2,
-                                3,
-                                4,
-                                6,
-                                5,
-                                8,
-                                9,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                170
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [
-                        {
-                            "type": 1,
-                            "id32": 897894480,
-                            "amount": 45
-                        }
-                    ],
-                    "reward": {
-                        "type": 1,
-                        "id32": 897894480,
-                        "amount": 45
-                    },
-                    "flags": 1
-                }
             },
             {
-                "id32": 3504692473,
-                "startTime": 85856280,
-                "progress": [
-                    1,
-                    1,
-                    1,
-                    0
-                ],
-                "expiresIn": 17966,
-                "setting": {
-                    "type": 4,
-                    "overrideTitle": "STRATEGIC THREAT",
-                    "overrideBrief": "Investigate and, if warranted, hold the designated planets, in order to verify highly unlikely reports of TCS+ breaches.",
-                    "taskDescription": "",
-                    "tasks": [
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                270
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                78
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                128
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        },
-                        {
-                            "type": 13,
-                            "values": [
-                                1,
-                                1,
-                                130
-                            ],
-                            "valueTypes": [
-                                3,
-                                11,
-                                12
-                            ]
-                        }
-                    ],
-                    "rewards": [],
-                    "flags": 1
-                }
+                "Id": 3990,
+                "Published": 86201922,
+                "Type": 0,
+                "Message": "<i=3>STRATEGIC DIRECTIVE COMPLETED</i>\n\nThe Helldivers successfully held <i=1>CRIMSICA, FRONTERIA, DARIUS II and ACHERNAR SECUNDUS</i> and in doing so, confirmed which of the reported TCS+ breaches were truly legitimate.\n\nTo ensure all sections of TCS+ system safely report a return to maximal efficiency, High Command has directed additional SEAF mobilizations\u2014the most capable pest control in the known galaxy\u2014to wall off affected planets for the remainder of this campaign.\n"
+            },
+            {
+                "Id": 3991,
+                "Published": 86202512,
+                "Type": 0,
+                "Message": "<i=3>MAJOR ORDER WON</i>\n\nThe Helldivers successfully eliminated the mandated quota of Terminids with their judicious use of the INCINERATOR FRV Stratagem, delivering a crushing blow to alien insolence, and silencing equally dangerous rumours of TCS+ malfunctions.\n\nCoupled with the assurance that any anomalous readings along the perimeter will be suitably scrutinized, domestic markets immediately responded with patriotic vigor, reaffirming the infallibility of Super Earth, economic or otherwise."
             }
-        ]
+        ],
+        "WarAssignments": []
     }
 }
